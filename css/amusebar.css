@@ -1,0 +1,18 @@
+body {
+    /* font-family: "trebuchet ms", Arial, Tahoma, Verdana, sans-serif;*/
+    /* font-family: "trebuchet ms";*/
+    /* font-family: Arial;*/
+    /* font-family: Tahoma;*/
+    /* font-family: Verdana;*/
+    /* font-family: sans-serif;*/
+
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+.text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
