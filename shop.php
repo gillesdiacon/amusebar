@@ -31,7 +31,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col h3">
+                <div class="col">
                     <div class="card">
                         <div class="col">
                             <div class="card-header p-0 bg-transparent">
