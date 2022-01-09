@@ -23,7 +23,7 @@
                             <a class="nav-link <?php if('event'==$activeMenuPage) echo 'active' ?>" href="/event.php">Evénements</a>
                         </li>
                         <li class="nav-item h3 px-1">
-                            <a class="nav-link <?php if('contact'==$activeMenuPage) echo 'active' ?>" href="/contacts.php">Contacts</a>
+                            <a class="nav-link <?php if('contact'==$activeMenuPage) echo 'active' ?>" href="/contact.php">Contacts</a>
                         </li>
                     </ul>
                 </div>
