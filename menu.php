@@ -17,7 +17,7 @@ require_once("init.php");
         ?>
 
         <div id="events" class="pt-3 min-vh-100" style="background-image: url('image/menu_bg.jpg'); background-size: cover">
-            <div class="container-fluid w-75">
+            <div class="container-fluid w-75 text-white">
                 <h1><?php echo $activeMenuTitle?></h1>
 
                 <p>Notre carte de petite restauration vous propose des mets faits maison à partir de produits du terroir.
