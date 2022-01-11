@@ -165,7 +165,7 @@ require_once("init.php");
         </div>
 
         <!-- Timetable -->
-        <div id="timetable" class="pt-3 min-vh-100" style="background-image: url('image/timetable_bg.jpg'); background-size: cover">
+        <div id="timetable" class="pt-3 min-vh-100 text-white" style="background-image: url('image/timetable_bg.jpg'); background-size: cover">
             <div class="container-fluid w-75">
                 <div class="h1 py-3">Horaires</div>
                 <div class="row pt-3">

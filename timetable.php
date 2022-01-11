@@ -1,4 +1,4 @@
-        <table class="table w-50">
+        <table class="table w-50 text-white">
             <tr class="border-top">
                 <td class="text-end">Lundi:</td>
                 <td class="text-center">15h30</td>
