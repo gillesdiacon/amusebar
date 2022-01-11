@@ -25,11 +25,12 @@
 
         <div id="events" class="pt-3 min-vh-100 container-fluid w-75">
             <h1><?php echo $activeMenuTitle?></h1>
-            <div class="row">
-                <div class="col h3">
-                    List des jeux en magasin
-                </div>
-            </div>
+
+            <p>Vous trouverez sûrement votre bonheur dans notre magasin de jeux. Pour offrir ou pour votre plaisir,
+                notre sommelier du jeu se fera un plaisir de vous conseiller dans le vaste choix du monde du jeu de société.</p>
+
+            <p>Si d'aventure, nous n'avons pas le jeu souhaité, nous le commanderons pour vous et nous vous le livrerons à domicile le plus rapidement possible.</p>
+
             <div class="row">
                 <div class="col">
                     <div class="card">
@@ -134,11 +135,12 @@
             </div>
         </div>
 
+        <div id="charte" class="pt-3 min-vh-100 container-fluid w-75">
+            <?php require_once("partners.php"); ?>
+        </div>
 
         <?php require_once("footer.php"); ?>
 
-
-            
         <?php require_once("finish.php"); ?>
 
     </body>

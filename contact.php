@@ -43,11 +43,12 @@ require_once("init.php");
             </div>
         </div>
 
+        <div id="charte" class="pt-3 min-vh-100 container-fluid w-75">
+            <?php require_once("partners.php"); ?>
+        </div>
 
         <?php require_once("footer.php"); ?>
 
-
-            
         <?php require_once("finish.php"); ?>
 
     </body>

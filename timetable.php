@@ -15,7 +15,7 @@
             </tr>
             <tr>
                 <td class="text-end">Mercredi:</td>
-                <td class="text-center">12h00</td>
+                <td class="text-center">11h30</td>
                 <td class="text-center">-</td>
                 <td class="text-center">23h00</td>
                 <td class="px-2"></td>
@@ -29,9 +29,9 @@
             </tr>
             <tr>
                 <td class="text-end">Vendredi:</td>
-                <td class="text-center">15h30</td>
+                <td class="text-center">11h30</td>
                 <td class="text-center">-</td>
-                <td class="text-center">02h00</td>
+                <td class="text-center">23h00</td>
                 <td class="px-2"></td>
             </tr>
             <tr>
