@@ -16,7 +16,7 @@ require_once("init.php");
             require_once("nav.php");
         ?>
 
-        <div id="bar" class="pt-3 min-vh-100" style="background-image: url('image/bar_bg.png'); background-size: cover">
+        <div id="bar" class="pt-6 min-vh-100" style="background-image: url('image/bar_bg.png'); background-size: cover">
             <div class="container-fluid w-75 text-white">
                 <h1><?php echo $activeMenuTitle?></h1>
                 <p>Grâce à notre partenariat avec l'Association Ludesco, nous avons à disposition leur collection de plus de 1000 jeux dans notre bar.</p>

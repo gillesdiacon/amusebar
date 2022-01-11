@@ -16,33 +16,8 @@ require_once("init.php");
             require_once("nav.php");
         ?>
 
-        <nav class="navbar navbar-expand-lg navbar-light pb-0">
-            <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div style="width: 20rem">&nbsp;</div>
-                <div class="collapse navbar-collapse" id="homeNav">
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link h5 py-0" href="#concept">Concept</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link h5 py-0" href="#charte">Charte</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link h5 py-0" href="#team">Equipe</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link h5 py-0" href="#timetable">Horaires</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-
         <!-- Concept -->
-        <div id="concept" class="pt-3 min-vh-100" style="background-image: url('image/concept_bg.png'); background-size: cover">
+        <div id="concept" class="pt-8 min-vh-100" style="background-image: url('image/concept_bg.png'); background-size: cover">
         <div class="container-fluid w-75">
             <h1>Concept</h1>
             <p class="ps-4">L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.

@@ -21,6 +21,17 @@ a, a:hover {
     text-justify: inter-word;
 }
 
+.pt-6 {
+    padding-top: 3.5rem !important
+}
+.pt-7 {
+    padding-top: 4rem !important
+}
+
+.pt-8 {
+    padding-top: 4.5rem !important
+}
+
 /*.footer {*/
 /*    position: absolute;*/
 /*    bottom: 0;*/

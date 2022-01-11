@@ -16,7 +16,7 @@ require_once("init.php");
             require_once("nav.php");
         ?>
 
-        <div id="events" class="pt-3 min-vh-100 container-fluid w-75">
+        <div id="events" class="pt-6 min-vh-100 container-fluid w-75">
             <h1><?php echo $activeMenuTitle?></h1>
 
         </div>

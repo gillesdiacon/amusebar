@@ -23,7 +23,7 @@
             require_once("nav.php");
         ?>
 
-        <div id="events" class="pt-3 min-vh-100" style="background-image: url('image/shop_bg.png'); background-size: cover">
+        <div id="events" class="pt-6 min-vh-100" style="background-image: url('image/shop_bg.png'); background-size: cover">
             <div class="container-fluid w-75 text-white">
                 <h1><?php echo $activeMenuTitle?></h1>
 
