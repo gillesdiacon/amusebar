@@ -37,9 +37,9 @@ require_once("init.php");
         </div>
 
         <!-- Charte -->
-        <div id="charte" class="pt-3 min-vh-100" style="background-image: url('image/convention_bg.png'); background-size: cover">
+        <div id="charte" class="pt-8 min-vh-100" style="background-image: url('image/convention_bg.png'); background-size: cover">
             <div class="container-fluid w-75">
-                <h1>Charte de l'Amuse-Bar</h1>
+                <div class="h1 py-3">Charte de l'Amuse-Bar</div>
                 <ol>
                     <li>
                         <p>L'Amuse-Bar est un lieu de partage. Si vous cherchez un moment convivial en famille ou entre ami.e.s, vous êtes au bon endroit.
@@ -89,8 +89,8 @@ require_once("init.php");
         </div>
 
         <!-- Team -->
-        <div class="pt-3 min-vh-100">
-            <div id="team" class="container-fluid w-75">
+        <div id="team" class="pt-8 min-vh-100">
+            <div class="container-fluid w-75">
                 <div class="h1 py-3">Equipe</div>
 
                 <div class="py-4 row">
@@ -140,7 +140,7 @@ require_once("init.php");
         </div>
 
         <!-- Timetable -->
-        <div id="timetable" class="pt-3 min-vh-100" style="background-image: url('image/timetable_bg.png'); background-size: cover">
+        <div id="timetable" class="pt-8 min-vh-100" style="background-image: url('image/timetable_bg.png'); background-size: cover">
             <div class="container-fluid w-75 text-white">
                 <div class="h1 py-3">Horaires</div>
                 <div class="row pt-3">
