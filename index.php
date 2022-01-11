@@ -42,8 +42,8 @@ require_once("init.php");
         </nav>
 
         <!-- Concept -->
-        <div id="concept" class="pt-3 min-vh-100 " style="background-image: url('image/concept_bg.jpg'); background-size: cover">
-        <div class="container-fluid w-75">
+        <div id="concept" class="pt-3 min-vh-100" style="background-image: url('image/concept_bg.jpg'); background-size: cover">
+        <div class="container-fluid w-75 text-white">
             <h1>Concept</h1>
             <p class="ps-4">L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.
                 Nous sommes trois passionnés de jeux qui avions le rêve d'ouvrir un bar dans lequel les gens pourraient se retrouver pour jouer,
@@ -62,7 +62,7 @@ require_once("init.php");
         </div>
 
         <!-- Charte -->
-        <div id="charte" class="pt-3 min-vh-100 " style="background-image: url('image/convention_bg.jpg'); background-size: cover">
+        <div id="charte" class="pt-3 min-vh-100" style="background-image: url('image/convention_bg.jpg'); background-size: cover">
             <div class="container-fluid w-75">
                 <h1>Charte de l'Amuse-Bar</h1>
                 <ol>
@@ -165,8 +165,8 @@ require_once("init.php");
         </div>
 
         <!-- Timetable -->
-        <div id="timetable" class="pt-3 min-vh-100 text-white" style="background-image: url('image/timetable_bg.jpg'); background-size: cover">
-            <div class="container-fluid w-75">
+        <div id="timetable" class="pt-3 min-vh-100" style="background-image: url('image/timetable_bg.jpg'); background-size: cover">
+            <div class="container-fluid w-75 text-white">
                 <div class="h1 py-3">Horaires</div>
                 <div class="row pt-3">
                     <div class="col-8">
