@@ -1,4 +1,4 @@
-<div id="charte" class="pt-3 min-vh-100" style="background-image: url('image/partner_bg.jpg'); background-size: cover">
+<div id="partner" class="pt-3 min-vh-100" style="background-image: url('image/partner_bg.png'); background-size: cover">
     <div class="container-fluid w-75">
         <div class="h1 py-5">Partenaires</div>
         <div class="row">

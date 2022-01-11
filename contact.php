@@ -17,8 +17,8 @@ require_once("init.php");
         ?>
 
         <!-- Timetable -->
-        <div id="timetable" class="pt-3 min-vh-100 text-white" style="background-image: url('image/timetable_bg.jpg'); background-size: cover">
-            <div class="container-fluid w-75">
+        <div id="timetable" class="pt-3 min-vh-100" style="background-image: url('image/timetable_bg.png'); background-size: cover">
+            <div class="container-fluid w-75 text-white">
                 <div class="row">
                     <div class="col border border-3 border-info d-flex align-items-center justify-content-center" style="height: 100px">
                         Image CdF puzzle
