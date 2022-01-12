@@ -19,7 +19,7 @@ require_once("init.php");
         <div class="fixed-bottom">
             <div class="row p-5">
                 <div class="col-lg-3" style="font-variant: small-caps">
-                    <p class="fs-4 m-0"><span class="fs-3 amuseBarOrange">L'Amuse-Bar</span>,<br/>le magasin où on peut tester les jeux avant de les acheter</p>
+                    <p class="fs-4 m-0"><span class="fs-3 amuseBarOrange">L'Amuse-Bar</span>,<br/>c'est un lieu de rêve: plus de 1000 jeux à disposition</p>
                 </div>
             </div>
         </div>
