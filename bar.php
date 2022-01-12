@@ -16,22 +16,33 @@ require_once("init.php");
             require_once("nav.php");
         ?>
 
-        <div id="bar" class="pt-6 min-vh-100" style="background-image: url('image/bar_bg.png'); background-size: cover">
-            <div class="container-fluid w-75 text-white">
-                <h1><?php echo $activeMenuTitle?></h1>
-                <p>Grâce à notre partenariat avec l'Association Ludesco, nous avons à disposition leur collection de plus de 1000 jeux dans notre bar.</p>
+        <div class="fixed-bottom">
+            <div class="row p-5">
+                <div class="col-lg-3" style="font-variant: small-caps">
+                    <p class="fs-4 m-0"><span class="fs-3 amuseBarOrange">L'Amuse-Bar</span>,<br/>le magasin où on peut tester les jeux avant de les acheter</p>
+                </div>
+            </div>
+        </div>
 
-                <p>Un catalogue en ligne est à votre disposition en suivant l'adresse ci-après.
-                    <a target="_blank" class="" href="https://collection.ludesco.ch/">https://collection.ludesco.ch/</a>
-                </p>
+        <div id="bar" class="pt-6 min-vh-100 container-fluid" style="background-image: url('image/bar_bg.png'); background-size: cover">
+            <div class="row">
+                <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
+                <div class="col bg-white mx-5 my-3">
+                    <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
+                    <p>Grâce à notre partenariat avec l'Association Ludesco, nous avons à disposition leur collection de plus de 1000 jeux dans notre bar.</p>
 
-                <p>Vous pouvez également demander à notre sommelier du jeu. Il se fera un plaisir de vous guider dans vos choix,
-                    de vous expliquer les règles et de vous accompagner dans la découverte du nouveau jeu.</p>
+                    <p>Un catalogue en ligne est à votre disposition en suivant l'adresse ci-après.
+                        <a target="_blank" class="" href="https://collection.ludesco.ch/">https://collection.ludesco.ch/</a>
+                    </p>
 
-                <p>Quoi de mieux que de pouvoir tester un jeu et de pouvoir l'acheter directement après ?
-                    Vous trouverez votre jeu dans le Magasin de jeux de l'Amuse-Bar. Demander à votre sommelier du jeu.</p>
+                    <p>Vous pouvez également demander à notre sommelier du jeu. Il se fera un plaisir de vous guider dans vos choix,
+                        de vous expliquer les règles et de vous accompagner dans la découverte du nouveau jeu.</p>
 
-                <p>Nous nous réjouissons de vous accueillir à l'Amuse-Bar!</p>
+                    <p>Quoi de mieux que de pouvoir tester un jeu et de pouvoir l'acheter directement après ?
+                        Vous trouverez votre jeu dans le Magasin de jeux de l'Amuse-Bar. Demander à votre sommelier du jeu.</p>
+
+                    <p>Nous nous réjouissons de vous accueillir à l'Amuse-Bar!</p>
+                </div>
             </div>
         </div>
 
