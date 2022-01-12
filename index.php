@@ -28,21 +28,21 @@ require_once("init.php");
         <div id="concept" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/concept_bg.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col bg-white mx-5 my-3">
+                <div class="col bg-white mx-5 my-3 px-4">
                     <div class="h1 py-3 text-center">Concept</div>
-                    <p class="ps-4">L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.
+                    <p>L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.
                         Nous sommes trois passionnés de jeux qui avions le rêve d'ouvrir un bar dans lequel les gens pourraient se retrouver pour jouer,
                         discuter et boire un verre en toute simplicité et convivialité, "comme à la maison".</p>
-                    <p class="ps-4">Nous avons à coeur de vous offrir un espace particulier, original, à la décoration soignée, qui vous fera voyager dans une bulle intemporelle.</p>
-                    <p class="ps-4">Vous êtes fan de jeux de société ? Vous trouverez votre bonheur parmi l'immense collection de jeux de Ludesco qui se compose de plus de 1000 jeux de société.</p>
-                    <p class="ps-4">Amateur ou non joueur ? Ne vous inquiétez pas, il y en a pour tous les goûts et nous ne parlons pas uniquement de jeux.</p>
-                    <p class="ps-4">L'Amuse-Bar vous propose une petite restauration faite maison avec des produits du terroir choisis spécialement pour votre plaisir gustatif.
+                    <p>Nous avons à coeur de vous offrir un espace particulier, original, à la décoration soignée, qui vous fera voyager dans une bulle intemporelle.</p>
+                    <p>Vous êtes fan de jeux de société ? Vous trouverez votre bonheur parmi l'immense collection de jeux de Ludesco qui se compose de plus de 1000 jeux de société.</p>
+                    <p>Amateur ou non joueur ? Ne vous inquiétez pas, il y en a pour tous les goûts et nous ne parlons pas uniquement de jeux.</p>
+                    <p>L'Amuse-Bar vous propose une petite restauration faite maison avec des produits du terroir choisis spécialement pour votre plaisir gustatif.
                         Ces produits d'exception proviennent directement des producteurs qui vous seront présentés dans les fiches "producteurs".</p>
-                    <p class="ps-4">Et pour un plaisir encore plus grand, nos sommeliers du jeu seront là pour vous aiguiller dans vos choix,
+                    <p>Et pour un plaisir encore plus grand, nos sommeliers du jeu seront là pour vous aiguiller dans vos choix,
                         mettre en place le jeu et vous expliquer les règles. Une manière simple et agréable de découvrir des nouveautés !</p>
-                    <p class="ps-4">Tout cela accompagné d'une bonne bière artisanale, d'un cocktail original ou d'autres boissons faites maison...</p>
-                    <p class="ps-4">Venez nous rendre visite et découvrez encore plein d'autres surprises.</p>
-                    <p class="ps-4">L'Amuse-Bar, c'est plus qu'un bar, c'est un lieu de découverte, de rencontre ludique et d'évasion.</p>
+                    <p>Tout cela accompagné d'une bonne bière artisanale, d'un cocktail original ou d'autres boissons faites maison...</p>
+                    <p>Venez nous rendre visite et découvrez encore plein d'autres surprises.</p>
+                    <p>L'Amuse-Bar, c'est plus qu'un bar, c'est un lieu de découverte, de rencontre ludique et d'évasion.</p>
                 </div>
             </div>
         </div>
@@ -51,7 +51,7 @@ require_once("init.php");
         <div id="charte" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/convention_bg.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col bg-white mx-5 my-3">
+                <div class="col bg-white mx-5 my-3 px-4">
                     <div class="h1 py-3 text-center">Charte de l'Amuse-Bar</div>
                     <ol>
                         <li>
@@ -108,7 +108,7 @@ require_once("init.php");
         <div id="team" class="pt-8 min-vh-100 container-fluid">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col bg-white mx-5 my-3">
+                <div class="col bg-white mx-5 my-3 px-4">
                     <div class="h1 py-3 text-center">Equipe</div>
 
                     <div class="py-4 row">
@@ -162,7 +162,7 @@ require_once("init.php");
         <div id="timetable" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/timetable_bg.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col mx-5 my-3">
+                <div class="col mx-5 my-3 px-4">
                     <div class="h1 py-3 text-center">Horaires</div>
                     <div class="row pt-3">
                         <div class="col-8">
