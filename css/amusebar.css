@@ -34,6 +34,13 @@ a, a:hover {
 .amuseBar-text-purple { color: #D98CED !important; }
 .amuseBar-text-cream { color: #F6F2E7 !important; }
 
+.amuseBar-bg-orange { background-color: #FCB63A !important; }
+.amuseBar-bg-maroon { background-color: #4D194D !important; }
+.amuseBar-bg-blue { background-color: #1186A7 !important; }
+.amuseBar-bg-green { background-color: #00B690 !important; }
+.amuseBar-bg-purple { background-color: #D98CED !important; }
+.amuseBar-bg-cream { background-color: #F6F2E7 !important; }
+
 /*.footer {*/
 /*    position: absolute;*/
 /*    bottom: 0;*/

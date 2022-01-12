@@ -28,7 +28,7 @@ require_once("init.php");
         <div id="concept" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/concept_bg.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col bg-white mx-5 my-3 px-4">
+                <div class="col amuseBar-bg-cream mx-5 my-3 px-4">
                     <div class="h1 py-3 text-center">Concept</div>
                     <p>L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.
                         Nous sommes trois passionnés de jeux qui avions le rêve d'ouvrir un bar dans lequel les gens pourraient se retrouver pour jouer,
@@ -51,7 +51,7 @@ require_once("init.php");
         <div id="charte" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/convention_bg.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col bg-white mx-5 my-3 px-4">
+                <div class="col amuseBar-bg-cream mx-5 my-3 px-4">
                     <div class="h1 py-3 text-center">Charte de l'Amuse-Bar</div>
                     <ol>
                         <li>
@@ -108,7 +108,7 @@ require_once("init.php");
         <div id="team" class="pt-8 min-vh-100 container-fluid">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col bg-white mx-5 my-3 px-4">
+                <div class="col amuseBar-bg-cream mx-5 my-3 px-4">
                     <div class="h1 py-3 text-center">Equipe</div>
 
                     <div class="py-4 row">
