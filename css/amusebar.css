@@ -27,12 +27,12 @@ a, a:hover {
 .pt-9 { padding-top: 5rem !important }
 .pt-10 { padding-top: 5.5rem !important }
 
-.amuseBarOrange { color: #FCB63A !important; }
-.amuseBarMaroon { color: #4D194D !important; }
-.amuseBarBlue { color: #1186A7 !important; }
-.amuseBarGreen { color: #00B690 !important; }
-.amuseBarLila { color: #D98CED !important; }
-.amuseBarCream { color: #F6F2E7 !important; }
+.amuseBar-text-orange { color: #FCB63A !important; }
+.amuseBar-text-maroon { color: #4D194D !important; }
+.amuseBar-text-blue { color: #1186A7 !important; }
+.amuseBar-text-green { color: #00B690 !important; }
+.amuseBar-text-purple { color: #D98CED !important; }
+.amuseBar-text-cream { color: #F6F2E7 !important; }
 
 /*.footer {*/
 /*    position: absolute;*/
