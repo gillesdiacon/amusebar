@@ -21,16 +21,18 @@ a, a:hover {
     text-justify: inter-word;
 }
 
-.pt-6 {
-    padding-top: 3.5rem !important
-}
-.pt-7 {
-    padding-top: 4rem !important
-}
+.pt-6 { padding-top: 3.5rem !important }
+.pt-7 { padding-top: 4rem !important }
+.pt-8 { padding-top: 4.5rem !important }
+.pt-9 { padding-top: 5rem !important }
+.pt-10 { padding-top: 5.5rem !important }
 
-.pt-8 {
-    padding-top: 4.5rem !important
-}
+.amuseBarOrange { color: #FCB63A; }
+.amuseBarMaroon { color: #4D194D; }
+.amuseBarBlue { color: #1186A7; }
+.amuseBarGreen { color: #00B690; }
+.amuseBarLila { color: #D98CED; }
+.amuseBarCream { color: #F6F2E7; }
 
 /*.footer {*/
 /*    position: absolute;*/
