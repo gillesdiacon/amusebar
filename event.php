@@ -21,6 +21,10 @@ require_once("init.php");
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                 <div class="col amuseBar-bg-cream mx-5 my-3 px-4">
                     <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
+
+                    <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 800px">
+                        Liste des événements
+                    </div>
                 </div>
             </div>
         </div>
