@@ -27,7 +27,7 @@ require_once("init.php");
         <div id="bar" class="pt-6 min-vh-100 container-fluid" style="background-image: url('image/bar_bg.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col bg-white mx-5 my-3">
+                <div class="col bg-white mx-5 my-3 px-4">
                     <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
                     <p>Grâce à notre partenariat avec l'Association Ludesco, nous avons à disposition leur collection de plus de 1000 jeux dans notre bar.</p>
 
