@@ -27,12 +27,12 @@ a, a:hover {
 .pt-9 { padding-top: 5rem !important }
 .pt-10 { padding-top: 5.5rem !important }
 
-.amuseBarOrange { color: #FCB63A; }
-.amuseBarMaroon { color: #4D194D; }
-.amuseBarBlue { color: #1186A7; }
-.amuseBarGreen { color: #00B690; }
-.amuseBarLila { color: #D98CED; }
-.amuseBarCream { color: #F6F2E7; }
+.amuseBarOrange { color: #FCB63A !important; }
+.amuseBarMaroon { color: #4D194D !important; }
+.amuseBarBlue { color: #1186A7 !important; }
+.amuseBarGreen { color: #00B690 !important; }
+.amuseBarLila { color: #D98CED !important; }
+.amuseBarCream { color: #F6F2E7 !important; }
 
 /*.footer {*/
 /*    position: absolute;*/

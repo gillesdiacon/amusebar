@@ -10,19 +10,19 @@
                     <div class="flex-column ml-auto">
                         <ul class="navbar-nav">
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('index'==$activeMenuPage) echo 'active' ?>" href="/index.php">Accueil</a></li>
+                                <a class="nav-link h3 py-0 <?php if('index'==$activeMenuPage) echo 'active amuseBarGreen' ?>" href="/index.php">Accueil</a></li>
                             </li>
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('bar'==$activeMenuPage) echo 'active' ?>" href="/bar.php">Le Bar à jeux</a>
+                                <a class="nav-link h3 py-0 <?php if('bar'==$activeMenuPage) echo 'active amuseBarOrange' ?>" href="/bar.php">Le Bar à jeux</a>
                             </li>
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('shop'==$activeMenuPage) echo 'active' ?>" href="/shop.php">Le Magasin</a>
+                                <a class="nav-link h3 py-0 <?php if('shop'==$activeMenuPage) echo 'active amuseBarLila' ?>" href="/shop.php">Le Magasin</a>
                             </li>
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('menu'==$activeMenuPage) echo 'active' ?>" href="/menu.php">Menu</a>
+                                <a class="nav-link h3 py-0 <?php if('menu'==$activeMenuPage) echo 'active amuseBarBlue' ?>" href="/menu.php">Menu</a>
                             </li>
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('event'==$activeMenuPage) echo 'active' ?>" href="/event.php">Evénements</a>
+                                <a class="nav-link h3 py-0 <?php if('event'==$activeMenuPage) echo 'active amuseBarMaroon' ?>" href="/event.php">Evénements</a>
                             </li>
                             <li class="nav-item px-1 m-0">
                                 <a class="nav-link h3 py-0 <?php if('contact'==$activeMenuPage) echo 'active' ?>" href="/contact.php">Contacts</a>

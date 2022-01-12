@@ -6,7 +6,7 @@ require_once("init.php");
     <head>
         <?php 
             $activeMenuTitle = "Evénements";
-            $activeMenuPage = "events";
+            $activeMenuPage = "event";
             require_once("head.php");
         ?>
     </head>
