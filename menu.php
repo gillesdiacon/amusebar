@@ -16,35 +16,46 @@ require_once("init.php");
             require_once("nav.php");
         ?>
 
-        <div id="events" class="pt-6 min-vh-100" style="background-image: url('image/menu_bg.png'); background-size: cover">
-            <div class="container-fluid w-75">
-                <h1><?php echo $activeMenuTitle?></h1>
+        <div class="fixed-bottom">
+            <div class="row p-5">
+                <div class="col-lg-3" style="font-variant: small-caps">
+                    <p class="fs-4 m-0"><span class="fs-3 amuseBarBlue">L'Amuse-Bar</span>,<br/>le bar qui ravit vos papilles et enchante votre palais</p>
+                </div>
+            </div>
+        </div>
 
-                <p>Notre carte de petite restauration vous propose des mets faits maison à partir de produits du terroir.
-                    Nous avons à coeur de respecter le cycle des saisons et de favoriser le plus possible la production suisse et locale.
-                    C'est pourquoi, nous avons testé pour vous différents produits pour sélectionner les meilleurs et les plus originaux.<br />
-                    Nous avons également à coeur que chacun puisse avoir un plaisir gustatif, c'est pourquoi, des recettes véganes vous seront proposées également.</p>
+        <div id="events" class="pt-6 min-vh-100 container-fluid" style="background-image: url('image/menu_bg.png'); background-size: cover">
+            <div class="row">
+                <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
+                <div class="col bg-white mx-5 my-3 px-4">
+                    <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
 
-                <p>Au niveau de la carte des boissons, nous avons privilégié des bières artisanales, des cocktails originaux et des limonades et boissons maisons.</p>
+                    <p>Notre carte de petite restauration vous propose des mets faits maison à partir de produits du terroir.
+                        Nous avons à coeur de respecter le cycle des saisons et de favoriser le plus possible la production suisse et locale.
+                        C'est pourquoi, nous avons testé pour vous différents produits pour sélectionner les meilleurs et les plus originaux.<br />
+                        Nous avons également à coeur que chacun puisse avoir un plaisir gustatif, c'est pourquoi, des recettes véganes vous seront proposées également.</p>
 
-                <div class="row mt-4">
-                    <div class="col">
-                        <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 400px">
-                            Image avec la liste des boissons
+                    <p>Au niveau de la carte des boissons, nous avons privilégié des bières artisanales, des cocktails originaux et des limonades et boissons maisons.</p>
+
+                    <div class="row mt-4">
+                        <div class="col">
+                            <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 400px">
+                                Image avec la liste des boissons
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="row mt-4">
-                    <div class="col">
-                        <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 400px">
-                            Image avec la liste des bières
+                    <div class="row mt-4">
+                        <div class="col">
+                            <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 400px">
+                                Image avec la liste des bières
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="row mt-4">
-                    <div class="col">
-                        <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 400px">
-                            Image avec la liste des snacks
+                    <div class="row mt-4">
+                        <div class="col">
+                            <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 400px">
+                                Image avec la liste des snacks
+                            </div>
                         </div>
                     </div>
                 </div>
