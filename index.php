@@ -158,7 +158,6 @@ require_once("init.php");
             </div>
         </div>
 
-
         <!-- Timetable -->
         <div id="timetable" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/timetable_bg.png'); background-size: cover">
             <div class="row">
