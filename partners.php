@@ -1,4 +1,4 @@
-<div id="partner" class="<?php if('index'==$activeMenuPage){ echo 'pt-8'; }else{ echo 'pt-3'; } ?> min-vh-100 container-fluid" style="background-image: url('image/partner_bg.png'); background-size: cover">
+<div id="partner" class="<?php if('index'==$activeMenuPage){ echo 'pt-8'; }else{ echo 'pt-3'; } ?> min-vh-100 container-fluid" style="background-image: url('image/bg/partner-filtre.png'); background-size: cover">
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
         <div class="col">

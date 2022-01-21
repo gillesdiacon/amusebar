@@ -25,7 +25,7 @@ require_once("init.php");
         </div>
 
         <!-- Concept -->
-        <div id="concept" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/concept_bg.png'); background-size: cover">
+        <div id="concept" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/bg/concept-filtre.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                 <div class="col amuseBar-bg-cream mx-5 my-3 px-4">
@@ -159,7 +159,7 @@ require_once("init.php");
         </div>
 
         <!-- Timetable -->
-        <div id="timetable" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/timetable_bg.png'); background-size: cover">
+        <div id="timetable" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                 <div class="col mx-5 my-3 px-4">

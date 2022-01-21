@@ -16,7 +16,7 @@ require_once("init.php");
             require_once("nav.php");
         ?>
 
-        <div id="events" class="pt-6 min-vh-100 container-fluid">
+        <div id="events" class="pt-6 min-vh-100 container-fluid" style="background-image: url('image/bg/event-filtre.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                 <div class="col amuseBar-bg-cream mx-5 my-3 px-4">
