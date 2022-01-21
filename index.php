@@ -115,8 +115,8 @@ require_once("init.php");
                         <div class="col-8">
                             <div class="fw-bold fs-4">Vanessa</div>
                             <div class="row ps-5">
-                                <div class="col-2">
-                                    <img width="100%" src="image/vanessa.png">
+                                <div class="col-3">
+                                    <img width="200" src="image/vanessa.png">
                                 </div>
                                 <div class="col">
                                     <p class="text-justify">Pédopsychiatre, est une passionnée de jeux qui aime découvrir et faire découvrir cet univers riche et féérique. En plus si c'est accompagnée d'un bon cocktail elle ne dit pas non.</p>
@@ -129,8 +129,8 @@ require_once("init.php");
                         <div class="col-8">
                             <div class="fw-bold fs-4">Laetitia</div>
                             <div class="row ps-5">
-                                <div class="col-2">
-                                    <img width="100%" src="image/laetitia.png">
+                                <div class="col-3">
+                                    <img width="200" src="image/laetitia.png">
                                 </div>
                                 <div class="col">
                                     <div class="text-justify">Architecte d'intérieur, est une joueuse passionnée et expérimentée dans les animations, qui nous vient tout droit de la Belgique. Elle aime partager les rires, les jeux et les bières avec quiconque est prêt à la suivre dans ses délires.</div>
@@ -143,8 +143,8 @@ require_once("init.php");
                         <div class="col-8">
                             <div class="fw-bold fs-4">Stéphane</div>
                             <div class="row ps-5">
-                                <div class="col-2">
-                                    <img width="100%" src="image/stephane.png">
+                                <div class="col-3">
+                                    <img width="200" src="image/stephane.png">
                                 </div>
                                 <div class="col">
                                     <p class="text-justify">Sociologue/statisticien, est un amoureux des produits du terroir qui aime le lien, le partage autour des jeux de société surtout quand c'est accompagné d'une bonne bière artisanale.</p>
