@@ -16,6 +16,10 @@ a, a:hover {
     text-decoration: none;
 }
 
+.convention_background {
+    background-color: #41443c;
+}
+
 .text-justify {
     text-align: justify;
     text-justify: inter-word;
