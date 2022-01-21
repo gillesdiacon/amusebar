@@ -19,7 +19,7 @@
                                 <a class="nav-link h3 py-0 <?php if('shop'==$activeMenuPage) echo 'active amuseBar-text-purple' ?>" href="/shop.php">Le Magasin</a>
                             </li>
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('menu'==$activeMenuPage) echo 'active amuseBar-text-blue' ?>" href="/menu.php">Menu</a>
+                                <a class="nav-link h3 py-0 <?php if('catering'==$activeMenuPage) echo 'active amuseBar-text-blue' ?>" href="/catering.php">Resto</a>
                             </li>
                             <li class="nav-item px-1 m-0">
                                 <a class="nav-link h3 py-0 <?php if('event'==$activeMenuPage) echo 'active amuseBar-text-maroon' ?>" href="/event.php">Evénements</a>
