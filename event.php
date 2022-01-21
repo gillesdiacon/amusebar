@@ -16,6 +16,14 @@ require_once("init.php");
             require_once("nav.php");
         ?>
 
+        <div class="fixed-bottom">
+            <div class="row p-5">
+                <div class="col-lg-3">
+                    <img src="image/punchline/punchline-event.svg" />
+                </div>
+            </div>
+        </div>
+
         <div id="events" class="pt-6 min-vh-100 container-fluid" style="background-image: url('image/bg/event-filtre.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>

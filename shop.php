@@ -25,8 +25,8 @@
 
         <div class="fixed-bottom">
             <div class="row p-5">
-                <div class="col-lg-3" style="font-variant: small-caps">
-                    <p class="fs-4 m-0"><span class="fs-3 amuseBar-text-purple">L'Amuse-Bar</span>,<br/>le magasin où on peut tester les jeux avant de les acheter</p>
+                <div class="col-lg-3">
+                    <img src="image/punchline/punchline-shop.svg" />
                 </div>
             </div>
         </div>
