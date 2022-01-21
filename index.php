@@ -4,7 +4,7 @@ require_once("init.php");
 <!DOCTYPE html>
 <html lang="fr">
     <head>
-        <?php 
+        <?php
             $activeMenuTitle = "Accueil";
             $activeMenuPage = "index";
             require_once("head.php");
@@ -48,58 +48,65 @@ require_once("init.php");
         </div>
 
         <!-- Charte -->
-        <div id="charte" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/convention_bg.png'); background-size: cover">
+        <div id="charte" class="pt-8 min-vh-100 container-fluid">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col amuseBar-bg-cream mx-5 my-3 px-4">
-                    <div class="h1 py-3 text-center">Charte de l'Amuse-Bar</div>
-                    <ol>
-                        <li>
-                            <p>L'Amuse-Bar est un lieu de <span class="fw-bold">partage</span>. Si vous cherchez un moment convivial en famille ou entre ami.e.s, vous êtes au bon endroit.
-                                <span class="fst-italic">"Jouer, c'est créer du lien" Gandhi</span></p>
-                        </li>
-                        <li>
-                            <p>L'Amuse-Bar est un lieu de <span class="fw-bold">rencontre</span>. Jouer c"est partager un moment agréable autour d'un jeu.
-                                Si vous êtes seul ou pas assez, n'hésitez pas à demander aux tables voisines ou à notre sommelier du jeu pour trouver des partenaires de jeu.
-                                Vous ferez à coup sûr de belles rencontres.
-                                <span class="fst-italic">"On peut en savoir plus sur quelqu'un en une heure de jeu qu'en une année de conversation" Platon</span></p>
-                        </li>
-                        <li>
-                            <p>L'Amuse-Bar est un lieu de <span class="fw-bold">respect</span>. Les jeux sont mis à disposition <span class="fw-bold">gratuitement</span> par
-                                l'Association Ludesco. Merci d'en prendre soin comme si c'était les vôtres, de contrôler et de ranger le jeu après utilisation.
-                                Merci de nous faire part des pièces manquantes ou défectueuses le cas échéant.</p>
-                        </li>
-                        <li>
-                            <p>L'Amuse-Bar est un lieu <span class="fw-bold">chaleureux</span>. Un.e sommelier.e du jeu se fera un plaisir de vous expliquer le
-                                jeu et de vous accompagner dans la mise en place. Soyez patients, tout vient à point à qui sait attendre !</p>
-                        </li>
-                        <li>
-                            <p>L'Amuse-Bar est un lieu <span class="fw-bold">gratuit</span>. Si vous avez apprécié les services de notre sommelier.ère,
-                                notre mascotte sera heureuse de recevoir des petits mots doux ou des petits sous. Une consommation régulière pendant vos parties est
-                                nécessaire afin que nous puissions poursuivre cette aventure avec vous le plus longtemps possible.</p>
-                        </li>
-                        <li>
-                            <p>L'Amuse-Bar est un lieu <span class="fw-bold">simple</span> et <span class="fw-bold">convivial</span>. Si vous avez des remarques ou des suggestions,
-                                des feuilles sont à votre disposition au bar. Afin de mieux vous servir, nous accueillons vos remarques avec plaisir.</p>
-                        </li>
-                        <li>
-                            <p>L'Amuse-Bar est aussi un <span class="fw-bold">magasin de jeux</span>. Si un jeu vous plaît et que vous voulez vous l'offrir ou en faire un cadeau,
-                                demandez à notre sommelier du jeu ou au bar, vous le trouverez certainement dans notre magasin de jeu.</p>
-                        </li>
-                        <li>
-                            <p>L'Amuse-Bar est également un espace de <span class="fw-bold">coworking</span>. Merci de respecter le travail d'autrui.</p>
-                        </li>
-                        <li>
-                            <p>L'Amuse-Bar est un lieu <span class="fw-bold">intergénérationnel</span>. Enfants et personnes âgées sont les bienvenus et encouragées à
-                                partager des moments hors du temps.
-                            <span>"On n'arrête pas de jouer en devenant vieux, on devient vieux parce qu'on arrête de jouer" Bernard Shaw</span></p>
-                        </li>
-                        <li>
-                            <p>L'Amuse-Bar est un lieu <span class="fw-bold">d'amusement</span>. Jouer c'est aussi apprendre à perdre avec le sourire.
-                                Alors amusez-vous et soyez bons perdants et bons gagnants. La chance tourne mais nos sourires restent
-                                <span class="fst-italic">"Moi, je ne joue pas pour gagner ou pour perdre. Je joue pour savoir si je vais gagner ou si je vais perdre." Alfred Capus</span></p>
-                        </li>
-                    </ol>
+                <div class="col mx-5 my-3 px-4 convention_background">
+
+                    <table class="table table-borderless">
+                        <tr class="align-middle text-center" style="background-image: url('image/convention/convention-top.png'); background-size: cover; height: 400px">
+                            <td>
+                                <span class="h2">Charte de l'Amuse-Bar</span>
+                            </td>
+                        </tr>
+                        <tr style="background-image: url('image/convention/convention-main.png'); background-repeat: repeat-y; background-size: contain;">
+                            <td class="text-center px-4">
+                                <div class="h4 fw-bold">L'Amuse-Bar est un lieu de partage.</div>
+                                <div>Si vous cherchez un moment convivial en famille ou entre ami.e.s, vous êtes au bon endroit.</div>
+                                <div class="fst-italic">"Jouer, c'est créer du lien" Gandhi</div>
+
+                                <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu de rencontre.</div>
+                                <div>Jouer c'est partager un moment agréable autour d'un jeu. Si vous êtes seul ou pas assez, n'hésitez pas à demander aux tables voisines
+                                    ou à notre sommelier du jeu pour trouver des partenaires de jeu. Vous ferez à coup sûr de belles rencontres.</div>
+                                <div class="fst-italic">"On peut en savoir plus sur quelqu'un en une heure de jeu qu'en une année de conversation" Platon</div>
+
+                                <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu de respect.</div>
+                                <div>Les jeux sont mis à disposition gratuitement par l'Association Ludesco. Merci d'en prendre soin comme si c'était les vôtres,
+                                    de contrôler et de ranger le jeu après utilisation. Merci de nous faire part des pièces manquantes ou défectueuses le cas échéant.</div>
+
+                                <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu chaleureux.</div>
+                                <div>Un.e sommelier.e du jeu se fera un plaisir de vous expliquer le jeu et de vous accompagner dans la mise en place.
+                                    Soyez patients, tout vient à point à qui sait attendre !</div>
+
+                                <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu gratuit.</div>
+                                <div>Si vous avez apprécié les services de notre sommelier.ère, notre mascotte sera heureuse de recevoir des petits mots doux ou des petits sous.
+                                    Une consommation régulière pendant vos parties est nécessaire afin que nous puissions poursuivre cette aventure avec vous le plus longtemps possible.</div>
+
+                                <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu simple et convivial.</div>
+                                <div>Si vous avez des remarques ou des suggestions, des feuilles sont à votre disposition au bar. Afin de mieux vous servir,
+                                    nous accueillons vos remarques avec plaisir.</div>
+
+                                <div class="pt-4 h4 fw-bold">L'Amuse-Bar est aussi un magasin de jeux.</div>
+                                <div>Si un jeu vous plaît et que vous voulez vous l'offrir ou en faire un cadeau,
+                                    demandez à notre sommelier du jeu ou au bar, vous le trouverez certainement dans notre magasin de jeu.</div>
+
+                                <div class="pt-4 h4 fw-bold">L'Amuse-Bar est également un espace de coworking.</div>
+                                <div>Merci de respecter le travail d'autrui.</div>
+
+                                <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu intergénérationnel.</div>
+                                <div>Enfants et personnes âgées sont les bienvenus et encouragés à partager des moments hors du temps.</div>
+                                <div class="fst-italic">"On n'arrête pas de jouer en devenant vieux, on devient vieux parce qu'on arrête de jouer." Bernard Shaw</div>
+
+                                <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu d'amusement.</div>
+                                <div>Jouer c'est aussi apprendre à perdre avec le sourire. Alors amusez-vous et soyez bons perdants et bons gagnants.</div>
+                                <div class="fst-italic">"La chance tourne mais nos sourires restent."</div>
+                            </td>
+                        </tr>
+                        <tr class="" style="background-image: url('image/convention/convention-bottom.png'); background-size: cover; height: 113px">
+                            <td>&nbsp;</td>
+                        </tr>
+                    </table>
+
                 </div>
             </div>
         </div>
