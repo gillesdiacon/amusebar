@@ -122,27 +122,27 @@ require_once("nav.php");
             <div class="h1 py-3 text-center">Equipe</div>
 
             <div class="py-4 row">
-                <div class="col-8">
+                <div class="col">
                     <div class="fw-bold fs-4">Vanessa</div>
-                    <div class="row ps-5">
-                        <div class="col-3">
+                    <div class="row ps-lg-5">
+                        <div class="col-lg-3">
                             <img width="200" src="image/vanessa.png">
                         </div>
-                        <div class="col">
+                        <div class="col pt-lg-4">
                             <p class="text-justify">Pédopsychiatre, est une passionnée de jeux qui aime découvrir et faire découvrir cet univers riche et féérique. En plus si c'est accompagnée d'un bon cocktail elle ne dit pas non.</p>
                             <p class="fst-italic text-justify">"Ceci est le véritable secret de la vie - Être complètement engagé avec ce que vous faites dans l'ici et le maintenant. Au lieu d'appeler cela travailler, réalisez que c'est jouer." Alan Watts</p>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="py-4 row justify-content-end">
-                <div class="col-8">
+            <div class="py-4 row">
+                <div class="col">
                     <div class="fw-bold fs-4">Laetitia</div>
-                    <div class="row ps-5">
-                        <div class="col-3">
+                    <div class="row ps-lg-5">
+                        <div class="col-lg-3">
                             <img width="200" src="image/laetitia.png">
                         </div>
-                        <div class="col">
+                        <div class="col pt-lg-4">
                             <div class="text-justify">Architecte d'intérieur, est une joueuse passionnée et expérimentée dans les animations, qui nous vient tout droit de la Belgique. Elle aime partager les rires, les jeux et les bières avec quiconque est prêt à la suivre dans ses délires.</div>
                             <div class="fst-italic text-justify">"Le bonheur le plus doux est celui qu'on partage." Jacques Delille</div>
                         </div>
@@ -150,13 +150,13 @@ require_once("nav.php");
                 </div>
             </div>
             <div class="py-4 row">
-                <div class="col-8">
+                <div class="col">
                     <div class="fw-bold fs-4">Stéphane</div>
-                    <div class="row ps-5">
-                        <div class="col-3">
+                    <div class="row ps-lg-5">
+                        <div class="col-lg-3">
                             <img width="200" src="image/stephane.png">
                         </div>
-                        <div class="col">
+                        <div class="col pt-lg-4">
                             <p class="text-justify">Sociologue/statisticien, est un amoureux des produits du terroir qui aime le lien, le partage autour des jeux de société surtout quand c'est accompagné d'une bonne bière artisanale.</p>
                             <p class="fst-italic text-justify">"On pense trop et on ressent trop peu. Plus que de machines, on a besoin d'humanité. Plus que d'intelligence, on a besoin de gentillesse et de douceur. Sans ces qualités, la vie perd son sens"
                                 Charlie Chaplin</p>
