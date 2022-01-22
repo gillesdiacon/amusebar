@@ -20,6 +20,13 @@ a, a:hover {
     background-color: #41443c;
 }
 
+.navbar-collapse.collapse.show,
+.navbar-collapse.collapsing{
+    background-color: #F6F2E7;
+    /*flex-basis: auto;*/
+    /*flex-grow: 0;*/
+}
+
 .text-justify {
     text-align: justify;
     text-justify: inter-word;
