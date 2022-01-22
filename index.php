@@ -172,10 +172,10 @@ require_once("nav.php");
 <div id="timetable" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-        <div class="col mx-5 my-3 px-4">
-            <div class="h1 py-3 text-center">Horaires</div>
-            <div class="row pt-3">
-                <div class="col-8">
+        <div class="col mx-lg-5 my-lg-3 px-lg-4">
+            <div class="h1 py-lg-3 text-center">Horaires</div>
+            <div class="row pt-lg-3">
+                <div class="col-lg-8">
                     <div class="ms-3">
                         <?php
                         require_once("timetable.php");
