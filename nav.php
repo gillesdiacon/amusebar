@@ -10,8 +10,14 @@
                     <div class="flex-column ml-auto">
                         <ul class="navbar-nav">
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('index'==$activeMenuPage) echo 'active amuseBar-text-green' ?>" href="/index.php">Accueil</a></li>
+                                <a class="nav-link h3 py-0 <?php if('index'==$activeMenuPage) echo 'active amuseBar-text-green' ?>" href="/index.php">Accueil</a>
                             </li>
+                                <?php if('index'==$activeMenuPage) { ?>
+                                    <ul class="navbar-nav ps-3 d-lg-none">
+                                        <?php include("navHomeLi.php"); ?>
+                                    </ul>
+                                <?php } ?>
+
                             <li class="nav-item px-1 m-0">
                                 <a class="nav-link h3 py-0 <?php if('bar'==$activeMenuPage) echo 'active amuseBar-text-orange' ?>" href="/bar.php">Le Bar à jeux</a>
                             </li>
@@ -30,30 +36,13 @@
                         </ul>
 
                         <?php if('index'==$activeMenuPage) { ?>
-                            <ul class="navbar-nav flex-row">
-                                <li class="nav-item">
-                                    <a class="nav-link h5 py-0" href="#concept">Concept
-<!--                                        <img src="image/homeSubMenu/concept.svg" alt="Concept" width="160px" />-->
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link h5 py-0" href="#charte">Charte
-<!--                                        <img src="image/homeSubMenu/convention.svg" alt="Charte"/>-->
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link h5 py-0" href="#team">Equipe
-<!--                                        <img src="image/homeSubMenu/team.svg" alt="Equipe"/>-->
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link h5 py-0" href="#timetable">Horaires
-<!--                                        <img src="image/homeSubMenu/timetable.svg" alt="Horaires"/>-->
-                                    </a>
-                                </li>
-                            </ul>
+                            <div class="d-none d-lg-block">
+                                <ul class="navbar-nav flex-row">
+                                    <?php include("navHomeLi.php"); ?>
+                                </ul>
+                            </div>
                         <?php } ?>
-                    </div>
+                    </>
                 </div>
             </div>
         </nav>
