@@ -23,7 +23,7 @@
             require_once("nav.php");
         ?>
 
-        <div class="fixed-bottom">
+        <div class="fixed-bottom d-none d-lg-block">
             <div class="row p-5">
                 <div class="col-lg-3">
                     <img src="image/punchline/punchline-shop.svg" />
