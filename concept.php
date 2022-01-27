@@ -48,7 +48,7 @@ require_once("nav.php");
 </div>
 
 <!-- Charte -->
-<div id="charte" class="pt-8 min-vh-100 container-fluid">
+<div id="charte" class="pt-8 container-fluid">
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
         <div class="col mx-lg-5 my-3 px-4 convention_background">
