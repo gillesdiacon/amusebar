@@ -34,7 +34,7 @@
         <div id="events" class="pt-6 min-vh-100 container-fluid" style="background-image: url('image/bg/shop-filtre.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col amuseBar-bg-cream mx-5 my-3 px-4">
+                <div class="col amuseBar-bg-cream mx-lg-5 my-3 px-4">
                     <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
 
                     <p>Vous trouverez sûrement votre bonheur dans notre magasin de jeux. Pour offrir ou pour votre plaisir,
