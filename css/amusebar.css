@@ -51,12 +51,28 @@ a, a:hover {
 .amuseBar-bg-green { background-color: #00B690 !important; }
 .amuseBar-bg-purple { background-color: #D98CED !important; }
 .amuseBar-bg-cream { background-color: #F6F2E7 !important; }
-.amuseBar-bg-cream2 { background-color: #F4DFAB !important; }
 
 .amuseBar-text-bar { color: #CD5224 !important; }
 .amuseBar-text-catering { color: #8E302F !important; }
 .amuseBar-text-concept { color: #326145 !important; }
 .amuseBar-text-shop { color: #A94740 !important; }
+
+@media (min-width: 992px) {
+    .amuseBar-bg-bar {
+        background-image: url('../image/bg/bar-filtre.png');
+        background-size: cover;
+        background-color: transparent !important;
+    }
+
+    .amuseBar-home {
+
+    }
+}
+
+@media (max-width: 992px) {
+    .amuseBar-bg-home1 { background-color: #F6F2E7 !important; }
+    .amuseBar-bg-home2 { background-color: #F4DFAB !important; }
+}
 
 .amuseBar-menu-gradient {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f6f2e7+0,f6f2e7+66&0.8+0,0.6+66,0+100 */
