@@ -1,9 +1,4 @@
     <li class="nav-item">
-        <a class="nav-link h5 py-0" href="#concept">Concept
-<!--        <img src="image/homeSubMenu/concept.svg" alt="Concept" width="160px" /> -->
-        </a>
-    </li>
-    <li class="nav-item">
         <a class="nav-link h5 py-0" href="#charte">Charte
 <!--        <img src="image/homeSubMenu/convention.svg" alt="Charte"/> -->
         </a>

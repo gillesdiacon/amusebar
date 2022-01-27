@@ -24,7 +24,7 @@ require_once("init.php");
             </div>
         </div>
 
-        <div id="events" class="pt-6 min-vh-100 container-fluid" style="background-image: url('image/bg/catering-filtre.png'); background-size: cover">
+        <div id="events" class="pt-10 min-vh-100 container-fluid" style="background-image: url('image/bg/catering-filtre.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                 <div class="col amuseBar-bg-cream mx-lg-5 my-3 px-4">
@@ -37,27 +37,6 @@ require_once("init.php");
 
                     <p>Au niveau de la carte des boissons, nous avons privilégié des bières artisanales, des cocktails originaux et des limonades et boissons maisons.</p>
 
-                    <div class="row mt-4">
-                        <div class="col">
-                            <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 400px">
-                                Image avec la liste des boissons
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row mt-4">
-                        <div class="col">
-                            <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 400px">
-                                Image avec la liste des bières
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row mt-4">
-                        <div class="col">
-                            <div class="border border-3 border-info d-flex align-items-center justify-content-center" style="height: 400px">
-                                Image avec la liste des snacks
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>

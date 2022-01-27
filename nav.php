@@ -1,8 +1,7 @@
-    <div class="nav-container fixed-top amuseBar-menu-gradient pb-3">
+    <div class="nav-container amuseBar-menu-gradient pb-3">
         <nav class="navbar navbar-expand-lg navbar-light pb-0">
             <div class="container-fluid">
                 <a class="navbar-brand text-dark" href="/">
-                    <!-- <span class="h1">L'AMUSE-BAR</span> -->
                     <img class="d-lg-none" src="image/logo_bleu.png" alt="L'Amuse-Bar" width="80px" />
                     <img class="d-none d-lg-block" src="image/logo_bleu.png" alt="L'Amuse-Bar" width="160px" />
                 </a>
