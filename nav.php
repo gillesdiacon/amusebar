@@ -5,12 +5,14 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="h1 ps-3 pe-5">L'AMUSE-BAR</div>
+                <div class="ps-3 pe-5">
+                    <a class="h1 text-dark" href="/">L'AMUSE-BAR</a>
+                </div>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <div class="flex-column ml-auto">
                         <ul class="navbar-nav">
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('index'==$activeMenuPage) echo 'active amuseBar-text-green' ?>" href="/index.php">Accueil</a>
+                                <a class="nav-link h3 py-0 <?php if('concept'==$activeMenuPage) echo 'active amuseBar-text-green' ?>" href="/concept.php">Concept</a>
                             </li>
                                 <?php if('index'==$activeMenuPage) { ?>
                                     <ul class="navbar-nav ps-3 d-lg-none">
