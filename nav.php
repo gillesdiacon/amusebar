@@ -1,4 +1,4 @@
-    <div class="nav-container fixed-top">
+    <div class="nav-container fixed-top amuseBar-menu-gradient pb-3">
         <nav class="navbar navbar-expand-lg navbar-light pb-0">
             <div class="container-fluid">
 <!--                    <a class="navbar-brand" href="--><?php //echo $activeMenuPage; ?><!--.php">--><?php //echo $activeMenuTitle; ?><!--</a>-->
@@ -14,7 +14,7 @@
                             <li class="nav-item px-1 m-0">
                                 <a class="nav-link h3 py-0 <?php if('concept'==$activeMenuPage) echo 'active amuseBar-text-green' ?>" href="/concept.php">Concept</a>
                             </li>
-                                <?php if('index'==$activeMenuPage) { ?>
+                                <?php if('concept'==$activeMenuPage) { ?>
                                     <ul class="navbar-nav ps-3 d-lg-none">
                                         <?php include("navHomeLi.php"); ?>
                                     </ul>
@@ -37,7 +37,7 @@
                             </li>
                         </ul>
 
-                        <?php if('index'==$activeMenuPage) { ?>
+                        <?php if('concept'==$activeMenuPage) { ?>
                             <div class="d-none d-lg-block">
                                 <ul class="navbar-nav flex-row">
                                     <?php include("navHomeLi.php"); ?>
