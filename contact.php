@@ -17,12 +17,10 @@ require_once("init.php");
         ?>
 
         <!-- Timetable -->
-        <div id="timetable" class="pt-10 min-vh-100" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
+        <div id="timetable" class="pt-3 min-vh-100" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
             <div class="container-fluid w-75 text-white">
                 <div class="row">
-                    <div class="col border border-3 border-info d-flex align-items-center justify-content-center" style="height: 100px">
-                        Image CdF puzzle
-                    </div>
+                    <img src="image/puzzleCdF_small_landscape.jpg" width="60px">
                 </div>
                 <div class="row pt-3">
                     <div class="col">
