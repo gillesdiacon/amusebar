@@ -18,8 +18,8 @@ require_once("init.php");
 
         <!-- Timetable -->
         <div id="timetable" class="pt-3 min-vh-100" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
-            <div class="container-fluid w-75 text-white">
-                <div class="row">
+            <div class="container-fluid text-white px-lg-5">
+                <div class="row px-lg-5">
                     <div class="col">
                         <img src="image/puzzleCdF.jpg" width="100%">
                     </div>
