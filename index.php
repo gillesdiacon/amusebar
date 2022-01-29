@@ -42,18 +42,24 @@ require_once("nav.php");
         </a>
     </div>
     <div class="row justify-content-center text-center amuseBar-bg-home1">
+        <a href="crowdfunding.php" class="col-lg-4 p-4 text-dark border-bottom">
+            <div class="h1 fw-bold amuseBar-text-crowdfunding">Crowdfunding</div>
+            <div class="">Pour que le rêve devienne réalité ...</div>
+        </a>
+    </div>
+    <div class="row justify-content-center text-center amuseBar-bg-home2">
         <a href="catering.php" class="col-lg-4 p-4 text-dark border-bottom">
             <div class="h1 fw-bold amuseBar-text-catering">Restauration</div>
             <div class="">Pour régaler vos parties passionnées et le plaisir de vos papilles</div>
         </a>
     </div>
-    <div class="row justify-content-center text-center amuseBar-bg-home2">
+    <div class="row justify-content-center text-center amuseBar-bg-home1">
         <a href="shop.php" class="col-lg-4 p-4 text-dark border-bottom">
             <div class="h1 fw-bold amuseBar-text-shop">Le magasin</div>
             <div class="">Pour découvrir les jeux avant de pouvoir les acheter</div>
         </a>
     </div>
-    <div class="row justify-content-center text-center amuseBar-bg-home1">
+    <div class="row justify-content-center text-center amuseBar-bg-home2">
         <div class="col p-4 text-dark">
             <div class="h5 fst-italic ">"Chaque homme cache en lui un enfant qui veut jouer" - Friedrich Nietzsche</div>
         </div>

@@ -30,8 +30,13 @@
                             <li class="nav-item px-1 m-0">
                                 <a class="nav-link h3 py-0 <?php if('catering'==$activeMenuPage) echo 'active amuseBar-text-blue' ?>" href="/catering.php">Resto</a>
                             </li>
+                            <!--
                             <li class="nav-item px-1 m-0">
                                 <a class="nav-link h3 py-0 <?php if('event'==$activeMenuPage) echo 'active amuseBar-text-maroon' ?>" href="/event.php">Evénements</a>
+                            </li>
+                            -->
+                            <li class="nav-item px-1 m-0">
+                                <a class="nav-link h3 py-0 <?php if('crowdfunding'==$activeMenuPage) echo 'active amuseBar-text-maroon' ?>" href="/crowdfunding.php">Crowdfunding</a>
                             </li>
                             <li class="nav-item px-1 m-0">
                                 <a class="nav-link h3 py-0 <?php if('contact'==$activeMenuPage) echo 'active' ?>" href="/contact.php">Contacts</a>
