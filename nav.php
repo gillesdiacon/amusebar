@@ -12,13 +12,15 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <div class="flex-column ml-auto">
                         <ul class="navbar-nav">
+                            <li class="nav-item px-1 m-0 d-lg-none">
+                                <a class="nav-link h3 py-0 <?php if('home'==$activeMenuPage) echo 'active amuseBar-text-green' ?>" href="/index.php">Accueil</a>
+                            </li>
                             <li class="nav-item px-1 m-0">
                                 <a class="nav-link h3 py-0 <?php if('concept'==$activeMenuPage) echo 'active amuseBar-text-green' ?>" href="/concept.php">Concept</a>
                             </li>
                                 <ul class="navbar-nav ps-4 d-lg-none">
                                     <?php include("navHomeLi.php"); ?>
                                 </ul>
-
                             <li class="nav-item px-1 m-0">
                                 <a class="nav-link h3 py-0 <?php if('bar'==$activeMenuPage) echo 'active amuseBar-text-orange' ?>" href="/bar.php">Le Bar à jeux</a>
                             </li>
