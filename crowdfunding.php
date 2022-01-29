@@ -30,8 +30,17 @@ require_once("init.php");
                 <div class="col amuseBar-bg-cream mx-lg-5 my-3 px-4">
                     <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
                     <p>A vos marques, prêt ?  Misez!!!!</p>
-                    <p>Les dés sont lancés ! L'Amuse-Bar a besoin de vous!</p>
-                    <p>Alors si notre projet vous touche et vous intéresse, nous vous invitons à participer à notre crowdfunding pour nous aider à acheter
+                    <p class="mb-0">Les dés sont lancés ! L'Amuse-Bar a besoin de vous!</p>
+
+                    <div class="px-5">
+                        <div class="ratio ratio-16x9">
+                            <video controls="controls" src="image/crowdFunding.mp4">
+                                Your browser does not support the HTML5 Video element.
+                            </video>
+                        </div>
+                    </div>
+
+                    <p class="mt-3">Alors si notre projet vous touche et vous intéresse, nous vous invitons à participer à notre crowdfunding pour nous aider à acheter
                         une belle cuisine professionnelle pour vous faire de bons petits plats et du mobilier confortable, pour que vous vous sentiez comme à la maison.</p>
                     <p>Vous pouvez nous soutenir en cliquant directement sur le lien ci-dessous:<br>
                         <a href="#">xxxxxxxxx</a>
