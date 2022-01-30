@@ -42,6 +42,7 @@
 
                     <p>Si d'aventure, nous n'avons pas le jeu souhaité, nous le commanderons pour vous et nous vous le livrerons à domicile le plus rapidement possible.</p>
 
+                    <!--
                     <div class="row">
                         <div class="col">
                             <div class="card bg-transparent">
@@ -142,6 +143,7 @@
                             </div>
                         </div>
                     </div>
+                    -->
                 </div>
             </div>
         </div>
