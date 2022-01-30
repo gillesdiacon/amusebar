@@ -30,9 +30,7 @@ require_once("nav.php");
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
         <div class="col amuseBar-bg-cream mx-lg-5 px-4">
             <div class="h1 py-3 text-center">Concept</div>
-            <p>L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.
-                Nous sommes trois passionnés de jeux qui avions le rêve d'ouvrir un bar dans lequel les gens pourraient se retrouver pour jouer,
-                discuter et boire un verre en toute simplicité et convivialité, "comme à la maison".</p>
+            <p>L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.</p>
             <p>Nous avons à coeur de vous offrir un espace particulier, original, à la décoration soignée, qui vous fera voyager dans une bulle intemporelle.</p>
             <p>Vous êtes fan de jeux de société ? Vous trouverez votre bonheur parmi l'immense collection de jeux de Ludesco qui se compose de plus de 1000 jeux de société.</p>
             <p>Amateur ou non joueur ? Ne vous inquiétez pas, il y en a pour tous les goûts et nous ne parlons pas uniquement de jeux.</p>
@@ -64,7 +62,10 @@ require_once("nav.php");
         <div class="col amuseBar-bg-cream mx-lg-5 px-4">
             <div class="h1 py-3 text-center">Equipe</div>
 
-            <div class="py-4 row">
+            <p>Nous sommes trois passionnés de jeux qui avions le rêve d'ouvrir un bar dans lequel les gens pourraient se retrouver pour jouer,
+                discuter et boire un verre en toute simplicité et convivialité, "comme à la maison".</p>
+
+            <div class="row">
                 <div class="col">
                     <div class="fw-bold fs-4">Vanessa</div>
                     <div class="row ps-lg-5">
@@ -72,7 +73,7 @@ require_once("nav.php");
                             <img width="200" src="image/vanessa.png">
                         </div>
                         <div class="col pt-lg-4">
-                            <p class="text-justify">Pédopsychiatre, est une passionnée de jeux qui aime découvrir et faire découvrir cet univers riche et féérique. En plus si c'est accompagnée d'un bon cocktail elle ne dit pas non.</p>
+                            <p class="text-justify">Salut, je suis pédopsychiatre et passionnée de jeux de société. Je suis sportive, dynamique et enthousiaste. J'adore partager mes passions avec mes amis, ma famille et le jeu m'a permis de faire de belles rencontres inattendues. Je me réjouis de vous faire découvrir cet univers magique et partager avec vous ma passion pour les jeux de société.</p>
                             <p class="fst-italic text-justify">"Ceci est le véritable secret de la vie - Être complètement engagé avec ce que vous faites dans l'ici et le maintenant. Au lieu d'appeler cela travailler, réalisez que c'est jouer." Alan Watts</p>
                         </div>
                     </div>
@@ -86,13 +87,13 @@ require_once("nav.php");
                             <img width="200" src="image/laetitia.png">
                         </div>
                         <div class="col pt-lg-4">
-                            <div class="text-justify">Architecte d'intérieur, est une joueuse passionnée et expérimentée dans les animations, qui nous vient tout droit de la Belgique. Elle aime partager les rires, les jeux et les bières avec quiconque est prêt à la suivre dans ses délires.</div>
+                            <div class="text-justify">Salut ! Je suis architecte d'intérieur de formation (mais pas que) et je viens directement du plat pays (la Belgique donc) pour partager avec vous un moment sympa, autour d'un jeu, d'une bonne bière, ou simplement pour papoter. J'ai l'habitude d'animer des groupes et je me ferai un plaisir de vous expliquer des jeux.</div>
                             <div class="fst-italic text-justify">"Le bonheur le plus doux est celui qu'on partage." Jacques Delille</div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="py-4 row">
+            <div class="pb-4 row">
                 <div class="col">
                     <div class="fw-bold fs-4">Stéphane</div>
                     <div class="row ps-lg-5">
@@ -100,7 +101,7 @@ require_once("nav.php");
                             <img width="200" src="image/stephane.png">
                         </div>
                         <div class="col pt-lg-4">
-                            <p class="text-justify">Sociologue/statisticien, est un amoureux des produits du terroir qui aime le lien, le partage autour des jeux de société surtout quand c'est accompagné d'une bonne bière artisanale.</p>
+                            <p class="text-justify">Salut ! Je suis sociologue-statisticien. Ce que j'aime dans le jeux de société, c'est le partage d'un moment hors du temps. Mais ma passion se tourne vers la rencontre avec les agriculteurs locaux pour dénicher de bons produits du terroir et faire la tournée des brasseries artisanales. J'aurai un immense plaisir à vous servir au bar.</p>
                             <p class="fst-italic text-justify">"On pense trop et on ressent trop peu. Plus que de machines, on a besoin d'humanité. Plus que d'intelligence, on a besoin de gentillesse et de douceur. Sans ces qualités, la vie perd son sens"
                                 Charlie Chaplin</p>
                         </div>
