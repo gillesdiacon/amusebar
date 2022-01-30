@@ -24,10 +24,10 @@ require_once("init.php");
             </div>
         </div>
 
-        <div id="events" class="pt-10 min-vh-100 container-fluid" style="background-image: url('image/bg/crowdfunding-filtre.png'); background-size: cover">
+        <div class="p-4 container-fluid" style="background-image: url('image/bg/crowdfunding-filtre.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col amuseBar-bg-cream mx-lg-5 my-3 px-4">
+                <div class="col amuseBar-bg-cream mx-lg-5 px-4">
                     <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
                     <p>A vos marques, prêt ?  Misez!!!!</p>
                     <p class="mb-0">Les dés sont lancés ! L'Amuse-Bar a besoin de vous!</p>
