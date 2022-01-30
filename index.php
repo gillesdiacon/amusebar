@@ -56,7 +56,7 @@ require_once("nav.php");
     <div class="row justify-content-center text-center amuseBar-bg-home2">
         <a href="catering.php" class="col-lg-4 p-4 text-dark border-bottom">
             <div class="h1 fw-bold amuseBar-text-catering">Restauration</div>
-            <div class="">Pour régaler vos parties passionnées et le plaisir de vos papilles</div>
+            <div class="">Pour régaler vos papilles durant vos parties endiablées</div>
         </a>
     </div>
     <div class="row justify-content-center text-center amuseBar-bg-home1">
