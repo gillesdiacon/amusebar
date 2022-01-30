@@ -24,10 +24,10 @@ require_once("init.php");
             </div>
         </div>
 
-        <div id="bar" class="pt-10 min-vh-100 container-fluid" style="background-image: url('image/bg/bar-filtre.png'); background-size: cover">
+        <div id="bar" class="py-4 px-lg-4 min-vh-100 container-fluid" style="background-image: url('image/bg/bar-filtre.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                <div class="col amuseBar-bg-cream mx-lg-5 my-3 px-4">
+                <div class="col amuseBar-bg-cream mx-lg-5 px-4">
                     <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
                     <p>Grâce à notre partenariat avec l'Association Ludesco, nous avons à disposition leur collection de plus de 1000 jeux dans notre bar.</p>
 
