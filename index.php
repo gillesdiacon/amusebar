@@ -41,29 +41,61 @@ require_once("nav.php");
                 <div class="">1000 jeux de société pour jouer seul, entre amis ou en famille</div>
                 <div class="">Venez découvrir cette magnifique collection et rencontrer nos sommeliers du jeu</div>
             </a>
-            <div class="text-end px-5">
-                <a class="pe-3" href="/concept.php">#concept</a>
-                <a class="ps-3" href="/contact.php">#contact</a>
+            <div class="row px-lg-5 text-dark">
+                <div class="col d-lg-none">&nbsp;</div>
+                <div class="col">
+                    <a class="text-dark" href="/bar.php">#LeBaràJeux</a>
+                </div>
+                <div class="col">
+                    <a class="text-dark" href="/concept.php">#Concept</a>
+                </div>
+                <div class="col">
+                    <a class="text-dark" href="/contact.php">#Horaires</a>
+                </div>
             </div>
         </div>
     </div>
     <div class="row justify-content-center text-center amuseBar-bg-home1">
-        <a href="crowdfunding.php" class="col-lg-4 p-4 text-dark border-bottom">
-            <div class="h1 fw-bold amuseBar-text-crowdfunding">Crowdfunding</div>
-            <div class="">Pour que le rêve devienne réalité ...</div>
-        </a>
+        <div class="col-lg-5 p-4 border-bottom">
+            <a href="crowdfunding.php" class="text-dark">
+                <div class="h1 fw-bold amuseBar-text-crowdfunding">Crowdfunding</div>
+                <div class="">Pour que le rêve devienne réalité ...</div>
+            </a>
+            <div class="row px-lg-5 text-dark">
+                <div class="col d-lg-none">&nbsp;</div>
+                <div class="col">
+                    <a class="text-dark" href="/crowdfunding.php">#Crowdfunding</a>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="row justify-content-center text-center amuseBar-bg-home2">
-        <a href="catering.php" class="col-lg-4 p-4 text-dark border-bottom">
-            <div class="h1 fw-bold amuseBar-text-catering">Restauration</div>
-            <div class="">Pour régaler vos papilles durant vos parties endiablées</div>
-        </a>
+        <div class="col-lg-5 p-4 border-bottom">
+            <a href="catering.php" class="text-dark">
+                <div class="h1 fw-bold amuseBar-text-catering">Restauration</div>
+                <div class="">Pour régaler vos papilles durant vos parties endiablées</div>
+            </a>
+            <div class="row px-lg-5 text-dark">
+                <div class="col d-lg-none">&nbsp;</div>
+                <div class="col">
+                    <a class="text-dark" href="/shop.php">#LaCarte</a>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="row justify-content-center text-center amuseBar-bg-home1">
-        <a href="shop.php" class="col-lg-4 p-4 text-dark border-bottom">
-            <div class="h1 fw-bold amuseBar-text-shop">Le Magasin</div>
-            <div class="">Pour découvrir les jeux avant de pouvoir les acheter</div>
-        </a>
+        <div class="col-lg-5 p-4 border-bottom">
+            <a href="shop.php" class="text-dark">
+                <div class="h1 fw-bold amuseBar-text-shop">Le Magasin</div>
+                <div class="">Pour découvrir les jeux avant de pouvoir les acheter</div>
+            </a>
+            <div class="row px-lg-5 text-dark">
+                <div class="col d-lg-none">&nbsp;</div>
+                <div class="col">
+                    <a class="text-dark" href="/shop.php">#LeMagasin</a>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="row justify-content-center text-center amuseBar-bg-home2">
         <div class="col p-4 text-dark">
