@@ -12,14 +12,14 @@ require_once("init.php");
     </head>
     <body>
 
-        <?php
-            require_once("nav.php");
-        ?>
-
         <!-- Timetable -->
-        <div id="timetable" class="py-4 px-lg-4 container-fluid" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
+        <div id="timetable" class="" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
+            <?php
+            require_once("nav.php");
+            ?>
+            <div id="timetable" class="pb-4 px-lg-4 container-fluid">
                 <div class="row px-lg-5">
-                    <div class="col">
+                    <div class="col pt-5">
                         <img src="image/mapPuzzle_landscape.png" width="100%">
                     </div>
                     <div class="col text-center">

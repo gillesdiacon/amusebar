@@ -12,10 +12,6 @@ require_once("init.php");
 </head>
 <body>
 
-<?php
-require_once("nav.php");
-?>
-
 <div class="fixed-bottom d-none d-lg-block">
     <div class="row p-5">
         <div class="col-lg-3">
@@ -25,22 +21,27 @@ require_once("nav.php");
 </div>
 
 <!-- Concept -->
-<div id="concept" class="py-4 px-lg-4 container-fluid" style="background-image: url('image/bg/concept-filtre.png'); background-size: cover">
-    <div class="row">
-        <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-        <div class="col amuseBar-bg-cream mx-lg-5 px-4">
-            <div class="h1 py-3 text-center">Concept</div>
-            <p>L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.</p>
-            <p>Nous avons à coeur de vous offrir un espace particulier, original, à la décoration soignée, qui vous fera voyager dans une bulle intemporelle.</p>
-            <p>Vous êtes fan de jeux de société ? Vous trouverez votre bonheur parmi l'immense collection de jeux de Ludesco qui se compose de plus de 1000 jeux de société.</p>
-            <p>Amateur ou non joueur ? Ne vous inquiétez pas, il y en a pour tous les goûts et nous ne parlons pas uniquement de jeux.</p>
-            <p>L'Amuse-Bar vous propose une petite restauration faite maison avec des produits du terroir choisis spécialement pour votre plaisir gustatif.
-                Ces produits d'exception proviennent directement des producteurs qui vous seront présentés dans les fiches "producteurs".</p>
-            <p>Et pour un plaisir encore plus grand, nos sommeliers du jeu seront là pour vous aiguiller dans vos choix,
-                mettre en place le jeu et vous expliquer les règles. Une manière simple et agréable de découvrir des nouveautés !</p>
-            <p>Tout cela accompagné d'une bonne bière artisanale, d'un cocktail original ou d'autres boissons faites maison...</p>
-            <p>Venez nous rendre visite et découvrez encore plein d'autres surprises.</p>
-            <p>L'Amuse-Bar, c'est plus qu'un bar, c'est un lieu de découverte, de rencontre ludique et d'évasion.</p>
+<div id="concept" class="min-vh-100" style="background-image: url('image/bg/concept-filtre.png'); background-size: cover">
+    <?php
+    require_once("nav.php");
+    ?>
+    <div class="pb-4 px-lg-4 container-fluid">
+        <div class="row">
+            <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
+            <div class="col amuseBar-bg-cream mx-lg-5 px-4">
+                <div class="h1 py-3 text-center">Concept</div>
+                <p>L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.</p>
+                <p>Nous avons à coeur de vous offrir un espace particulier, original, à la décoration soignée, qui vous fera voyager dans une bulle intemporelle.</p>
+                <p>Vous êtes fan de jeux de société ? Vous trouverez votre bonheur parmi l'immense collection de jeux de Ludesco qui se compose de plus de 1000 jeux de société.</p>
+                <p>Amateur ou non joueur ? Ne vous inquiétez pas, il y en a pour tous les goûts et nous ne parlons pas uniquement de jeux.</p>
+                <p>L'Amuse-Bar vous propose une petite restauration faite maison avec des produits du terroir choisis spécialement pour votre plaisir gustatif.
+                    Ces produits d'exception proviennent directement des producteurs qui vous seront présentés dans les fiches "producteurs".</p>
+                <p>Et pour un plaisir encore plus grand, nos sommeliers du jeu seront là pour vous aiguiller dans vos choix,
+                    mettre en place le jeu et vous expliquer les règles. Une manière simple et agréable de découvrir des nouveautés !</p>
+                <p>Tout cela accompagné d'une bonne bière artisanale, d'un cocktail original ou d'autres boissons faites maison...</p>
+                <p>Venez nous rendre visite et découvrez encore plein d'autres surprises.</p>
+                <p>L'Amuse-Bar, c'est plus qu'un bar, c'est un lieu de découverte, de rencontre ludique et d'évasion.</p>
+            </div>
         </div>
     </div>
 </div>
