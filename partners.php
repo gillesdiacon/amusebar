@@ -1,8 +1,8 @@
-<div id="partner" class="<?php if('concept'==$activeMenuPage){ echo 'pt-3'; }else{ echo 'pt-3'; } ?> container-fluid">
+<div id="partner" class="pt-4 container-fluid">
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-        <div class="col">
-            <div class="h1 text-center">Partenaires</div>
+        <div class="col mx-lg-5 px-lg-4">
+            <div class="h3 ps-sm-5">Partenaires</div>
             <div class="row justify-content-center">
                 <div class="col-lg-3 text-center">
                      <!-- <div class="h1 text-center text-nowrap">Ludesco</div> -->
@@ -22,6 +22,6 @@
                 </div>
             </div>
         </div>
-        <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
+        <div class="col-lg-1 d-none d-lg-block">&nbsp;</div>
     </div>
 </div>
