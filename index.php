@@ -35,11 +35,17 @@ require_once("nav.php");
 
 <div class="pt-3 container-fluid amuseBar-bg-bar amuseBar-bg-cream">
     <div class="row justify-content-center text-center amuseBar-bg-home2">
-        <a href="bar.php" class="col-lg-4 p-4 text-dark border-bottom">
-            <div class="h1 fw-bold amuseBar-text-bar">Le Bar à Jeux</div>
-            <div class="">1000 jeux de société pour jouer seul, entre amis ou en famille</div>
-            <div class="">Venez découvrir cette magnifique collection et rencontrer nos sommeliers du jeu</div>
-        </a>
+        <div class="col-lg-5 p-4 border-bottom">
+            <a href="bar.php" class="text-dark">
+                <div class="h1 fw-bold amuseBar-text-bar">Le Bar à Jeux</div>
+                <div class="">1000 jeux de société pour jouer seul, entre amis ou en famille</div>
+                <div class="">Venez découvrir cette magnifique collection et rencontrer nos sommeliers du jeu</div>
+            </a>
+            <div class="text-end px-5">
+                <a class="pe-3" href="/concept.php">#concept</a>
+                <a class="ps-3" href="/contact.php">#contact</a>
+            </div>
+        </div>
     </div>
     <div class="row justify-content-center text-center amuseBar-bg-home1">
         <a href="crowdfunding.php" class="col-lg-4 p-4 text-dark border-bottom">
