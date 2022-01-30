@@ -12,7 +12,7 @@
 <html lang="fr">
     <head>
         <?php 
-            $activeMenuTitle = "Le Magasin";
+            $activeMenuTitle = "Magasin";
             $activeMenuPage = "shop";
             require_once("head.php");
         ?>

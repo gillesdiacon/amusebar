@@ -5,7 +5,7 @@ require_once("init.php");
 <html lang="fr">
     <head>
         <?php 
-            $activeMenuTitle = "Resto";
+            $activeMenuTitle = "Coin Gourmand";
             $activeMenuPage = "catering";
             require_once("head.php");
         ?>
