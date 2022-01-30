@@ -20,7 +20,7 @@ require_once("init.php");
         <div id="timetable" class="py-4 px-lg-4 container-fluid" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
                 <div class="row px-lg-5">
                     <div class="col">
-                        <img src="image/puzzleCdF.jpg" width="100%">
+                        <img src="image/mapPuzzle_landscape.png" width="100%">
                     </div>
                     <div class="col text-center">
                         <div class="d-inline-block">
