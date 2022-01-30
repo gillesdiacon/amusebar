@@ -72,6 +72,8 @@ require_once("nav.php");
     </div>
 </div>
 
+<?php require_once("partners.php"); ?>
+
 <?php require_once("finish.php"); ?>
 
 <script type="text/javascript">
