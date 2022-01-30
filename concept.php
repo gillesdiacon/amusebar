@@ -69,7 +69,7 @@ require_once("nav.php");
                 <div class="col">
                     <div class="fw-bold fs-4">Vanessa</div>
                     <div class="row ps-lg-5">
-                        <div class="col-lg-3">
+                        <div class="col-lg-3 w-auto">
                             <img width="200" src="image/vanessa.png">
                         </div>
                         <div class="col pt-lg-4">
@@ -83,7 +83,7 @@ require_once("nav.php");
                 <div class="col">
                     <div class="fw-bold fs-4">Laetitia</div>
                     <div class="row ps-lg-5">
-                        <div class="col-lg-3">
+                        <div class="col-lg-3 w-auto">
                             <img width="200" src="image/laetitia.png">
                         </div>
                         <div class="col pt-lg-4">
@@ -97,7 +97,7 @@ require_once("nav.php");
                 <div class="col">
                     <div class="fw-bold fs-4">Stéphane</div>
                     <div class="row ps-lg-5">
-                        <div class="col-lg-3">
+                        <div class="col-lg-3 w-auto">
                             <img width="200" src="image/stephane.png">
                         </div>
                         <div class="col pt-lg-4">
