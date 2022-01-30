@@ -24,7 +24,7 @@ require_once("init.php");
             </div>
         </div>
 
-        <div class="p-4 container-fluid" style="background-image: url('image/bg/crowdfunding-filtre.png'); background-size: cover">
+        <div class="py-4 px-lg-4 container-fluid" style="background-image: url('image/bg/crowdfunding-filtre.png'); background-size: cover">
             <div class="row">
                 <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                 <div class="col amuseBar-bg-cream mx-lg-5 px-4">
