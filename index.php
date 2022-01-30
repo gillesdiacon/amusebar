@@ -33,7 +33,7 @@ require_once("nav.php");
     </div>
 </div>
 
-<div class="pt-3 container-fluid amuseBar-bg-bar amuseBar-bg-cream">
+<div class="pt-3 container-fluid amuseBar-bg-home amuseBar-bg-cream">
     <div class="row justify-content-center text-center amuseBar-bg-home2">
         <div class="col-lg-5 p-4 border-bottom">
             <a href="bar.php" class="text-dark">
