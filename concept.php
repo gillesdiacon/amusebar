@@ -25,10 +25,10 @@ require_once("nav.php");
 </div>
 
 <!-- Concept -->
-<div id="concept" class="pt-10 min-vh-100 container-fluid" style="background-image: url('image/bg/concept-filtre.png'); background-size: cover">
+<div id="concept" class="py-4 px-lg-4 container-fluid" style="background-image: url('image/bg/concept-filtre.png'); background-size: cover">
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-        <div class="col amuseBar-bg-cream mx-lg-5 my-3 px-4">
+        <div class="col amuseBar-bg-cream mx-lg-5 px-4">
             <div class="h1 py-3 text-center">Concept</div>
             <p>L'Amuse-Bar est un lieu de partage et de rencontre autour du jeu de société.
                 Nous sommes trois passionnés de jeux qui avions le rêve d'ouvrir un bar dans lequel les gens pourraient se retrouver pour jouer,
@@ -48,77 +48,20 @@ require_once("nav.php");
 </div>
 
 <!-- Charte -->
-<div id="charte" class="pt-8 container-fluid">
+<div id="charte" class="py-4 px-lg-4 container-fluid">
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-        <div class="col mx-lg-5 my-3 px-4 convention_background">
-
+        <div class="col mx-lg-5 px-4 convention_background">
             <img src="image/convention.png" width="100%" />
-
-            <!--
-            <table class="table table-borderless conventionTable">
-                <tr class="align-middle text-center" style="background-image: url('image/convention/convention-top.png'); background-size: cover; height: 400px">
-                    <td>
-                        <span class="h2">Charte de l'Amuse-Bar</span>
-                    </td>
-                </tr>
-                <tr style="background-image: url('image/convention/convention-main.png'); background-repeat: repeat-y; background-size: contain;">
-                    <td class="text-center px-4">
-                        <div class="h4 fw-bold">L'Amuse-Bar est un lieu de partage.</div>
-                        <div>Si vous cherchez un moment convivial en famille ou entre ami.e.s, vous êtes au bon endroit.</div>
-                        <div class="fst-italic">"Jouer, c'est créer du lien" Gandhi</div>
-
-                        <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu de rencontre.</div>
-                        <div>Jouer c'est partager un moment agréable autour d'un jeu. Si vous êtes seul ou pas assez, n'hésitez pas à demander aux tables voisines
-                            ou à notre sommelier du jeu pour trouver des partenaires de jeu. Vous ferez à coup sûr de belles rencontres.</div>
-                        <div class="fst-italic">"On peut en savoir plus sur quelqu'un en une heure de jeu qu'en une année de conversation" Platon</div>
-
-                        <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu de respect.</div>
-                        <div>Les jeux sont mis à disposition gratuitement par l'Association Ludesco. Merci d'en prendre soin comme si c'était les vôtres,
-                            de contrôler et de ranger le jeu après utilisation. Merci de nous faire part des pièces manquantes ou défectueuses le cas échéant.</div>
-
-                        <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu chaleureux.</div>
-                        <div>Un.e sommelier.e du jeu se fera un plaisir de vous expliquer le jeu et de vous accompagner dans la mise en place.
-                            Soyez patients, tout vient à point à qui sait attendre !</div>
-
-                        <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu gratuit.</div>
-                        <div>Si vous avez apprécié les services de notre sommelier.ère, notre mascotte sera heureuse de recevoir des petits mots doux ou des petits sous.
-                            Une consommation régulière pendant vos parties est nécessaire afin que nous puissions poursuivre cette aventure avec vous le plus longtemps possible.</div>
-
-                        <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu simple et convivial.</div>
-                        <div>Si vous avez des remarques ou des suggestions, des feuilles sont à votre disposition au bar. Afin de mieux vous servir,
-                            nous accueillons vos remarques avec plaisir.</div>
-
-                        <div class="pt-4 h4 fw-bold">L'Amuse-Bar est aussi un magasin de jeux.</div>
-                        <div>Si un jeu vous plaît et que vous voulez vous l'offrir ou en faire un cadeau,
-                            demandez à notre sommelier du jeu ou au bar, vous le trouverez certainement dans notre magasin de jeu.</div>
-
-                        <div class="pt-4 h4 fw-bold">L'Amuse-Bar est également un espace de coworking.</div>
-                        <div>Merci de respecter le travail d'autrui.</div>
-
-                        <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu intergénérationnel.</div>
-                        <div>Enfants et personnes âgées sont les bienvenus et encouragés à partager des moments hors du temps.</div>
-                        <div class="fst-italic">"On n'arrête pas de jouer en devenant vieux, on devient vieux parce qu'on arrête de jouer." Bernard Shaw</div>
-
-                        <div class="pt-4 h4 fw-bold">L'Amuse-Bar est un lieu d'amusement.</div>
-                        <div>Jouer c'est aussi apprendre à perdre avec le sourire. Alors amusez-vous et soyez bons perdants et bons gagnants.</div>
-                        <div class="fst-italic">"La chance tourne mais nos sourires restent."</div>
-                    </td>
-                </tr>
-                <tr class="" style="background-image: url('image/convention/convention-bottom.png'); background-size: cover; height: 113px">
-                    <td>&nbsp;</td>
-                </tr>
-            </table>
-            -->
         </div>
     </div>
 </div>
 
 <!-- Team -->
-<div id="team" class="pt-8 min-vh-100 container-fluid">
+<div id="team" class="py-4 px-lg-4 container-fluid">
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-        <div class="col amuseBar-bg-cream mx-lg-5 my-3 px-4">
+        <div class="col amuseBar-bg-cream mx-lg-5 px-4">
             <div class="h1 py-3 text-center">Equipe</div>
 
             <div class="py-4 row">
@@ -169,12 +112,12 @@ require_once("nav.php");
 </div>
 
 <!-- Timetable -->
-<div id="timetable" class="pt-8 min-vh-100 container-fluid" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
+<div id="timetable" class="py-4 px-lg-4 container-fluid" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-        <div class="col mx-lg-5 my-lg-3 px-lg-4">
+        <div class="col mx-lg-5 px-lg-4">
             <div class="h1 py-lg-3 text-center">Horaires</div>
-            <div class="row pt-lg-3">
+            <div class="row pt-lg-3 justify-content-center">
                 <div class="col-lg-8">
                     <div class="ms-3">
                         <?php
