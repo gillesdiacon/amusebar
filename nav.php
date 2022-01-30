@@ -53,5 +53,13 @@
                     </>
                 </div>
             </div>
+            <div class="text-end">
+                <a href="https://www.facebook.com/lamusebarlcdf">
+                    <i class="bi bi-facebook text-dark px-3" alt="facebook"></i>
+                </a>
+                <a href="https://www.instagram.com/lamusebar_chauxdefonds/">
+                    <i class="bi bi-instagram text-dark px-3" alt="instagram"></i>
+                </a>
+            </div>
         </nav>
     </div>
