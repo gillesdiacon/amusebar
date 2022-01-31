@@ -102,9 +102,8 @@ require_once("init.php");
                             <img width="200" src="image/stephane.png">
                         </div>
                         <div class="col pt-lg-4">
-                            <p class="text-justify">Salut ! Je suis sociologue-statisticien. Ce que j'aime dans le jeux de société, c'est le partage d'un moment hors du temps. Mais ma passion se tourne vers la rencontre avec les agriculteurs locaux pour dénicher de bons produits du terroir et faire la tournée des brasseries artisanales. J'aurai un immense plaisir à vous servir au bar.</p>
-                            <p class="fst-italic text-justify">"On pense trop et on ressent trop peu. Plus que de machines, on a besoin d'humanité. Plus que d'intelligence, on a besoin de gentillesse et de douceur. Sans ces qualités, la vie perd son sens"
-                                Charlie Chaplin</p>
+                            <p class="text-justify">Salut ! Je suis sociologue et j'aime partager un moment hors du temps autour d'un jeu de société. J'adore également rencontrer des producteurs locaux pour dénicher de bons produits du terroir et faire la tournée des brasseries artisanales. J'aurai un immense plaisir à vous faire découvrir ces produits d'exception et faire vivre la passion de l'artisan.</p>
+                            <p class="fst-italic text-justify">"On pense trop et on ressent trop peu. Plus que de machines, on a besoin d'humanité. Plus que d'intelligence, on a besoin de gentillesse et de douceur. Sans ces qualités, la vie perd son sens." Charlie Chaplin</p>
                         </div>
                     </div>
                 </div>
