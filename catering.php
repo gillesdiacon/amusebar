@@ -33,7 +33,7 @@ require_once("init.php");
                         <p>Notre carte de petite restauration vous propose des mets faits maison à partir de produits du terroir.
                             Nous avons à coeur de respecter le cycle des saisons et de favoriser le plus possible la production suisse et locale.
                             C'est pourquoi, nous avons testé pour vous différents produits pour sélectionner les meilleurs et les plus originaux.<br />
-                            Nous avons également à coeur que chacun puisse avoir un plaisir gustatif, c'est pourquoi, des recettes véganes vous seront proposées également.</p>
+                            Pour que chacun puisse avoir un plaisir gustatif, des recettes véganes vous seront également proposées.</p>
 
                         <p>Au niveau de la carte des boissons, nous avons privilégié des bières artisanales, des cocktails originaux et des limonades et boissons maisons.</p>
 
