@@ -28,7 +28,7 @@
                                 <a class="nav-link h3 py-0 <?php if('shop'==$activeMenuPage) echo 'active amuseBar-text-purple' ?>" href="/shop.php">Magasin</a>
                             </li>
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('catering'==$activeMenuPage) echo 'active amuseBar-text-blue' ?>" href="/catering.php">Coin Gourmand</a>
+                                <a class="nav-link h3 py-0 <?php if('catering'==$activeMenuPage) echo 'active amuseBar-text-blue' ?>" href="/catering.php">Cuisine</a>
                             </li>
                             <!--
                             <li class="nav-item px-1 m-0">
