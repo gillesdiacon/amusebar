@@ -15,7 +15,7 @@ require_once("init.php");
 <div class="fixed-bottom d-none d-lg-block">
     <div class="row p-5">
         <div class="col-lg-3">
-            <img src="image/punchline/punchline-home.svg" />
+            <img src="image/punchline/punchline-concept.svg" />
         </div>
     </div>
 </div>
