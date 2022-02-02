@@ -45,7 +45,7 @@
 
                         <?php if('concept'==$activeMenuPage) { ?>
                             <div class="d-none d-lg-block">
-                                <ul class="navbar-nav flex-row">
+                                <ul class="navbar-nav flex-row px-3">
                                     <?php include("navHomeLi.php"); ?>
                                 </ul>
                             </div>
