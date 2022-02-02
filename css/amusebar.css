@@ -69,6 +69,22 @@ a, a:hover {
 .amusebar-menu-timetable:hover { background: url("/image/menu/menu-timetable-hover.svg"); }
 .amusebar-menu-timetable.active { background: url("/image/menu/menu-timetable-active.svg"); }
 
+.navbar-collapse.collapse.show .amusebar-menu,
+.navbar-collapse.collapsing .amusebar-menu,
+.navbar-collapse.collapse.show .amusebar-sub-menu,
+.navbar-collapse.collapsing .amusebar-sub-menu{
+    height: 20px !important;
+}
+.navbar-collapse.collapse.show .amusebar-menu-concept, .navbar-collapse.collapsing .amusebar-menu-concept { width: 60px !important; }
+.navbar-collapse.collapse.show .amusebar-menu-bar, .navbar-collapse.collapsing .amusebar-menu-bar { width: 80px !important; }
+.navbar-collapse.collapse.show .amusebar-menu-shop, .navbar-collapse.collapsing .amusebar-menu-shop { width: 55px !important; }
+.navbar-collapse.collapse.show .amusebar-menu-catering, .navbar-collapse.collapsing .amusebar-menu-catering { width: 115px !important; }
+.navbar-collapse.collapse.show .amusebar-menu-crowdfunding, .navbar-collapse.collapsing .amusebar-menu-crowdfunding { width: 100px !important; }
+.navbar-collapse.collapse.show .amusebar-menu-contact, .navbar-collapse.collapsing .amusebar-menu-contact { width: 55px !important; }
+.navbar-collapse.collapse.show .amusebar-menu-convention, .navbar-collapse.collapsing .amusebar-menu-convention { width: 45px !important; }
+.navbar-collapse.collapse.show .amusebar-menu-team, .navbar-collapse.collapsing .amusebar-menu-team { width: 45px !important; }
+.navbar-collapse.collapse.show .amusebar-menu-timetable, .navbar-collapse.collapsing .amusebar-menu-timetable { width: 45px !important; }
+
 .navbar-nav li {
     /*border: 1px solid gray;*/
 }
