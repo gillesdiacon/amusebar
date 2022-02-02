@@ -16,6 +16,50 @@ a, a:hover {
     text-decoration: none;
 }
 
+#menuNav div li a {
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: 100% auto;
+    height: 50px;
+}
+
+.menu-concept { background: url("/image/menu/menu-concept.svg"); width: 130px; }
+.menu-concept:hover { background: url("/image/menu/menu-concept-hover.svg"); }
+.menu-concept.active { background: url("/image/menu/menu-concept-active.svg"); }
+
+.menu-bar { background: url("/image/menu/menu-bar.svg"); width: 190px; }
+.menu-bar:hover { background: url("/image/menu/menu-bar-hover.svg"); }
+.menu-bar.active { background: url("/image/menu/menu-bar-active.svg"); }
+
+.menu-shop { background: url("/image/menu/menu-shop.svg"); width: 132px; }
+.menu-shop:hover { background: url("/image/menu/menu-shop-hover.svg"); }
+.menu-shop.active { background: url("/image/menu/menu-shop-active.svg"); }
+
+.menu-catering { background: url("/image/menu/menu-catering.svg"); width: 270px; }
+.menu-catering:hover { background: url("/image/menu/menu-catering-hover.svg"); }
+.menu-catering.active { background: url("/image/menu/menu-catering-active.svg"); }
+
+.menu-event { background: url("/image/menu/menu-event.svg"); width: 100px; }
+.menu-event:hover { background: url("/image/menu/menu-event-hover.svg"); }
+.menu-event.active { background: url("/image/menu/menu-event-active.svg"); }
+
+.menu-crowdfunding { background: url("/image/menu/menu-crowdfunding.svg"); width: 235px; }
+.menu-crowdfunding:hover { background: url("/image/menu/menu-crowdfunding-hover.svg"); }
+.menu-crowdfunding.active { background: url("/image/menu/menu-crowdfunding-active.svg"); }
+
+.menu-contact { background: url("/image/menu/menu-contact.svg"); width: 126px; }
+.menu-contact:hover { background: url("/image/menu/menu-contact-hover.svg"); }
+.menu-contact.active { background: url("/image/menu/menu-contact-active.svg"); }
+
+
+.navbar-nav li {
+    /*border: 1px solid gray;*/
+}
+
+.navbar-nav li a{
+    /*border: 1px solid red;*/
+}
+
 .convention_background {
     background-color: #41443c;
 }

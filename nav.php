@@ -5,41 +5,41 @@
                     <img class="d-lg-none" src="image/logo_bleu.png" alt="L'Amuse-Bar" width="80px" />
                     <img class="d-none d-lg-block" src="image/logo_bleu.png" alt="L'Amuse-Bar" width="160px" />
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menuNav" aria-controls="menuNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="collapse navbar-collapse" id="menuNav">
                     <div class="flex-column ml-auto">
                         <ul class="navbar-nav">
-                            <li class="nav-item px-1 m-0 d-lg-none">
-                                <a class="nav-link h3 py-0 <?php if('home'==$activeMenuPage) echo 'active amuseBar-text-green' ?>" href="/index.php">Accueil</a>
+                            <li class="nav-item px-4 m-0 d-lg-none">
+                                <a class="nav-link h3 py-0 <?php if('home'==$activeMenuPage) echo 'active' ?>" href="/index.php">Accueil</a>
                             </li>
-                            <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('concept'==$activeMenuPage) echo 'active amuseBar-text-green' ?>" href="/concept.php">Concept</a>
+                            <li class="nav-item px-4 m-0">
+                                <a class="nav-link h3 py-0 menu-concept <?php if('concept'==$activeMenuPage) echo 'active' ?>" href="/concept.php"></a>
                             </li>
                                 <ul class="navbar-nav ps-4 d-lg-none">
                                     <?php include("navHomeLi.php"); ?>
                                 </ul>
-                            <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('bar'==$activeMenuPage) echo 'active amuseBar-text-orange' ?>" href="/bar.php">Bar à jeux</a>
+                            <li class="nav-item px-4 m-0">
+                                <a class="nav-link h3 py-0 menu-bar <?php if('bar'==$activeMenuPage) echo 'active' ?>" href="/bar.php"></a>
                             </li>
-                            <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('shop'==$activeMenuPage) echo 'active amuseBar-text-purple' ?>" href="/shop.php">Magasin</a>
+                            <li class="nav-item px-4 m-0">
+                                <a class="nav-link h3 py-0 menu-shop <?php if('shop'==$activeMenuPage) echo 'active' ?>" href="/shop.php"></a>
                             </li>
-                            <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('catering'==$activeMenuPage) echo 'active amuseBar-text-blue' ?>" href="/catering.php">Cuisine</a>
+                            <li class="nav-item px-4 m-0">
+                                <a class="nav-link h3 py-0 menu-catering <?php if('catering'==$activeMenuPage) echo 'active' ?>" href="/catering.php"></a>
                             </li>
                             <!--
                             <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('event'==$activeMenuPage) echo 'active amuseBar-text-maroon' ?>" href="/event.php">Evénements</a>
+                                <a class="nav-link h3 py-0 menu-event <?php if('event'==$activeMenuPage) echo 'active' ?>" href="/event.php"></a>
                             </li>
                             -->
-                            <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('crowdfunding'==$activeMenuPage) echo 'active amuseBar-text-maroon' ?>" href="/crowdfunding.php">Crowdfunding</a>
+                            <li class="nav-item px-4 m-0">
+                                <a class="nav-link h3 py-0 menu-crowdfunding <?php if('crowdfunding'==$activeMenuPage) echo 'active' ?>" href="/crowdfunding.php"></a>
                             </li>
-                            <li class="nav-item px-1 m-0">
-                                <a class="nav-link h3 py-0 <?php if('contact'==$activeMenuPage) echo 'active' ?>" href="/contact.php">Contacts</a>
+                            <li class="nav-item px-4 m-0">
+                                <a class="nav-link h3 py-0 menu-contact <?php if('contact'==$activeMenuPage) echo 'active' ?>" href="/contact.php"></a>
                             </li>
                         </ul>
 
