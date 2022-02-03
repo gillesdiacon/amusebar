@@ -37,7 +37,7 @@ require_once("init.php");
         <div class="row justify-content-center text-center amuseBar-bg-home2">
             <div class="col-lg-5 p-4 border-bottom">
                 <a href="bar.php" class="text-dark">
-                    <div class="h1 fw-bold amuseBar-text-bar">Le Bar à Jeux</div>
+                    <div class="h1 fw-bold amuseBar-text-bar">Bar à Jeux</div>
                     <div class="">1000 jeux de société pour jouer seul, entre amis ou en famille</div>
                     <div class="">Venez découvrir cette magnifique collection et rencontrer nos sommeliers du jeu</div>
                 </a>
@@ -72,7 +72,7 @@ require_once("init.php");
         <div class="row justify-content-center text-center amuseBar-bg-home2">
             <div class="col-lg-5 p-4 border-bottom">
                 <a href="catering.php" class="text-dark">
-                    <div class="h1 fw-bold amuseBar-text-catering">Restauration</div>
+                    <div class="h1 fw-bold amuseBar-text-catering">Coin gourmand</div>
                     <div class="">Pour régaler vos papilles durant vos parties endiablées</div>
                 </a>
                 <div class="row px-lg-5 text-dark">
@@ -86,7 +86,7 @@ require_once("init.php");
         <div class="row justify-content-center text-center amuseBar-bg-home1">
             <div class="col-lg-5 p-4 border-bottom">
                 <a href="shop.php" class="text-dark">
-                    <div class="h1 fw-bold amuseBar-text-shop">Le Magasin</div>
+                    <div class="h1 fw-bold amuseBar-text-shop">Magasin</div>
                     <div class="">Pour découvrir les jeux avant de pouvoir les acheter</div>
                 </a>
                 <div class="row px-lg-5 text-dark">
