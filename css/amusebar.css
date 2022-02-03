@@ -29,6 +29,10 @@ a, a:hover {
     height: 30px !important;
 }
 
+.amusebar-menu-home { background: url("/image/menu/menu-home.svg"); width: 110px; }
+.amusebar-menu-home:hover { background: url("/image/menu/menu-home-hover.svg"); }
+.amusebar-menu-home.active { background: url("/image/menu/menu-home-active.svg"); }
+
 .amusebar-menu-concept { background: url("/image/menu/menu-concept.svg"); width: 130px; }
 .amusebar-menu-concept:hover { background: url("/image/menu/menu-concept-hover.svg"); }
 .amusebar-menu-concept.active { background: url("/image/menu/menu-concept-active.svg"); }
@@ -65,7 +69,7 @@ a, a:hover {
 .amusebar-menu-team:hover { background: url("/image/menu/menu-team-hover.svg"); }
 .amusebar-menu-team.active { background: url("/image/menu/menu-team-active.svg"); }
 
-.amusebar-menu-timetable { background: url("/image/menu/menu-timetable.svg"); width: 60px; }
+.amusebar-menu-timetable { background: url("/image/menu/menu-timetable.svg"); width: 80px; }
 .amusebar-menu-timetable:hover { background: url("/image/menu/menu-timetable-hover.svg"); }
 .amusebar-menu-timetable.active { background: url("/image/menu/menu-timetable-active.svg"); }
 
@@ -75,6 +79,7 @@ a, a:hover {
 .navbar-collapse.collapsing .amusebar-sub-menu{
     height: 20px !important;
 }
+.navbar-collapse.collapse.show .amusebar-menu-home, .navbar-collapse.collapsing .amusebar-menu-home { width: 55px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-concept, .navbar-collapse.collapsing .amusebar-menu-concept { width: 60px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-bar, .navbar-collapse.collapsing .amusebar-menu-bar { width: 80px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-shop, .navbar-collapse.collapsing .amusebar-menu-shop { width: 55px !important; }
@@ -83,7 +88,7 @@ a, a:hover {
 .navbar-collapse.collapse.show .amusebar-menu-contact, .navbar-collapse.collapsing .amusebar-menu-contact { width: 55px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-convention, .navbar-collapse.collapsing .amusebar-menu-convention { width: 45px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-team, .navbar-collapse.collapsing .amusebar-menu-team { width: 45px !important; }
-.navbar-collapse.collapse.show .amusebar-menu-timetable, .navbar-collapse.collapsing .amusebar-menu-timetable { width: 45px !important; }
+.navbar-collapse.collapse.show .amusebar-menu-timetable, .navbar-collapse.collapsing .amusebar-menu-timetable { width: 55px !important; }
 
 .navbar-nav li {
     /*border: 1px solid gray;*/

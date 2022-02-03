@@ -13,7 +13,7 @@
                     <div class="flex-column ml-auto">
                         <ul class="navbar-nav pb-2">
                             <li class="nav-item px-4 d-lg-none">
-                                <a class="nav-link h3 py-0 m-0 <?php if('home'==$activeMenuPage) echo 'active' ?>" href="/index.php">Accueil</a>
+                                <a class="nav-link h3 py-0 m-0 amusebar-menu amusebar-menu-home <?php if('home'==$activeMenuPage) echo 'active' ?>" href="/index.php"></a>
                             </li>
                             <li class="nav-item px-4">
                                 <a class="nav-link h3 py-0 m-0 amusebar-menu amusebar-menu-concept <?php if('concept'==$activeMenuPage) echo 'active' ?>" href="/concept.php"></a>
