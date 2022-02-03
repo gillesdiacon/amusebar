@@ -25,7 +25,7 @@
                                 <a class="nav-link h3 py-0 m-0 amusebar-menu amusebar-menu-bar <?php if('bar'==$activeMenuPage) echo 'active' ?>" href="/bar.php"></a>
                             </li>
                             <li class="nav-item px-4">
-                                <a class="nav-link h3 py-0 m-0 amusebar-menu amusebar-menu-shop <?php if('shop'==$activeMenuPage) echo 'active' ?>" href="/shop.php"></a>
+                                <a class="nav-link h3 py-0 m-0 amusebar-menu amusebar-menu-crowdfunding <?php if('crowdfunding'==$activeMenuPage) echo 'active' ?>" href="/crowdfunding.php"></a>
                             </li>
                             <li class="nav-item px-4">
                                 <a class="nav-link h3 py-0 m-0 amusebar-menu amusebar-menu-catering <?php if('catering'==$activeMenuPage) echo 'active' ?>" href="/catering.php"></a>
@@ -36,7 +36,7 @@
                             </li>
                             -->
                             <li class="nav-item px-4">
-                                <a class="nav-link h3 py-0 m-0 amusebar-menu amusebar-menu-crowdfunding <?php if('crowdfunding'==$activeMenuPage) echo 'active' ?>" href="/crowdfunding.php"></a>
+                                <a class="nav-link h3 py-0 m-0 amusebar-menu amusebar-menu-shop <?php if('shop'==$activeMenuPage) echo 'active' ?>" href="/shop.php"></a>
                             </li>
                             <li class="nav-item px-4">
                                 <a class="nav-link h3 py-0 m-0 amusebar-menu amusebar-menu-contact <?php if('contact'==$activeMenuPage) echo 'active' ?>" href="/contact.php"></a>
