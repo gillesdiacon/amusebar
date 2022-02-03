@@ -36,6 +36,14 @@ require_once("init.php");
     <div class="container-fluid">
         <div class="row justify-content-center text-center amuseBar-bg-home2">
             <div class="col-lg-5 p-4 border-bottom">
+                <a href="/" class="text-dark">
+                    <div class="h1 fw-bold amuseBar-text-welcome d-lg-none">Bienvenue à<br />l'Amuse-Bar</div>
+                    <div class="h1 fw-bold amuseBar-text-welcome d-none d-lg-block">Bienvenue à l'Amuse-Bar</div>
+                </a>
+            </div>
+        </div>
+        <div class="row justify-content-center text-center amuseBar-bg-home1">
+            <div class="col-lg-5 p-4 border-bottom">
                 <a href="bar.php" class="text-dark">
                     <div class="h1 fw-bold amuseBar-text-bar">Bar à Jeux</div>
                     <div class="">1000 jeux de société pour jouer seul, entre amis ou en famille</div>
@@ -55,7 +63,7 @@ require_once("init.php");
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center text-center amuseBar-bg-home1">
+        <div class="row justify-content-center text-center amuseBar-bg-home2">
             <div class="col-lg-5 p-4 border-bottom">
                 <a href="crowdfunding.php" class="text-dark">
                     <div class="h1 fw-bold amuseBar-text-crowdfunding">Crowdfunding</div>
@@ -69,7 +77,7 @@ require_once("init.php");
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center text-center amuseBar-bg-home2">
+        <div class="row justify-content-center text-center amuseBar-bg-home1">
             <div class="col-lg-5 p-4 border-bottom">
                 <a href="catering.php" class="text-dark">
                     <div class="h1 fw-bold amuseBar-text-catering">Coin gourmand</div>
@@ -83,7 +91,7 @@ require_once("init.php");
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center text-center amuseBar-bg-home1">
+        <div class="row justify-content-center text-center amuseBar-bg-home2">
             <div class="col-lg-5 p-4 border-bottom">
                 <a href="shop.php" class="text-dark">
                     <div class="h1 fw-bold amuseBar-text-shop">Magasin</div>
@@ -97,7 +105,7 @@ require_once("init.php");
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center text-center amuseBar-bg-home2">
+        <div class="row justify-content-center text-center amuseBar-bg-home1">
             <div class="col p-4 text-dark">
                 <div class="h5 fst-italic ">"Chaque homme cache en lui un enfant qui veut jouer" - Friedrich Nietzsche</div>
             </div>
