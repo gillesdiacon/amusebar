@@ -43,7 +43,7 @@ require_once("init.php");
                         <p class="mt-3">Alors si notre projet vous touche et vous intéresse, nous vous invitons à participer à notre crowdfunding pour nous aider à acheter
                             une belle cuisine professionnelle pour vous faire de bons petits plats et du mobilier confortable, pour que vous vous sentiez comme à la maison.</p>
                         <p>Vous pouvez nous soutenir en cliquant directement sur le lien ci-dessous:<br>
-                            <a href="#">xxxxxxxxx</a>
+                            <a href="https://www.heroslocaux.ch/fr/lamusebar">www.heroslocaux.ch/fr/lamusebar</a>
                         </p>
                         <p>
 
