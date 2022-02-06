@@ -45,17 +45,6 @@ require_once("init.php");
                         <p>Vous pouvez nous soutenir en cliquant directement sur le lien ci-dessous:<br>
                             <a href="https://www.heroslocaux.ch/fr/lamusebar">www.heroslocaux.ch/fr/lamusebar</a>
                         </p>
-                        <p>
-
-                        </p>
-                        <p class="mb-0">ou en versant directement l'argent sur le compte de notre société (Les 3 Loutres Sàrl):</p>
-                        <p class="ps-2">Banque Clientis<br>
-                            Les 3 Loutres Sàrl<br>
-                            IBAN: CH60 0624 0575 1277 4090 1<br>
-                            Adresse Caisse d'Epargne Courtelary SA<br>
-                            Grand Rue 45<br>
-                            2608 Courtelary
-                        </p>
                     </div>
                 </div>
             </div>
