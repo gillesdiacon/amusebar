@@ -36,9 +36,11 @@ require_once("init.php");
     <div class="container-fluid">
         <div class="row justify-content-center text-center amuseBar-bg-home2">
             <div class="col-lg-5 p-4 border-bottom">
-                <a href="/" class="text-dark">
+                <a href="/" class="fw-bold text-dark">
                     <div class="h1 fw-bold amuseBar-text-welcome d-lg-none">Bienvenue à<br />l'Amuse-Bar</div>
                     <div class="h1 fw-bold amuseBar-text-welcome d-none d-lg-block">Bienvenue à l'Amuse-Bar</div>
+                    <div class="fw-bold">Ouverture prévue au printemps 2022</div>
+                    <div class="fw-bold">Suivez l'avancée des travaux sur <a class="fw-bold" href="https://www.facebook.com/lamusebarlcdf">Facebook</a> et <a class="fw-bold" href="https://www.instagram.com/lamusebar_chauxdefonds/">Instagram</a></div>
                 </a>
             </div>
         </div>
