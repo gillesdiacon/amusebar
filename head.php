@@ -1,6 +1,6 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="">
+        <meta name="description" content="Amuse Bar: bar à jeux et produits du terroir">
         <meta name="author" content="">
         <link rel="icon" type="image/png" href="tp.png" />
     
