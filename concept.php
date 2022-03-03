@@ -15,7 +15,7 @@ require_once("init.php");
 <div class="fixed-bottom d-none d-lg-block">
     <div class="row p-5">
         <div class="col-lg-3">
-            <img src="image/punchline/punchline-concept.svg" />
+            <img src="image/punchline/punchline-concept.svg" alt="L'amuse-Bar, c'est plus qu'un bar, c'est un lieu de découverte, de rencontre ludique et d'évasion" />
         </div>
     </div>
 </div>
@@ -51,7 +51,7 @@ require_once("init.php");
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
         <div class="col mx-lg-5 px-4 convention_background">
-            <img src="image/convention.png" width="100%" />
+            <img src="image/convention.png" width="100%" alt="Charte de l'Amuse-Bar" />
         </div>
     </div>
 </div>
@@ -71,7 +71,7 @@ require_once("init.php");
                     <div class="fw-bold fs-4">Vanessa</div>
                     <div class="row ps-lg-5">
                         <div class="col-lg-3 w-auto">
-                            <img width="200" src="image/vanessa.png">
+                            <img width="200" src="image/vanessa.png" alt="Vanessa">
                         </div>
                         <div class="col pt-lg-4">
                             <p class="text-justify">Salut, je suis pédopsychiatre et passionnée de jeux de société. Je suis sportive, dynamique et enthousiaste. J'adore partager mes passions avec mes amis, ma famille et le jeu m'a permis de faire de belles rencontres inattendues. Je me réjouis de vous faire découvrir cet univers magique et partager avec vous ma passion pour les jeux de société.</p>
@@ -85,7 +85,7 @@ require_once("init.php");
                     <div class="fw-bold fs-4">Laetitia</div>
                     <div class="row ps-lg-5">
                         <div class="col-lg-3 w-auto">
-                            <img width="200" src="image/laetitia.png">
+                            <img width="200" src="image/laetitia.png" alt="Laetitia">
                         </div>
                         <div class="col pt-lg-4">
                             <div class="text-justify">Salut ! Je suis architecte d'intérieur de formation (mais pas que) et je viens directement du plat pays (la Belgique donc) pour partager avec vous un moment sympa, autour d'un jeu, d'une bonne bière, ou simplement pour papoter. J'ai l'habitude d'animer des groupes et je me ferai un plaisir de vous expliquer des jeux.</div>
@@ -99,7 +99,7 @@ require_once("init.php");
                     <div class="fw-bold fs-4">Stéphane</div>
                     <div class="row ps-lg-5">
                         <div class="col-lg-3 w-auto">
-                            <img width="200" src="image/stephane.png">
+                            <img width="200" src="image/stephane.png" alt="Stéphane">
                         </div>
                         <div class="col pt-lg-4">
                             <p class="text-justify">Salut ! Je suis sociologue et j'aime partager un moment hors du temps autour d'un jeu de société. J'adore également rencontrer des producteurs locaux pour dénicher de bons produits du terroir et faire la tournée des brasseries artisanales. J'aurai un immense plaisir à vous faire découvrir ces produits d'exception et faire vivre la passion de l'artisan.</p>

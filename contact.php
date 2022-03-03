@@ -20,7 +20,7 @@ require_once("init.php");
             <div id="timetable" class="pb-4 px-lg-4 container-fluid">
                 <div class="row px-lg-5">
                     <div class="col pt-5">
-                        <img src="image/mapPuzzle_landscape.png" width="100%">
+                        <img src="image/mapPuzzle_landscape.png" width="100%" alt="Plan d'accès de l'Amuse-Bar à La Chaux-de-Fonds">
                     </div>
                     <div class="col text-center">
                         <div class="d-inline-block">

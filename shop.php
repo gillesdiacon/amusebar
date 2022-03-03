@@ -22,7 +22,7 @@
         <div class="fixed-bottom d-none d-lg-block">
             <div class="row p-5">
                 <div class="col-lg-3">
-                    <img src="image/punchline/punchline-shop.svg" />
+                    <img src="image/punchline/punchline-shop.svg" alt="L'Amuse-Bar, Le magasin où l'on peut essayer les jeux avant de les acheter" />
                 </div>
             </div>
         </div>

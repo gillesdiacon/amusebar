@@ -6,7 +6,7 @@
                         </div>
                         <div class="col text-end">
                             <a href="/login.php">
-                                <img src="/image/loutre.png" height="50px">
+                                <img src="/image/loutre.png" height="50px" alt="Les loutres fondatrices de l'Amuse-Bar à La Chaux-de-Fonds">
                             </a>
                         </div>
                     </div>
