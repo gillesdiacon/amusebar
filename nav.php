@@ -18,6 +18,11 @@
                                 </a>
                             </li>
                             <li class="nav-item px-4">
+                                <a title="News" class="nav-link py-0 m-0" href="/news.php">
+                                    <h1 class="text-smallcaps font-rainbow amusebar-menu m-lg-0 <?php if('new'==$activeMenuPage) echo 'active' ?>">News</h1>
+                                </a>
+                            </li>
+                            <li class="nav-item px-4">
                                 <a title="Concept" class="nav-link py-0 m-0" href="/concept.php">
                                     <h1 class="text-smallcaps font-rainbow amusebar-menu m-lg-0 <?php if('concept'==$activeMenuPage) echo 'active' ?>">Concept</h1>
                                 </a>
