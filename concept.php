@@ -15,9 +15,7 @@ require_once("init.php");
 <div class="fixed-bottom d-none d-lg-block">
     <div class="row p-5">
         <div class="col-lg-3">
-        <!--
             <img src="image/punchline/punchline-concept.svg" alt="L'amuse-Bar, c'est plus qu'un bar, c'est un lieu de découverte, de rencontre ludique et d'évasion" />
-            -->
         </div>
     </div>
 </div>
