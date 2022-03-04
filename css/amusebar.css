@@ -1,3 +1,20 @@
+@font-face {
+    font-family: bubbleRainbow;
+    src: url("../font/BubbleRainbow.ttf");
+}
+
+.font-rainbow {
+    font-family: bubbleRainbow;
+}
+
+.text-smallcaps {
+    font-variant: small-caps;
+}
+
+.fs-0 {
+    font-size: 3.5rem !important
+}
+
 * {
     font-size: 18px;
 }
@@ -16,62 +33,11 @@ a, a:hover {
     text-decoration: none;
 }
 
-.amusebar-menu {
-    background-repeat: no-repeat !important;
-    background-position: center bottom !important;
-    background-size: 100% auto !important;
-    height: 50px !important;
-}
-.amusebar-sub-menu {
-    background-repeat: no-repeat !important;
-    background-position: center bottom !important;
-    background-size: 100% auto !important;
-    height: 30px !important;
-}
+.amusebar-menu { color: #7B7C7F }
+.amusebar-menu:hover { color: #42413E }
+.amusebar-menu.active { color: #0903F9 }
 
-.amusebar-menu-home { background: url("/image/menu/menu-home.svg"); width: 110px; }
-.amusebar-menu-home:hover { background: url("/image/menu/menu-home-hover.svg"); }
-.amusebar-menu-home.active { background: url("/image/menu/menu-home-active.svg"); }
-
-.amusebar-menu-concept { background: url("/image/menu/menu-concept.svg"); width: 130px; }
-.amusebar-menu-concept:hover { background: url("/image/menu/menu-concept-hover.svg"); }
-.amusebar-menu-concept.active { background: url("/image/menu/menu-concept-active.svg"); }
-
-.amusebar-menu-bar { background: url("/image/menu/menu-bar.svg"); width: 190px; }
-.amusebar-menu-bar:hover { background: url("/image/menu/menu-bar-hover.svg"); }
-.amusebar-menu-bar.active { background: url("/image/menu/menu-bar-active.svg"); }
-
-.amusebar-menu-shop { background: url("/image/menu/menu-shop.svg"); width: 132px; }
-.amusebar-menu-shop:hover { background: url("/image/menu/menu-shop-hover.svg"); }
-.amusebar-menu-shop.active { background: url("/image/menu/menu-shop-active.svg"); }
-
-.amusebar-menu-catering { background: url("/image/menu/menu-catering.svg"); width: 270px; }
-.amusebar-menu-catering:hover { background: url("/image/menu/menu-catering-hover.svg"); }
-.amusebar-menu-catering.active { background: url("/image/menu/menu-catering-active.svg"); }
-
-.amusebar-menu-event { background: url("/image/menu/menu-event.svg"); width: 100px; }
-.amusebar-menu-event:hover { background: url("/image/menu/menu-event-hover.svg"); }
-.amusebar-menu-event.active { background: url("/image/menu/menu-event-active.svg"); }
-
-.amusebar-menu-crowdfunding { background: url("/image/menu/menu-crowdfunding.svg"); width: 235px; }
-.amusebar-menu-crowdfunding:hover { background: url("/image/menu/menu-crowdfunding-hover.svg"); }
-.amusebar-menu-crowdfunding.active { background: url("/image/menu/menu-crowdfunding-active.svg"); }
-
-.amusebar-menu-contact { background: url("/image/menu/menu-contact.svg"); width: 126px; }
-.amusebar-menu-contact:hover { background: url("/image/menu/menu-contact-hover.svg"); }
-.amusebar-menu-contact.active { background: url("/image/menu/menu-contact-active.svg"); }
-
-.amusebar-menu-convention { background: url("/image/menu/menu-convention.svg"); width: 60px; }
-.amusebar-menu-convention:hover { background: url("/image/menu/menu-convention-hover.svg"); }
-.amusebar-menu-convention.active { background: url("/image/menu/menu-convention-active.svg"); }
-
-.amusebar-menu-team { background: url("/image/menu/menu-team.svg"); width: 60px; }
-.amusebar-menu-team:hover { background: url("/image/menu/menu-team-hover.svg"); }
-.amusebar-menu-team.active { background: url("/image/menu/menu-team-active.svg"); }
-
-.amusebar-menu-timetable { background: url("/image/menu/menu-timetable.svg"); width: 80px; }
-.amusebar-menu-timetable:hover { background: url("/image/menu/menu-timetable-hover.svg"); }
-.amusebar-menu-timetable.active { background: url("/image/menu/menu-timetable-active.svg"); }
+.amusebar-sub-menu { }
 
 .navbar-collapse.collapse.show .amusebar-menu,
 .navbar-collapse.collapsing .amusebar-menu,

@@ -1,9 +1,15 @@
     <li class="nav-item px-2">
-        <a title="charte" class="nav-link h5 py-0 m-0 amusebar-sub-menu amusebar-menu-convention" href="/concept.php#charte"></a>
+        <a title="charte" class="nav-link py-0 m-0" href="/concept.php#charte">
+            <h4 class="text-smallcaps font-rainbow amusebar-menu">Charte</h4>
+        </a>
     </li>
     <li class="nav-item px-2">
-        <a title="Equipe" class="nav-link h5 py-0 m-0 amusebar-sub-menu amusebar-menu-team" href="/concept.php#team"></a>
+        <a title="Equipe" class="nav-link py-0 m-0" href="/concept.php#team">
+            <h4 class="text-smallcaps font-rainbow amusebar-menu">Equipes</h4>
+        </a>
     </li>
     <li class="nav-item px-2">
-        <a title="Horaires" class="nav-link h5 py-0 m-0 amusebar-sub-menu amusebar-menu-timetable" href="/concept.php#timetable"></a>
+        <a title="Horaires" class="nav-link py-0 m-0" href="/concept.php#timetable">
+            <h4 class="text-smallcaps font-rainbow amusebar-menu">Horaires</h4>
+        </a>
     </li>
