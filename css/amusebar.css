@@ -86,6 +86,10 @@ a, a:hover {
 .pt-9 { padding-top: 5rem !important }
 .pt-10 { padding-top: 5.5rem !important }
 
+.border-blue { border-color: #394b93 !important; }
+
+.rounded-1 { border-radius: 1rem !important; }
+
 .amuseBar-text-orange { color: #FCB63A !important; }
 .amuseBar-text-maroon { color: #4D194D !important; }
 .amuseBar-text-blue { color: #1186A7 !important; }
@@ -99,6 +103,7 @@ a, a:hover {
 .amuseBar-bg-green { background-color: #00B690 !important; }
 .amuseBar-bg-purple { background-color: #D98CED !important; }
 .amuseBar-bg-cream { background-color: #F6F2E7 !important; }
+.amuseBar-bg-blue2 { background-color: #0903F9 !important; }
 
 .amuseBar-text-welcome { color: #0903F9 !important; }
 .amuseBar-text-bar { color: #0903F9 !important; }
