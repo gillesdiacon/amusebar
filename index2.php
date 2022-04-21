@@ -12,23 +12,6 @@ require_once("init.php");
 </head>
 <body>
 
-<div class="modal">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Crowd funding</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-
-                <video controls="controls" src="image/crowdFunding.mp4">
-                    Your browser does not support the HTML5 Video element.
-                </video>
-            </div>
-        </div>
-    </div>
-</div>
-
 <div style="background-image: url('image/bg/home_filtre.png'); background-size: cover">
     <?php
     require_once("nav.php");
