@@ -50,7 +50,6 @@ a, a:hover {
 .navbar-collapse.collapse.show .amusebar-menu-bar, .navbar-collapse.collapsing .amusebar-menu-bar { width: 80px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-shop, .navbar-collapse.collapsing .amusebar-menu-shop { width: 55px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-catering, .navbar-collapse.collapsing .amusebar-menu-catering { width: 115px !important; }
-.navbar-collapse.collapse.show .amusebar-menu-crowdfunding, .navbar-collapse.collapsing .amusebar-menu-crowdfunding { width: 100px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-contact, .navbar-collapse.collapsing .amusebar-menu-contact { width: 55px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-convention, .navbar-collapse.collapsing .amusebar-menu-convention { width: 45px !important; }
 .navbar-collapse.collapse.show .amusebar-menu-team, .navbar-collapse.collapsing .amusebar-menu-team { width: 45px !important; }
@@ -107,7 +106,6 @@ a, a:hover {
 
 .amuseBar-text-welcome { color: #0903F9 !important; }
 .amuseBar-text-bar { color: #0903F9 !important; }
-.amuseBar-text-crowdfunding { color: #0903F9 !important; }
 .amuseBar-text-catering { color: #0903F9 !important; }
 .amuseBar-text-concept { color: #0903F9 !important; }
 .amuseBar-text-shop { color: #0903F9 !important; }

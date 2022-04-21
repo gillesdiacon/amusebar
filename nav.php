@@ -36,11 +36,6 @@
                                 </a>
                             </li>
                             <li class="nav-item px-4">
-                                <a title="Crowdfunding" class="nav-link py-0 m-0" href="/crowdfunding.php">
-                                    <h1 class="text-smallcaps font-rainbow amusebar-menu m-lg-0 <?php if('crowdfunding'==$activeMenuPage) echo 'active' ?>">Crowdfunding</h1>
-                                </a>
-                            </li>
-                            <li class="nav-item px-4">
                                 <a title="Coin gourmand" class="nav-link py-0 m-0" href="/catering.php">
                                     <h1 class="text-smallcaps font-rainbow amusebar-menu m-lg-0 <?php if('catering'==$activeMenuPage) echo 'active' ?>">Coin gourmand</h1>
                                 </a>

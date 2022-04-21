@@ -12,23 +12,6 @@ require_once("init.php");
 </head>
 <body>
 
-<div class="modal">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title">Crowd funding</h5>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-
-                <video controls="controls" src="image/crowdFunding.mp4">
-                    Your browser does not support the HTML5 Video element.
-                </video>
-            </div>
-        </div>
-    </div>
-</div>
-
 <div class="amuseBar-bg-home amuseBar-bg-cream">
     <?php
     require_once("nav.php");
@@ -61,20 +44,6 @@ require_once("init.php");
                     </div>
                     <div class="col">
                         <a class="text-dark" href="/contact.php">#Horaires</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row justify-content-center text-center amuseBar-bg-home2">
-            <div class="col-lg-5 p-4 border-bottom">
-                <a href="crowdfunding.php" class="text-dark">
-                    <div class="h1 fw-bold amuseBar-text-crowdfunding">Crowdfunding</div>
-                    <div class="">Pour que le rêve devienne réalité ...</div>
-                </a>
-                <div class="row px-lg-5 text-dark">
-                    <div class="col d-lg-none">&nbsp;</div>
-                    <div class="col">
-                        <a class="text-dark" href="/crowdfunding.php">#Crowdfunding</a>
                     </div>
                 </div>
             </div>

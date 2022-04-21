@@ -70,17 +70,6 @@ require_once("init.php");
             </div>
             <div class="col-lg-2 border border-3 border-blue rounded-1 p-2 m-2">
                 <div>
-                    <img src="image/home_crowdfunding.png" width="100%" />
-                </div>
-                <!--
-                <div class="py-3">CROWDFUNDING</div>
-                <div>
-                    <p>Pour que le rêve devienne réalité, nous avons besoin de votre soutien.</p>
-                </div>
-                -->
-            </div>
-            <div class="col-lg-2 border border-3 border-blue rounded-1 p-2 m-2">
-                <div>
                     <img src="image/home_catering.png" width="100%" />
                 </div>
                 <!--
