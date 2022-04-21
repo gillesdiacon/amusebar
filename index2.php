@@ -19,25 +19,17 @@ require_once("init.php");
     <div class="container-fluid py-5">
         <div class="row justify-content-center text-center">
             <div class="col-lg-6">
-                <div class="h1 text-white">Bienvenue à</div>
+                <div class="h1 text-white font-raleway fw-bold">Bienvenue à</div>
                 <div>
                     <img src="image/logo_blanc.png"  width="200px"/>
                 </div>
-                <div class="text-white">L'Amuse-Bar c'est plus qu'un simple bar,<br/>c'est un lieu de découverte, de rencontre ludique et d'évasion.</div>
+                <div class="text-white font-raleway fw-medium">L'Amuse-Bar c'est plus qu'un simple bar,<br/>c'est un lieu de découverte, de rencontre ludique et d'évasion.</div>
             </div>
         </div>
 
         <div class="row justify-content-center text-center pt-5">
             <div class="col-lg-6">
-                <div class="text-white">Vous pouvez aussi nous suivre sur les réseaux sociaux</div>
-                <div>
-                    <a href="https://www.facebook.com/lamusebarlcdf" target="_blank">
-                        <img src="image/facebook.png" width="75" />
-                    </a>
-                    <a href="https://www.instagram.com/lamusebar_chauxdefonds/">
-                        <img src="image/instagram.png" width="50" target="_blank"/>
-                    </a>
-                </div>
+                <div class="text-white font-raleway fw-medium">Vous pouvez aussi nous suivre sur les réseaux sociaux</div>
             </div>
         </div>
     </div>
@@ -46,9 +38,9 @@ require_once("init.php");
 <div>
     <div class="container-fluid">
         <div class="row justify-content-center text-center pt-4">
-            <div class="col-6">
+            <div class="col-6 amuseBar-text-gray-blue font-raleway fw-medium">
                 <div>
-                    <img class="border border-3 border-blue rounded-1 p-3" src="image/logo_bleu.png"  width="200px"/>
+                    <img class="p-3" src="image/logo_bleu.png"  width="200px"/>
                 </div>
                 <div class="pt-2">A prévu de vous ouvrir ses portes dans le courant de l'été 2022.</div>
                 <div class="pt-2">D'ici là, suivez l'anvancée du projet sur <a href="https://www.facebook.com/lamusebarlcdf" target="_blank">Facebook</a>
@@ -57,38 +49,49 @@ require_once("init.php");
         </div>
 
         <div class="row justify-content-center text-center p-5">
-            <div class="col-lg-2 border border-3 border-blue rounded-1 p-2 m-2">
-                <div>
-                    <img src="image/home_concept.png" width="100%" />
-                </div>
-                <!--
-                <div class="py-3">BAR A JEUX</div>
-                <div>
-                    <p>1000 jeux de société pour jouer seul, en famille ou entre amis.</p>
-                </div>
-                -->
+            <div class="col-lg-2 p-4 m-5">
+                <a href="/concept.php">
+                    <div>
+                        <img src="image/home_concept.png" width="80%" />
+                    </div>
+                    <div class="py-3 h5 font-raleway fw-semi-bold amuseBar-text-home-concept">BAR A JEUX</div>
+                    <div>
+                        <p class="amuseBar-text-gray-blue font-raleway fw-medium">1000 jeux de société pour jouer seul, en famille ou entre amis.</p>
+                    </div>
+                </a>
             </div>
-            <div class="col-lg-2 border border-3 border-blue rounded-1 p-2 m-2">
-                <div>
-                    <img src="image/home_catering.png" width="100%" />
-                </div>
-                <!--
-                <div class="py-3">COIN GOURMAND</div>
-                <div>
-                    <p>Pour régaler vos papilles durant vos parties endiablées.</p>
-                </div>
-                -->
+            <div class="col-lg-2 p-4 m-5">
+                <a href="/catering.php">
+                    <div>
+                        <img src="image/home_catering.png" width="80%" />
+                    </div>
+                    <div class="py-3 h5 font-raleway fw-semi-bold amuseBar-text-home-catering">COIN GOURMAND</div>
+                    <div>
+                        <p class="amuseBar-text-gray-blue font-raleway fw-medium">Pour régaler vos papilles durant vos parties endiablées.</p>
+                    </div>
+                </a>
             </div>
-            <div class="col-lg-2 border border-3 border-blue rounded-1 p-2 m-2">
-                <div>
-                    <img src="image/home_shop.png" width="100%" />
-                </div>
-                <!--
-                <div class="py-3">MAGASIN</div>
-                <div>
-                    <p>Pour découvrir les jeux avant de pouvoir les acheter.</p>
-                </div>
-                -->
+            <div class="col-lg-2 p-4 m-5">
+                <a href="/shop.php">
+                    <div>
+                        <img src="image/home_shop.png" width="80%" />
+                    </div>
+                    <div class="py-3 h5 font-raleway fw-semi-bold amuseBar-text-home-shop">MAGASIN</div>
+                    <div>
+                        <p class="amuseBar-text-gray-blue font-raleway fw-medium">Pour découvrir les jeux avant de pouvoir les acheter.</p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-2 p-4 m-5">
+                <!-- a href="" -->
+                    <div>
+                        <img src="image/home_support.png" width="80%" />
+                    </div>
+                    <div class="py-3 h5 font-raleway fw-semi-bold amuseBar-text-home-support">SOUTIEN</div>
+                    <div>
+                        <p class="amuseBar-text-gray-blue font-raleway fw-medium">Pour que le rêve devienne réalité, nous avons besoin de votre soutien.</p>
+                    </div>
+                <!-- /a -->
             </div>
         </div>
     </div>

@@ -3,8 +3,18 @@
     src: url("../font/BubbleRainbow.ttf");
 }
 
+@font-face {
+    font-family: raleway;
+    src: url("../font/Raleway.ttf");
+}
+
 .font-rainbow {
     font-family: bubbleRainbow;
+}
+
+
+.font-raleway {
+    font-family: raleway;
 }
 
 .text-smallcaps {
@@ -85,9 +95,8 @@ a, a:hover {
 .pt-9 { padding-top: 5rem !important }
 .pt-10 { padding-top: 5.5rem !important }
 
-.border-blue { border-color: #394b93 !important; }
-
-.rounded-1 { border-radius: 1rem !important; }
+.fw-medium { font-weight: 500 !important; }
+.fw-semi-bold { font-weight: 600 !important; }
 
 .amuseBar-text-orange { color: #FCB63A !important; }
 .amuseBar-text-maroon { color: #4D194D !important; }
@@ -95,6 +104,12 @@ a, a:hover {
 .amuseBar-text-green { color: #00B690 !important; }
 .amuseBar-text-purple { color: #D98CED !important; }
 .amuseBar-text-cream { color: #F6F2E7 !important; }
+.amuseBar-text-gray-blue { color: #747E80 !important; }
+
+.amuseBar-text-home-concept { color: #AC3B24 !important; }
+.amuseBar-text-home-catering { color: #D65916 !important; }
+.amuseBar-text-home-shop { color: #457246 !important; }
+.amuseBar-text-home-support { color: #E06E6E !important; }
 
 .amuseBar-bg-orange { background-color: #FCB63A !important; }
 .amuseBar-bg-maroon { background-color: #4D194D !important; }
