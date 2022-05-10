@@ -49,4 +49,3 @@
                 <td class="px-2"></td>
             </tr>
         </table>
-
