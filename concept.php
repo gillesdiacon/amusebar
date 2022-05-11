@@ -88,8 +88,8 @@ require_once("init.php");
                             <img width="200" src="image/laetitia.png" alt="Laetitia">
                         </div>
                         <div class="col pt-lg-4">
-                            <div class="text-justify">Salut ! Je suis architecte d'intérieur de formation (mais pas que) et je viens directement du plat pays (la Belgique donc) pour partager avec vous un moment sympa, autour d'un jeu, d'une bonne bière, ou simplement pour papoter. J'ai l'habitude d'animer des groupes et je me ferai un plaisir de vous expliquer des jeux.</div>
-                            <div class="fst-italic text-justify">"Le bonheur le plus doux est celui qu'on partage." Jacques Delille</div>
+                            <p class="text-justify">Salut ! Je suis architecte d'intérieur de formation (mais pas que) et je viens directement du plat pays (la Belgique donc) pour partager avec vous un moment sympa, autour d'un jeu, d'une bonne bière, ou simplement pour papoter. J'ai l'habitude d'animer des groupes et je me ferai un plaisir de vous expliquer des jeux.</p>
+                            <p class="fst-italic text-justify">"Le bonheur le plus doux est celui qu'on partage." Jacques Delille</p>
                         </div>
                     </div>
                 </div>
