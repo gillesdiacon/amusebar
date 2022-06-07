@@ -8,83 +8,103 @@ require_once("init.php");
     $activeMenuTitle = "Accueil";
     $activeMenuPage = "home";
     require_once("head.php");
+
+    // required to display partner
+    $partnerLogoType = "_index";
     ?>
 </head>
 <body>
 
-<div class="amuseBar-bg-home amuseBar-bg-cream">
+<div style="background-image: url('image/bg/home_filtre.png'); background-size: cover">
     <?php
     require_once("nav.php");
     ?>
+    <div class="container-fluid py-5">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-6">
+                <div class="h1 text-white font-raleway fw-bold">Bienvenue à</div>
+                <div>
+                    <img src="image/logo_blanc.png"  width="200px"/>
+                </div>
+                <div class="text-white font-raleway fw-medium">L'Amuse-Bar c'est plus qu'un simple bar,<br/>c'est un lieu de découverte, de rencontre ludique et d'évasion.</div>
+            </div>
+        </div>
+
+        <div class="row justify-content-center text-center pt-5">
+            <div class="col-lg-6">
+                <div class="text-white font-raleway fw-medium">Vous pouvez aussi nous suivre sur les réseaux sociaux.</div>
+            </div>
+        </div>
+        <div class="py-5">&nbsp;</div>
+    </div>
+</div>
+
+<div>
     <div class="container-fluid">
-        <div class="row justify-content-center text-center amuseBar-bg-home2">
-            <div class="col-lg-5 p-4 border-bottom">
-                <a href="/" class="fw-bold text-dark">
-                    <div class="h1 fw-bold amuseBar-text-welcome d-lg-none">Bienvenue à<br />l'Amuse-Bar</div>
-                    <div class="h1 fw-bold amuseBar-text-welcome d-none d-lg-block">Bienvenue à l'Amuse-Bar</div>
-                    <div class="fw-bold">Ouverture prévue durant l'été 2022</div>
-                    <div class="fw-bold">Suivez l'avancée des travaux sur <a class="fw-bold" href="https://www.facebook.com/lamusebarlcdf">Facebook</a> et <a class="fw-bold" href="https://www.instagram.com/lamusebar_chauxdefonds/">Instagram</a></div>
-                </a>
+        <div class="row justify-content-center text-center pt-4">
+            <div class="col-6 amuseBar-text-gray-blue font-raleway fw-medium">
+                <div class="pt-2">L'Amuse-Bar a prévu de vous ouvrir ses portes dans le courant de l'été 2022.</div>
+                <div class="pt-2">D'ici là, suivez l'anvancée du projet sur <a href="https://www.facebook.com/lamusebarlcdf" target="_blank">Facebook</a>
+                 et <a href="https://www.instagram.com/lamusebar_chauxdefonds/">Instagram</a>.</div>
             </div>
         </div>
-        <div class="row justify-content-center text-center amuseBar-bg-home1">
-            <div class="col-lg-5 p-4 border-bottom">
-                <a href="bar.php" class="text-dark">
-                    <div class="h1 fw-bold amuseBar-text-bar">Bar à Jeux</div>
-                    <div class="">1000 jeux de société pour jouer seul, entre amis ou en famille</div>
-                    <div class="">Venez découvrir cette magnifique collection et rencontrer nos sommeliers du jeu</div>
+
+        <div class="row justify-content-center text-center p-5">
+            <div class="col-lg-2 p-4 m-5">
+                <a href="/concept.php">
+                    <div>
+                        <img src="image/home_concept.png" width="80%" />
+                    </div>
+                    <div class="py-3 h5 font-raleway fw-semi-bold amuseBar-text-home-concept">BAR A JEUX</div>
+                    <div>
+                        <p class="amuseBar-text-gray-blue font-raleway fw-medium">1000 jeux de société pour jouer seul, en famille ou entre amis.</p>
+                    </div>
                 </a>
-                <div class="row px-lg-5 text-dark">
-                    <div class="col d-lg-none">&nbsp;</div>
-                    <div class="col">
-                        <a class="text-dark" href="/bar.php">#LeBaràJeux</a>
-                    </div>
-                    <div class="col">
-                        <a class="text-dark" href="/concept.php">#Concept</a>
-                    </div>
-                    <div class="col">
-                        <a class="text-dark" href="/contact.php">#Horaires</a>
-                    </div>
-                </div>
             </div>
-        </div>
-        <div class="row justify-content-center text-center amuseBar-bg-home1">
-            <div class="col-lg-5 p-4 border-bottom">
-                <a href="catering.php" class="text-dark">
-                    <div class="h1 fw-bold amuseBar-text-catering">Coin gourmand</div>
-                    <div class="">Pour régaler vos papilles durant vos parties endiablées</div>
+            <div class="col-lg-2 p-4 m-5">
+                <a href="/catering.php">
+                    <div>
+                        <img src="image/home_catering.png" width="80%" />
+                    </div>
+                    <div class="py-3 h5 font-raleway fw-semi-bold amuseBar-text-home-catering">COIN GOURMAND</div>
+                    <div>
+                        <p class="amuseBar-text-gray-blue font-raleway fw-medium">Pour régaler vos papilles durant vos parties endiablées.</p>
+                    </div>
                 </a>
-                <div class="row px-lg-5 text-dark">
-                    <div class="col d-lg-none">&nbsp;</div>
-                    <div class="col">
-                        <a class="text-dark" href="/shop.php">#LaCarte</a>
-                    </div>
-                </div>
             </div>
-        </div>
-        <div class="row justify-content-center text-center amuseBar-bg-home2">
-            <div class="col-lg-5 p-4 border-bottom">
-                <a href="shop.php" class="text-dark">
-                    <div class="h1 fw-bold amuseBar-text-shop">Magasin</div>
-                    <div class="">Pour découvrir les jeux avant de pouvoir les acheter</div>
+            <div class="col-lg-2 p-4 m-5">
+                <a href="/shop.php">
+                    <div>
+                        <img src="image/home_shop.png" width="80%" />
+                    </div>
+                    <div class="py-3 h5 font-raleway fw-semi-bold amuseBar-text-home-shop">MAGASIN</div>
+                    <div>
+                        <p class="amuseBar-text-gray-blue font-raleway fw-medium">Pour découvrir les jeux avant de pouvoir les acheter.</p>
+                    </div>
                 </a>
-                <div class="row px-lg-5 text-dark">
-                    <div class="col d-lg-none">&nbsp;</div>
-                    <div class="col">
-                        <a class="text-dark" href="/shop.php">#LeMagasin</a>
+            </div>
+            <!--
+            <div class="col-lg-2 p-4 m-5">
+                <a href="">
+                    <div>
+                        <img src="image/home_support.png" width="80%" />
                     </div>
-                </div>
+                    <div class="py-3 h5 font-raleway fw-semi-bold amuseBar-text-home-support">SOUTIEN</div>
+                    <div>
+                        <p class="amuseBar-text-gray-blue font-raleway fw-medium">Pour que le rêve devienne réalité, nous avons besoin de votre soutien.</p>
+                    </div>
+                </a>
             </div>
-        </div>
-        <div class="row justify-content-center text-center amuseBar-bg-home1">
-            <div class="col p-4 text-dark">
-                <div class="h5 fst-italic ">"Chaque homme cache en lui un enfant qui veut jouer" - Friedrich Nietzsche</div>
-            </div>
+            -->
         </div>
     </div>
 </div>
 
-<?php require_once("partners_col.php"); ?>
+<div class="amuseBar-bg-blue2">
+    <div class="container-fluid p-5">
+        <?php require_once("partners.php"); ?>
+    </div>
+</div>
 
 <?php require_once("finish.php"); ?>
 

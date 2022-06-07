@@ -47,8 +47,6 @@ require_once("init.php");
             </div>
         </div>
 
-        <?php require_once("partners_col.php"); ?>
-
         <?php require_once("footer.php"); ?>
 
         <?php require_once("finish.php"); ?>

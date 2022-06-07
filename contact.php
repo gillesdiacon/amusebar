@@ -8,12 +8,15 @@ require_once("init.php");
             $activeMenuTitle = "Contacts";
             $activeMenuPage = "contact";
             require_once("head.php");
+
+            // required to display partner
+            $partnerLogoType = "";
         ?>
     </head>
     <body>
 
         <!-- Timetable -->
-        <div id="timetable" class="" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
+        <div id="timetable" class="mb-5" style="background-image: url('image/bg/timetable-filtre-2.png'); background-size: cover">
             <?php
             require_once("nav.php");
             ?>
@@ -48,7 +51,7 @@ require_once("init.php");
             </div>
         </div>
 
-        <?php require_once("partners_col.php"); ?>
+        <?php require_once("partners.php"); ?>
 
         <?php require_once("footer.php"); ?>
 

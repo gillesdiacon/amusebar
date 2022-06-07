@@ -8,6 +8,8 @@ require_once("init.php");
             $activeMenuTitle = "News";
             $activeMenuPage = "news";
             require_once("head.php");
+
+            $menuDarkText = true;
         ?>
     </head>
     <body>
@@ -75,8 +77,6 @@ require_once("init.php");
                 </div>
             </div>
         </div>
-
-        <?php require_once("partners_col.php"); ?>
 
         <?php require_once("footer.php"); ?>
 

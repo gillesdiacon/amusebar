@@ -17,10 +17,6 @@
     font-family: raleway;
 }
 
-.text-smallcaps {
-    font-variant: small-caps;
-}
-
 .fs-0 {
     font-size: 3.5rem !important
 }
@@ -43,9 +39,15 @@ a, a:hover {
     text-decoration: none;
 }
 
-.amusebar-menu { color: #7B7C7F }
-.amusebar-menu:hover { color: #42413E }
-.amusebar-menu.active { color: #0903F9 }
+.amusebar-menu { color: #FFFFFF }
+.amusebar-menu-list:hover,
+.amusebar-menu-list.active { background-color: #0903F9 }
+.amusebar-menu-list:hover .amusebar-menu,
+.amusebar-menu-list.active .amusebar-menu { color: #FFFFFF !important; }
+
+.amusebar-menu.dark {
+    color: #747E80;
+}
 
 .amusebar-sub-menu { }
 
@@ -79,7 +81,7 @@ a, a:hover {
 
 .navbar-collapse.collapse.show,
 .navbar-collapse.collapsing{
-    background-color: #F6F2E7;
+    background-color: #747E80;
     /*flex-basis: auto;*/
     /*flex-grow: 0;*/
 }
@@ -105,6 +107,7 @@ a, a:hover {
 .amuseBar-text-purple { color: #D98CED !important; }
 .amuseBar-text-cream { color: #F6F2E7 !important; }
 .amuseBar-text-gray-blue { color: #747E80 !important; }
+.amuseBar-text-gray { color: #42413E !important; }
 
 .amuseBar-text-home-concept { color: #AC3B24 !important; }
 .amuseBar-text-home-catering { color: #D65916 !important; }
@@ -118,12 +121,6 @@ a, a:hover {
 .amuseBar-bg-purple { background-color: #D98CED !important; }
 .amuseBar-bg-cream { background-color: #F6F2E7 !important; }
 .amuseBar-bg-blue2 { background-color: #0903F9 !important; }
-
-.amuseBar-text-welcome { color: #0903F9 !important; }
-.amuseBar-text-bar { color: #0903F9 !important; }
-.amuseBar-text-catering { color: #0903F9 !important; }
-.amuseBar-text-concept { color: #0903F9 !important; }
-.amuseBar-text-shop { color: #0903F9 !important; }
 
 @media (min-width: 992px) {
     .amuseBar-bg-home {
