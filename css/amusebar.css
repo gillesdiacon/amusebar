@@ -21,6 +21,14 @@
     font-size: 3.5rem !important
 }
 
+.fs-7 {
+    font-size: 0.8rem !important
+}
+
+.fs-8 {
+    font-size: 0.7rem !important
+}
+
 * {
     font-size: 18px;
 }
