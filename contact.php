@@ -31,7 +31,7 @@ require_once("init.php");
                                 <div class="fs-4 fw-bold pb-3">Adresse</div>
                                 <div class="ms-3 fw-bold">
                                     <div><i class="bi bi-envelope pe-2"></i>Rue du Parc 71, 2300 La Chaux-de-Fond</div>
-                                    <div><i class="bi bi-telephone pe-2"></i>032 123 45 67</div>
+                                    <div><i class="bi bi-telephone pe-2"></i>079 755 04 15</div>
                                     <div>
                                         <a class="text-dark" target="_blank" href="https://goo.gl/maps/zL7wps1BRAFDHqYV7"><i class="bi bi-geo-alt pe-2"></i>google maps</a>
                                     </div>
