@@ -35,6 +35,21 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="news/Heroslocaux_20220619.pdf">
+                                    <img src="image/news/Heroslocaux_20220619.png" height="200px" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="font-weight-bold">Dernières nouvelles de L'Amuse-Bar</div>
+                                <span class="align-middle">Voici quelques nouvelles pour ceux qui ne nous suivent pas sur FB ou Instagram.<br/>
+                                Nous sommes bien occupés et avons rencontré quelques embûches sur notre chemin.</br>
+                                Le premier imprévu est la mise à l'enquête pour les travaux.</br>
+                                Le local n'était en effet pas affecté à une utilisation en tant que bar et la commune devait donc demander à la population de "valider" cette option.</br>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Le_O_p10_220225.pdf">
                                     <img src="image/news/Le_O_p10_220225.png" height="200px" />
                                 </a>
