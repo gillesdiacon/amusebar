@@ -15,8 +15,11 @@
     <div class="col-lg-2 d-flex flex-wrap align-items-center justify-content-center py-3">
         <img src="image/partner/herosLocaux<?php echo $partnerLogoType ?>.png" height="60px" alt="Raiffaisen Heros Locaux est partenaire de l'Amuse-Bar à La Chaux-de-Fonds">
     </div>
+    <div class="col-lg-1 d-flex flex-wrap align-items-center justify-content-center text-center py-3">
+        <img class="ms-5" src="image/partner/sericoludo<?php echo $partnerLogoType ?>.png" height="90px" alt="Sericoludo est partenaire de l'Amuse-Bar à La Chaux-de-Fonds">
+    </div>
     <div class="col-lg-2 d-flex flex-wrap align-items-center justify-content-center text-center py-3">
-        <img src="image/partner/sericoludo<?php echo $partnerLogoType ?>.png" height="90px" alt="Sericoludo est partenaire de l'Amuse-Bar à La Chaux-de-Fonds">
+        <img src="image/partner/proSenectute<?php echo $partnerLogoType ?>.png" height="90px" alt="ProSenectute est partenaire de l'Amuse-Bar à La Chaux-de-Fonds">
     </div>
     <div class="col-lg-5 d-flex flex-wrap align-items-center justify-content-center py-3">
         <img class="d-none d-lg-block" src="image/partner/b12<?php echo $partnerLogoType ?>.png" height="40px" alt="B12 est partenaire de l'Amuse-Bar à La Chaux-de-Fonds">
