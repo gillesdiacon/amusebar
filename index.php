@@ -26,7 +26,7 @@ require_once("init.php");
                 <div>
                     <img src="image/logo_blanc.png"  width="200px"/>
                 </div>
-                <div class="text-white font-raleway fw-medium">L'Amuse-Bar c'est plus qu'un simple bar,<br/>c'est un lieu de découverte, de rencontre ludique et d'évasion.</div>
+                <div class="text-white font-raleway fw-medium">L'Amuse-Bar c'est plus qu'un bar,<br/>c'est un lieu de découverte, de rencontre ludique et d'évasion.</div>
             </div>
         </div>
 
