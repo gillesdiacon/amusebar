@@ -35,16 +35,30 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="news/ArcInfo_220922.pdf">
+                                    <img src="image/news/ArcInfo_220922.png" height="200px" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">22 septembre 2022: L'Amuse-Bar a enfin obtenu son permis de construire</div>
+                                <span class="align-middle">«Nous avons le permis de construire. Enfin!», lance Vanessa Thomann-Rechik, cofondatrice
+                                    du futur Amuse-bar, local de jeux prévu sur 145 m2 à la rue du Parc 71, à La Chaux-de-Fonds. «Nous l’avons reçu
+                                    la semaine dernière, juste avant la prochaine édition de Ludesco, les 10 et 11 septembre.»</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Heroslocaux_20220619.pdf">
                                     <img src="image/news/Heroslocaux_20220619.png" height="200px" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
-                                <div class="font-weight-bold">Dernières nouvelles de L'Amuse-Bar</div>
+                                <div class="fw-bold">19 juin 2022: Dernières nouvelles de L'Amuse-Bar</div>
                                 <span class="align-middle">Voici quelques nouvelles pour ceux qui ne nous suivent pas sur FB ou Instagram.<br/>
                                 Nous sommes bien occupés et avons rencontré quelques embûches sur notre chemin.</br>
                                 Le premier imprévu est la mise à l'enquête pour les travaux.</br>
-                                Le local n'était en effet pas affecté à une utilisation en tant que bar et la commune devait donc demander à la population de "valider" cette option.</br>
+                                    Le local n'était en effet pas affecté à une utilisation en tant que bar et la commune devait donc demander à la population de "valider" cette option.</span>
                             </div>
                         </div>
 
@@ -55,6 +69,7 @@ require_once("init.php");
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
+                                <div class="fw-bold">25 février 2022: L'Amuse-Bar doit gagner la partie</div>
                                 <span class="align-middle">D'ici trois mois au plus, une pédopsychiatre, une décoratrice d'intérieur et un sociologue de La Chaux-de-Fonds vont réduire
                                 leur travail pour exercer dans un bar nouvellement créé! Plus que leur goût des bières artisanales, des cocktails et des produits
                                 du terroir, c'est la mouche du jeu qui les a piqués! Le bar à jeux dont ils rêvent depuis dix ans est lancé. Recherche de fonds en cours</span>
@@ -68,6 +83,7 @@ require_once("init.php");
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
+                                <div class="fw-bold">25 février 2022: L'Amuse-Bar, futur champion de Suisse des bars à jeux ?</div>
                                 <span>"Nous comptons ouvrir L'Amuse-bar sur 140 mètres carrès à la fin du printemps, une fois la mise à l'enquête et les travaux
                                 terminés. Le bail est signé."<br>Trois fans de jeux de société, la pédopsychiatre Vanessa Thomann-Rechik, l'architexte d'intérieur Laetitia Fletcher et
                                 le sociologue Stéphane Fleury, sont à l'origine de ce lieu qui ouvrira rue du Parc 71 à La Chaux-de-Fonds. Ils caressaient le même rêve: créer, dans la
@@ -82,6 +98,7 @@ require_once("init.php");
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
+                                <div class="fw-bold">25 février 2022: L'Amuse-Bar, piquez vous au jeux !</div>
                                 <span>L'une aime la bonne bière. La seconde les coktails. Le 3e complice en pince pour les produits du terroir. Mais ce qui les réunit plus que tout,
                                 c'est la passion du jeu; avec désormais, un "crowdfunding" (levée de fonds) pour la réalisation d'un projet fantastique. "Que ça marche ou pas,
                                 on partira: on a signé un bail de 10 ans!". Dès ce printemps, La Chaux-de-Fonds comptera dans son offre de loisirs l'Amuse-Bar, confortant son
