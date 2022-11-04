@@ -35,6 +35,22 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="news/CommuniqueDePresse_221104.pdf">
+                                    <img src="image/news/CommuniqueDePresse_221104.png" height="200px" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">04 novembre 2022: Coup de théatre pour l'Amuse-Bar</div>
+                                <span class="align-middle">Un des plus grands bars à jeux de société de Suisse va enfin ouvrir ses portes en
+                                    cette fin d’année 2022. Les trois Chaux-de-Fonniers passionnés de jeux auront l’immense plaisir de vous
+                                    accueillir dans un lieu exceptionnel: L’Ancien Manège. Ils ont résilié le bail à la rue du Parc 71
+                                    pour investir ce lieu dès la fin de l’année. L’Amuse-Bar y fera son nid avec de nouvelles opportunités:
+                                    une salle de jeu séparée, une escape room et une terrasse intérieure.</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_220922.pdf">
                                     <img src="image/news/ArcInfo_220922.png" height="200px" />
                                 </a>

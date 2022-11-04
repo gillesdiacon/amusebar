@@ -30,12 +30,12 @@ require_once("init.php");
             </div>
         </div>
 
-        <div class="row justify-content-center text-center pt-5">
+        <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-6">
-                <div class="text-white font-raleway fw-medium">Vous pouvez aussi nous suivre sur les réseaux sociaux.</div>
+                <img src="image/openning.png" width="500px" title="Ouverture décembre 2022 - nouvelle adresse - A l'Ancien Manège, rue du Manège 19, 2300 La Chaux-de-Fonds" />
             </div>
         </div>
-        <div class="py-5">&nbsp;</div>
+<!--        <div class="py-5">&nbsp;</div>-->
     </div>
 </div>
 
