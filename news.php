@@ -35,6 +35,20 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="news/RTN_221104.pdf">
+                                    <img src="image/news/RTN_221104.png" height="200px" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">04 novembre 2022: Coup de sac pour l’Amuse-Bar qui rebondit à l’Ancien Manège</div>
+                                <span class="align-middle">Retardé dans son développement lors de la mise à l’enquête publique, le nouveau bar à jeux
+                                    de La Chaux-de-Fonds investira finalement le célèbre monument chaux-de-fonnier dans
+                                    les locaux de la brasserie du Manège</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/CommuniqueDePresse_221104.pdf">
                                     <img src="image/news/CommuniqueDePresse_221104.png" height="200px" />
                                 </a>
