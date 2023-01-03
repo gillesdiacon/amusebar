@@ -29,7 +29,7 @@
             </tr>
             <tr class="border-2 border-top-0 border-start-0 border-end-0 border-dark">
                 <td class="text-end">Vendredi:</td>
-                <td class="text-center">11h30</td>
+                <td class="text-center">15h00</td>
                 <td class="text-center">-</td>
                 <td class="text-center">02h00</td>
                 <td class="px-2"></td>
