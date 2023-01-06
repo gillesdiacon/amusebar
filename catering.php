@@ -40,10 +40,10 @@ require_once("init.php");
                         </a>
 
                         <p class="mt-5">Au niveau de la carte des boissons, nous avons privilégié des bières artisanales, des cocktails originaux et des limonades et boissons maisons.</p>
-<!--                        <a target="_blank" href="catering/boissonsJanvier2023.pdf">-->
-<!--                            <img src="image/drink.png" height="50px" /> <-- https://fontawesome.com/icons/glass-water?s=thin&f=classic -->
-<!--                            <span>Carte boissons</span>-->
-<!--                        </a>-->
+                        <a target="_blank" href="catering/boissonsJanvier2023.pdf">
+                            <img src="image/drink.png" height="50px" /> <!-- https://fontawesome.com/icons/glass-water?s=thin&f=classic -->
+                            <span>Carte boissons</span>
+                        </a>
 
                         <p>&nbsp;</p>
                     </div>
