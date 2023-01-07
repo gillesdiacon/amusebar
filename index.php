@@ -32,7 +32,7 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-4">
-                <img src="image/opening.jpg" height="350px" title="Ouverture 09 janvier 2023 - A l'Ancien Manège, rue du Manège 19, 2300 La Chaux-de-Fonds" />
+                <img src="image/opening.png" height="350px" title="Ouverture 09 janvier 2023 - A l'Ancien Manège, rue du Manège 19, 2300 La Chaux-de-Fonds" />
             </div>
             <div class="col-lg-4">
                 <img src="image/kitchenForSale.png" height="350px" title="Annonce - cuisine professionnelle à vendre" />
