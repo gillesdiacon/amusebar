@@ -48,6 +48,12 @@ require_once("init.php");
                                 <span>Carte boissons</span>
                             </a>
 
+                            <p class="mt-5">L'Amuse-Bar vous propose aussi quelques plats à la livraison.</p>
+                            <a target="_blank" href="catering/lamusebar-carte-livraison.pdf">
+                                <img src="image/house.png" height="50px" /> <!-- https://fontawesome.com/icons/house?s=thin&f=classic -->
+                                <span>Carte livraison</span>
+                            </a>
+
                             <p>&nbsp;</p>
                         </div>
                     </div>
