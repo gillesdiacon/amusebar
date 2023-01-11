@@ -32,4 +32,7 @@
         <div class="fs-7 w-100 <?php if('_index' == $partnerLogoType) echo 'text-white' ?>">Lyceum Club International</div>
         <div class="fs-7 w-100 <?php if('_index' == $partnerLogoType) echo 'text-white' ?>">La Chaux-de-Fonds</div>
     </div>
+    <div class="col-lg-2 d-flex flex-wrap align-items-center justify-content-center text-center py-3">
+        <img src="image/partner/loisirsch<?php echo $partnerLogoType ?>.svg" height="90px" alt="loisirs.ch est partenaire de l'Amuse-Bar à La Chaux-de-Fonds">
+    </div>
 </div>
