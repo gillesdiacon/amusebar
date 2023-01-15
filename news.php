@@ -56,6 +56,19 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="news/ArcInfo_20230109.pdf">
+                                    <img src="image/news/ArcInfo_20230109.png" height="200px" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">09 janvier 2023: Amuse-bar à La Chaux-de-Fonds: «Nous sommes crevés, mais heureux d’ouvrir à l’Ancien Manège!»</div>
+                                <span class="align-middle">Ce lundi 9 janvier, l’Amuse-bar a enfin ouvert ses portes. Très cosy, l’espace installé à
+                                    l’Ancien Manège a immédiatement séduit un public de joueuses et de joueurs. Nous y étions.</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/RTN_221104.pdf">
                                     <img src="image/news/RTN_221104.png" height="200px" />
                                 </a>
