@@ -35,6 +35,27 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="news/Courrier_20230111.pdf">
+                                    <img src="image/news/Courrier_20230111.png" height="200px" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">11 janvier 2023: L’Amuse-Bar sort le grand jeu</div>
+                                <span class="align-middle">Alors que la neige ramène un semblant de normalité, le froid et la curiosité attirent
+                                    les Chaux-de-Fonnier·ères à l’Ancien Manège. Des enfants se pressent dans
+                                    l’élégante cour, coiffée d’un toit de verre et décorée de marbre en trompel’œil. Quelques familles poussent pour
+                                    la première fois les portes de l’AmuseBar qui a investi lundi les locaux du Manège du terroir.<br>
+                                    Désormais ce petit bijou du patrimoine n’attire plus seulement les fervent·es d’histoire et d’architecture
+                                    mais également les joueuses et joueurs en tout genre. Ce lieu de rencontres ludique et d’évasion» a été imaginé par
+                                    trois membres du comité de Ludesco. Contraction de «ludique» et «UNESCO», ce festival annuel investit les
+                                    lieux inscrits au patrimoine pour les transformer en terrain de jeux l’espace d’un week-end depuis treize ans. Avec
+                                    sa collection de 1300 jeux, prêtés par la manifestation, l’Amuse-Bar peut désormais se targuer d’être le plus grand
+                                    bar à jeux de Suisse. </span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/RTN_221104.pdf">
                                     <img src="image/news/RTN_221104.png" height="200px" />
                                 </a>
