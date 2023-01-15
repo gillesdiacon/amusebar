@@ -32,6 +32,9 @@ require_once("init.php");
                                     <div>
                                         <a class="text-dark" target="_blank" href="https://goo.gl/maps/PzjTfjfyfFFkfSdo9"><i class="bi bi-geo-alt pe-2"></i>google maps</a>
                                     </div>
+                                    <div>
+                                        <a class="text-dark" target="_blank" href="mailto:lamusebar@gmail.com"><i class="bi bi-envelope pe-2"></i>lamusebar@gmail.com</a>
+                                    </div>
                                 </div>
                             </div>
                             <div class="text-start pt-5">
