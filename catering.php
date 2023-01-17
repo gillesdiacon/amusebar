@@ -55,6 +55,7 @@ require_once("init.php");
                                 <span>Carte livraison</span>
                             </a>
 -->
+                            <p class="mt-5">! Paiement par cash ou twint uniquement !</p>
 
                             <p>&nbsp;</p>
                         </div>
