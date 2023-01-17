@@ -35,6 +35,34 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="news/ArcInfo_20230115.pdf">
+                                    <img src="image/news/ArcInfo_20230115.png" height="200px" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">15 janvier 2023: La Chaux-de-Fonds: un succès fou à l’Amuse-bar et des sommelières de jeu qu’on s’arrache</div>
+                                <span class="align-middle">L’Amuse-bar, à La Chaux-de-Fonds, était plein à craquer ce vendredi 13 janvier.
+                                    Les joueuses et joueurs ont aimé l’aide apportée par les sommelières et sommeliers de jeu,
+                                    ainsi que les hors-d’œuvre et les boissons proposés à la carte.</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
+                                <a target="_blank" href="https://www.rts.ch/info/regions/neuchatel/13703157-la-chauxdefonds-se-profile-de-plus-en-plus-comme-la-mecque-des-jeux-de-societe.html">
+                                    <img src="image/news/RTS_20230115.png" height="200px" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">15 janvier 2023: La Chaux-de-Fonds se profile de plus en plus comme la Mecque des jeux de société</div>
+                                <span class="align-middle">L'ouverture lundi dernier à La Chaux-de-Fonds du plus grand bar à jeux de Suisse,
+                                    ainsi que fin novembre d'une maison de jeux à mi-chemin entre l'escape game et le jeu d'aventure,
+                                    viennent compléter le rayonnement du festival de jeux de société "Ludesco".</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Courrier_20230111.pdf">
                                     <img src="image/news/Courrier_20230111.png" height="200px" />
                                 </a>
