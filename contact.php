@@ -29,6 +29,7 @@ require_once("init.php");
                                 <div class="ms-3 fw-bold">
                                     <div><i class="bi bi-envelope pe-2"></i>A l'Ancien Manège, rue du Manège 19, 2300 La Chaux-de-Fonds</div>
                                     <div><i class="bi bi-telephone pe-2"></i>079 755 04 15</div>
+                                    <div><i class="bi bi-telephone pe-2"></i>032 964 15 13</div>
                                     <div>
                                         <a class="text-dark" target="_blank" href="https://goo.gl/maps/PzjTfjfyfFFkfSdo9"><i class="bi bi-geo-alt pe-2"></i>google maps</a>
                                     </div>
