@@ -36,7 +36,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_20230115.pdf">
-                                    <img src="image/news/ArcInfo_20230115.png" height="200px" />
+                                    <img src="image/news/ArcInfo_20230115.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -50,7 +50,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="https://www.rts.ch/info/regions/neuchatel/13703157-la-chauxdefonds-se-profile-de-plus-en-plus-comme-la-mecque-des-jeux-de-societe.html">
-                                    <img src="image/news/RTS_20230115.png" height="200px" />
+                                    <img src="image/news/RTS_20230115.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -64,7 +64,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Courrier_20230111.pdf">
-                                    <img src="image/news/Courrier_20230111.png" height="200px" />
+                                    <img src="image/news/Courrier_20230111.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -85,7 +85,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="https://www.canalalpha.ch/play/le-journal/topic/28802/lamuse-bar-ouvre-enfin-ses-portes-a-lancien-manege">
-                                    <img src="image/news/CanalAlpha_20230109.png" height="200px" />
+                                    <img src="image/news/CanalAlpha_20230109.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -100,7 +100,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_20230109.pdf">
-                                    <img src="image/news/ArcInfo_20230109.png" height="200px" />
+                                    <img src="image/news/ArcInfo_20230109.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -113,7 +113,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/RTN_221104.pdf">
-                                    <img src="image/news/RTN_221104.png" height="200px" />
+                                    <img src="image/news/RTN_221104.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -127,7 +127,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/CommuniqueDePresse_221104.pdf">
-                                    <img src="image/news/CommuniqueDePresse_221104.png" height="200px" />
+                                    <img src="image/news/CommuniqueDePresse_221104.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -143,7 +143,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_220922.pdf">
-                                    <img src="image/news/ArcInfo_220922.png" height="200px" />
+                                    <img src="image/news/ArcInfo_220922.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -157,7 +157,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Heroslocaux_20220619.pdf">
-                                    <img src="image/news/Heroslocaux_20220619.png" height="200px" />
+                                    <img src="image/news/Heroslocaux_20220619.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -172,7 +172,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Le_O_p10_220225.pdf">
-                                    <img src="image/news/Le_O_p10_220225.png" height="200px" />
+                                    <img src="image/news/Le_O_p10_220225.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -186,7 +186,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_p4_220225.pdf">
-                                    <img src="image/news/ArcInfo_p4_220225.png" height="200px" />
+                                    <img src="image/news/ArcInfo_p4_220225.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
@@ -201,7 +201,7 @@ require_once("init.php");
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Le_Tourbillon_p4_220225.pdf">
-                                    <img src="image/news/Le_Tourbillon_p4_220225.png" height="200px" />
+                                    <img src="image/news/Le_Tourbillon_p4_220225.png" width="100%" />
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
