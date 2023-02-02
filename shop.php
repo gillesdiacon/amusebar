@@ -40,7 +40,22 @@
                     <p>Vous trouverez sûrement votre bonheur dans notre magasin de jeux. Pour offrir ou pour votre plaisir,
                         notre sommelier du jeu se fera un plaisir de vous conseiller dans le vaste choix du monde du jeu de société.</p>
 
-                    <p>Si d'aventure, nous n'avons pas le jeu souhaité, nous le commanderons pour vous et nous vous le livrerons à domicile le plus rapidement possible.</p>
+                    <p>Si d'aventure, nous n'avons pas le jeu souhaité, nous le commanderons pour vous et nous
+                        vous le livrerons à domicile le plus rapidement possible.</p>
+
+                    <p>Pour un maximum de liberté, des bons cadeaux, valeur libre, sont en vente au bar ou envoyés
+                        par courrier postal. Valable dans tout le bar (magasin, épicerie, bar et restauration).</p>
+
+                    <div class="row">
+                        <div class="col text-center">
+                            <img src="image/shop/bonCadeau_1.png" width="50%">
+                        </div>
+                        <div class="col text-center">
+                            <img src="image/shop/bonCadeau_3.png" width="50%">
+                        </div>
+                    </div>
+
+                    <p>&nbsp;</p>
 
                     <!--
                     <div class="row">
