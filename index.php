@@ -31,10 +31,17 @@ require_once("init.php");
         </div>
 
         <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-4">
-                <img src="image/opening.png" height="350px" title="Ouverture 09 janvier 2023 - A l'Ancien Manège, rue du Manège 19, 2300 La Chaux-de-Fonds" />
+            <div class="col-lg-5">
+                <div class="row">
+                    <div class="col-lg-auto p-1 text-lg-end">
+                        <img src="image/valentines_1.jpg" height="350px" title="L'Amuse-Bar: soirée jeux pour la saint-valentin" />
+                    </div>
+                    <div class="col-lg-auto p-1 text-lg-start">
+                        <img src="image/valentines_2.jpg" height="350px" title="L'Amuse-Bar: soirée jeux pour la saint-valentin" />
+                    </div>
+                </div>
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-3">
                 <img src="image/kitchenForSale.png" height="350px" title="Annonce - cuisine professionnelle à vendre" />
             </div>
         </div>
