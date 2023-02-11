@@ -5,8 +5,8 @@ require_once("init.php");
 <html lang="fr">
     <head>
         <?php 
-            $activeMenuTitle = "Animations";
-            $activeMenuPage = "event";
+            $activeMenuTitle = "Ecoles et autres institutions";
+            $activeMenuPage = "eventOther";
             require_once("head.php");
         ?>
     </head>
@@ -29,20 +29,10 @@ require_once("init.php");
                     <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                     <div class="col amuseBar-bg-cream mx-lg-5 px-4">
                         <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
-                        <p>L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques</p>
-
-                        <ul>
-                            <li>Jeu de rôles: <span class="text-danger">dès le 8 février</span>, sur inscription à <a href="javascript:decryptEmail('amRyLmxhbXVzZWJhckBnbWFpbC5jb20=');">jdr.lamusebar(at)gmail.com</a></li>
-                            <li>Initiation au Backgammon, échec, chibre, belote</li>
-                            <li>Initiation cartes magic</li>
-                            <li>et bien plus encore</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                    <div class="col amuseBar-bg-cream mx-lg-5 px-4 text-center">
-                        <img class="img-fluid" src="image/eventJdr.png">
+                        <p>L'Amuse-Bar propose des activités ludiques aux écoles afin que la jeune génération découvre un monde de rêverie infini.<br>
+                            Le jeu permet de développer des qualités essentielles à la vie en société, telles que la coopération, la gestion de la frustration,
+                            le plaisir d'être ensemble et bien plus encore.</p>
+                        <p>&nbsp;</p>
                     </div>
                 </div>
             </div>

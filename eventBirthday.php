@@ -5,8 +5,8 @@ require_once("init.php");
 <html lang="fr">
     <head>
         <?php 
-            $activeMenuTitle = "Animations";
-            $activeMenuPage = "event";
+            $activeMenuTitle = "Anniversaire";
+            $activeMenuPage = "eventBirthday";
             require_once("head.php");
         ?>
     </head>
@@ -29,20 +29,9 @@ require_once("init.php");
                     <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                     <div class="col amuseBar-bg-cream mx-lg-5 px-4">
                         <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
-                        <p>L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques</p>
-
-                        <ul>
-                            <li>Jeu de rôles: <span class="text-danger">dès le 8 février</span>, sur inscription à <a href="javascript:decryptEmail('amRyLmxhbXVzZWJhckBnbWFpbC5jb20=');">jdr.lamusebar(at)gmail.com</a></li>
-                            <li>Initiation au Backgammon, échec, chibre, belote</li>
-                            <li>Initiation cartes magic</li>
-                            <li>et bien plus encore</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                    <div class="col amuseBar-bg-cream mx-lg-5 px-4 text-center">
-                        <img class="img-fluid" src="image/eventJdr.png">
+                        <p>Venez fêter votre anniversaire ou autre événement festif à L'Amuse-Bar.<br>
+                            On organise pour vous du jeu sur mesure avec animateur qui sera au petit soin.</p>
+                        <p>&nbsp;</p>
                     </div>
                 </div>
             </div>

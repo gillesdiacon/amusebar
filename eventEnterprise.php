@@ -5,8 +5,8 @@ require_once("init.php");
 <html lang="fr">
     <head>
         <?php 
-            $activeMenuTitle = "Animations";
-            $activeMenuPage = "event";
+            $activeMenuTitle = "Souper d'entreprise et team building";
+            $activeMenuPage = "eventEnterprise";
             require_once("head.php");
         ?>
     </head>
@@ -29,20 +29,11 @@ require_once("init.php");
                     <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                     <div class="col amuseBar-bg-cream mx-lg-5 px-4">
                         <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
-                        <p>L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques</p>
+                        <p>L'Amuse-Bar est le lieu propice pour vos sorties d'entreprise. Il allie divertissement et menu sur mesure. Le jeu est un moyen idéal pour créer un esprit d'équipe et apprendre à gérer ses émotions et son leadership.</p>
 
-                        <ul>
-                            <li>Jeu de rôles: <span class="text-danger">dès le 8 février</span>, sur inscription à <a href="javascript:decryptEmail('amRyLmxhbXVzZWJhckBnbWFpbC5jb20=');">jdr.lamusebar(at)gmail.com</a></li>
-                            <li>Initiation au Backgammon, échec, chibre, belote</li>
-                            <li>Initiation cartes magic</li>
-                            <li>et bien plus encore</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
-                    <div class="col amuseBar-bg-cream mx-lg-5 px-4 text-center">
-                        <img class="img-fluid" src="image/eventJdr.png">
+                        <p>Nous proposons également des formations pour la prévention du burn out (sur demande)</p>
+
+                        <p>&nbsp;</p>
                     </div>
                 </div>
             </div>

@@ -11,17 +11,17 @@
                 <div class="collapse navbar-collapse justify-content-center" id="menuNav">
                     <div class="flex-column ml-auto">
                         <ul class="navbar-nav">
-                            <li class="nav-item px-4 py-2 mx-lg-4 d-lg-none amusebar-menu-list rounded-pill <?php if('home'==$activeMenuPage) echo 'active' ?>">
+                            <li class="nav-item px-2 py-2 mx-lg-2 d-lg-none amusebar-menu-list rounded-pill <?php if('home'==$activeMenuPage) echo 'active' ?>">
                                 <a title="Accueil" class="nav-link py-0 m-0" href="/index.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">ACCUEIL</h1>
                                 </a>
                             </li>
-                            <li class="nav-item px-4 py-2 mx-lg-4 amusebar-menu-list rounded-pill <?php if('news'==$activeMenuPage) echo 'active' ?>">
+                            <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('news'==$activeMenuPage) echo 'active' ?>">
                                 <a title="News" class="nav-link py-0 m-0" href="/news.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">NEWS</h1>
                                 </a>
                             </li>
-                            <li class="nav-item px-4 py-2 mx-lg-4 amusebar-menu-list rounded-pill <?php if('concept'==$activeMenuPage) echo 'active' ?>">
+                            <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('concept'==$activeMenuPage) echo 'active' ?>">
                                 <a title="Concept" class="nav-link py-0 m-0" href="/concept.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">CONCEPT</h1>
                                 </a>
@@ -29,29 +29,30 @@
                                 <ul class="navbar-nav ps-5 mb-2 d-lg-none">
                                     <?php include("navHomeLi.php"); ?>
                                 </ul>
-                            <li class="nav-item px-4 py-2 mx-lg-4 amusebar-menu-list rounded-pill <?php if('bar'==$activeMenuPage) echo 'active' ?>">
+                            <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('bar'==$activeMenuPage) echo 'active' ?>">
                                 <a title="Bar à jeux" class="nav-link py-0 m-0" href="/bar.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">BAR À JEUX</h1>
                                 </a>
                             </li>
-                            <li class="nav-item px-4 py-2 mx-lg-4 amusebar-menu-list rounded-pill <?php if('catering'==$activeMenuPage) echo 'active' ?>">
+                            <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('catering'==$activeMenuPage) echo 'active' ?>">
                                 <a title="Coin gourmand" class="nav-link py-0 m-0" href="/catering.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">COIN GOURMAND</h1>
                                 </a>
                             </li>
-                            <!--
-                            <li class="nav-item px-4 py-2 mx-lg-4 amusebar-menu-list rounded-pill <?php if('event'==$activeMenuPage) echo 'active' ?>">
+                            <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('event'==$activeMenuPage) echo 'active' ?>">
                                 <a title="Evénements" class="nav-link py-0 m-0" href="/event.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">EVÉNEMENTS</h1>
                                 </a>
                             </li>
-                            -->
-                            <li class="nav-item px-4 py-2 mx-lg-4 amusebar-menu-list rounded-pill <?php if('shop'==$activeMenuPage) echo 'active' ?>">
+                                <ul class="navbar-nav ps-5 mb-2 d-lg-none">
+                                    <?php include("navEventLi.php"); ?>
+                                </ul>
+                            <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('shop'==$activeMenuPage) echo 'active' ?>">
                                 <a title="Magasin" class="nav-link py-0 m-0" href="/shop.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">MAGASIN</h1>
                                 </a>
                             </li>
-                            <li class="nav-item px-4 py-2 mx-lg-4 amusebar-menu-list rounded-pill <?php if('contact'==$activeMenuPage) echo 'active' ?>">
+                            <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('contact'==$activeMenuPage) echo 'active' ?>">
                                 <a title="Contact et horaires" class="nav-link py-0 m-0" href="/contact.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">CONTACT</h1>
                                 </a>
@@ -62,6 +63,14 @@
                             <div class="d-none d-lg-block">
                                 <ul class="navbar-nav flex-row px-3">
                                     <?php include("navHomeLi.php"); ?>
+                                </ul>
+                            </div>
+                        <?php } ?>
+
+                        <?php if(substr($activeMenuPage, 0, 5) === 'event') { ?>
+                            <div class="d-none d-lg-block">
+                                <ul class="navbar-nav flex-row px-3">
+                                    <?php include("navEventLi.php"); ?>
                                 </ul>
                             </div>
                         <?php } ?>
