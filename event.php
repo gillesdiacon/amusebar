@@ -35,8 +35,8 @@ require_once("init.php");
                     <div class="col-lg-6 p-3">
                         <div class="card h-100 amuseBar-bg-cream amuseBar-border-red rounded-10">
                             <div class="card-header bg-transparent border-bottom-0 text-center p-3">
-                                <img src="image/jdr-small.png" alt="L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques">
-                                <img src="image/cards-small.png" alt="L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques">
+                                <img src="image/jdr-small.png" class="img-fluid" alt="L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques">
+                                <img src="image/cards-small.png" class="img-fluid" alt="L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques">
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title fw-bold amuseBar-text-red">Animations</h5>
@@ -54,7 +54,7 @@ require_once("init.php");
                     <div class="col-lg-6 p-3">
                         <div class="card h-100 amuseBar-bg-cream amuseBar-border-orange rounded-10">
                             <div class="card-header bg-transparent border-bottom-0 text-center p-3">
-                                <img src="image/chefHat-small.png" alt="L'Amuse-Bar est le lieu propice pour vos sorties d'entreprise">
+                                <img src="image/chefHat-small.png" class="img-fluid" alt="L'Amuse-Bar est le lieu propice pour vos sorties d'entreprise">
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title fw-bold amuseBar-text-orange">Souper d'entreprise et team building</h5>
@@ -68,7 +68,7 @@ require_once("init.php");
                     <div class="col-lg-6 p-3">
                         <div class="card h-100 amuseBar-bg-cream amuseBar-border-green-dark rounded-10">
                             <div class="card-header bg-transparent border-bottom-0 text-center p-3">
-                                <img src="image/birthday-small.png" alt="Organisez votre anniversaire à L'Amuse-Bar">
+                                <img src="image/birthday-small.png" class="img-fluid" alt="Organisez votre anniversaire à L'Amuse-Bar">
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title fw-bold amuseBar-text-green-dark">Anniversaire</h5>
@@ -81,7 +81,7 @@ require_once("init.php");
                     <div class="col-lg-6 p-3">
                         <div class="card h-100 amuseBar-bg-cream amuseBar-border-pink rounded-10">
                             <div class="card-header bg-transparent border-bottom-0 text-center p-3">
-                                <img src="image/school-small.png" alt="L'Amuse-Bar propose des activités ludiques aux écoles">
+                                <img src="image/school-small.png" class="img-fluid" alt="L'Amuse-Bar propose des activités ludiques aux écoles">
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title fw-bold amuseBar-text-pink">Ecoles et autres institutions</h5>
