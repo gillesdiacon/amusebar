@@ -44,11 +44,11 @@
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">EVÉNEMENTS</h1>
                                 </a>
                             </li>
-<!--                            <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill --><?php //if('escape'==$activeMenuPage) echo 'active' ?><!--">-->
-<!--                                <a title="Magasin" class="nav-link py-0 m-0" href="/escape.php">-->
-<!--                                    <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 --><?php //if(isset($menuDarkText)) echo 'dark' ?><!--">ESCAPE</h1>-->
-<!--                                </a>-->
-<!--                            </li>-->
+                            <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('escape'==$activeMenuPage) echo 'active' ?>">
+                                <a title="Magasin" class="nav-link py-0 m-0" href="/escape.php">
+                                    <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">ESCAPE</h1>
+                                </a>
+                            </li>
                             <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('shop'==$activeMenuPage) echo 'active' ?>">
                                 <a title="Magasin" class="nav-link py-0 m-0" href="/shop.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">MAGASIN</h1>
