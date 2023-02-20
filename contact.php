@@ -48,7 +48,13 @@ require_once("init.php");
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5">&nbsp;</div>
+                    <div class="col-lg-5">
+                        <div class="row p-lg-5 my-lg-5">
+                            <div class="col-lg-auto p-1 text-lg-end text-center">
+                                <img src="image/timetableSpecial.png" height="350px" title="L'Amuse-Bar: horaires modifiés" />
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

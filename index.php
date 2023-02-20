@@ -34,10 +34,7 @@ require_once("init.php");
             <div class="col-lg-5">
                 <div class="row">
                     <div class="col-lg-auto p-1 text-lg-end">
-                        <img src="image/valentines_1.jpg" height="350px" title="L'Amuse-Bar: soirée jeux pour la saint-valentin" />
-                    </div>
-                    <div class="col-lg-auto p-1 text-lg-start">
-                        <img src="image/valentines_2.jpg" height="350px" title="L'Amuse-Bar: soirée jeux pour la saint-valentin" />
+                        <img src="image/timetableSpecial.png" height="350px" title="L'Amuse-Bar: horaires modifiés" />
                     </div>
                 </div>
             </div>
