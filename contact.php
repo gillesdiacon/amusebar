@@ -39,19 +39,35 @@ require_once("init.php");
                                 </div>
                             </div>
                             <div class="text-start pt-5">
-                                <div class="fs-4 fw-bold pb-4">Horaires</div>
+                                <div class="fs-4 fw-bold pb-4">
+                                    <a class="text-reset" href="#specialOpening">
+                                        <span class="fs-4 fw-bold">Horaires</span>
+                                        <i class="px-2 fs-5 bi bi-exclamation-diamond text-danger" title="!! Attention horaires modifiés !! "></i>
+                                    </a>
+                                </div>
                                 <div class="ms-3 text-center">
                                     <?php
                                     require_once("timetable.php");
                                     ?>
+                                </div>
+                                <div class="ms-3 text-center">
+                                    <img src="image/timetableSpecial.png" height="350px" id="specialOpening" title="L'Amuse-Bar: horaires modifiés" />
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-5">
                         <div class="row p-lg-5 my-lg-5">
+                            <div class="fs-4 fw-bold pb-3">Où vous parker?</div>
                             <div class="col-lg-auto p-1 text-lg-end text-center">
-                                <img src="image/timetableSpecial.png" height="350px" title="L'Amuse-Bar: horaires modifiés" />
+                                <img src="image/parking.png" title="L'Amuse-Bar: parking" />
+                                <div class="pt-3 text-start">
+                                    <div class="fw-bold">Places de Parking autour de l'Amuse-Bar</div>
+                                    <div><span class="px-1" style="background-color:blueviolet">Sur la Rue David Pierre Bourquin</span>:&nbsp;places blanches 2 min à pied</div>
+                                    <div><span class="px-1" style="background-color:yellow">Sur la Rue des Régionaux</span>:&nbsp;places blanches 3 min à pied</div>
+                                    <div><span class="px-1" style="background-color:red">Sur la Rue banneret</span> (côté prison):&nbsp;places bleues</div>
+                                    <div>Sion sur les places de livraison autour de la prison MAIS UNIQUEMENT HORS HORAIRES D'OUVERTURE</div>
+                                </div>
                             </div>
                         </div>
                     </div>
