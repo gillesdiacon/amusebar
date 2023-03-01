@@ -49,9 +49,6 @@ require_once("init.php");
                                 require_once("timetable.php");
                                 ?>
                             </div>
-                            <div class="ms-3 text-center">
-                                <img src="image/timetableSpecial.png" height="350px" id="specialOpening" title="L'Amuse-Bar: horaires modifiés" />
-                            </div>
                         </div>
                     </div>
                     <div class="col-xl-6">

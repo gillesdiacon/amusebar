@@ -31,18 +31,10 @@ require_once("init.php");
         </div>
 
         <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-5">
-                <div class="row">
-                    <div class="col-lg-auto p-1 text-lg-end">
-                        <img src="image/timetableSpecial.png" height="350px" title="L'Amuse-Bar: horaires modifiés" />
-                    </div>
-                </div>
-            </div>
             <div class="col-lg-3">
                 <img src="image/kitchenForSale.png" height="350px" title="Annonce - cuisine professionnelle à vendre" />
             </div>
         </div>
-<!--        <div class="py-5">&nbsp;</div>-->
     </div>
 </div>
 
