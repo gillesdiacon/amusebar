@@ -39,10 +39,7 @@ require_once("init.php");
                         </div>
                         <div class="text-start pt-5">
                             <div class="fs-4 fw-bold pb-4">
-                                <a class="text-reset" href="#specialOpening">
-                                    <span class="fs-4 fw-bold">Horaires</span>
-                                    <i class="px-2 fs-5 bi bi-exclamation-diamond text-danger" title="!! Attention horaires modifiés !! "></i>
-                                </a>
+                                <span class="fs-4 fw-bold">Horaires</span>
                             </div>
                             <div class="ms-3 text-center">
                                 <?php
