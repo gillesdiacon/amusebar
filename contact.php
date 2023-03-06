@@ -50,7 +50,7 @@ require_once("init.php");
                     </div>
                     <div class="col-xl-6">
                         <div class="row p-lg-5">
-                            <div class="fs-4 fw-bold pb-3">Où vous parker?</div>
+                            <div class="fs-4 fw-bold pb-3">Où vous parquer?</div>
                             <div class="col-lg-auto p-1 text-center">
                                 <img class="img-md-fluid" src="image/parking.png" width="550px" title="L'Amuse-Bar: parking" />
                                 <div class="pt-3 text-start">
