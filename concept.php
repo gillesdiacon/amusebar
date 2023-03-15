@@ -117,14 +117,12 @@ require_once("init.php");
     <div class="row">
         <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
         <div class="col mx-lg-5 px-lg-4">
-            <div class="h1 py-lg-3 text-center">Horaires</div>
             <div class="row pt-lg-3 justify-content-center">
                 <div class="col-lg-8">
-                    <div class="ms-3">
-                        <?php
-                        require_once("timetable.php");
-                        ?>
-                    </div>
+                    <?php
+                    $timetableHeaderClass = "h1 pt-lg-3 pb-lg-5 text-center";
+                    require_once("timetable.php");
+                    ?>
                 </div>
             </div>
         </div>

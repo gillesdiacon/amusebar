@@ -38,14 +38,10 @@ require_once("init.php");
                             </div>
                         </div>
                         <div class="text-start pt-5">
-                            <div class="fs-4 fw-bold pb-4">
-                                <span class="fs-4 fw-bold">Horaires</span>
-                            </div>
-                            <div class="ms-3 text-center">
-                                <?php
-                                require_once("timetable.php");
-                                ?>
-                            </div>
+                            <?php
+                            $timetableHeaderClass = "fs-4 fw-bold pb-4";
+                            require_once("timetable.php");
+                            ?>
                         </div>
                     </div>
                     <div class="col-xl-6">
