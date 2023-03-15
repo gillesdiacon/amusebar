@@ -120,7 +120,8 @@ require_once("init.php");
             <div class="row pt-lg-3 justify-content-center">
                 <div class="col-lg-8">
                     <?php
-                    $timetableHeaderClass = "h1 pt-lg-3 pb-lg-5 text-center";
+                    $timetableHeaderClass = "h1";
+                    $timetableHeaderContainerClass = "pt-lg-3 pb-lg-5 text-center";
                     require_once("timetable.php");
                     ?>
                 </div>

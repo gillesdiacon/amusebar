@@ -1,4 +1,9 @@
-        <div class="<?php echo $timetableHeaderClass ?>">Horaires</div>
+        <div class="<?php echo $timetableHeaderContainerClass ?>">
+            <a class="text-reset" href="#specialOpening">
+                <span class="<?php echo $timetableHeaderClass ?>">Horaires</span>
+                <i class="px-2 fs-5 bi bi-exclamation-diamond text-danger" title=" !! Attention horaires modifiés !! "></i>
+            </a>
+        </div>
 
         <div class="ms-3 text-center">
             <table class="table border-dark border-2 fw-bold">
@@ -53,4 +58,8 @@
             </table>
 
             <div class="py-2 fs-5 fw-bold text-danger text-center">ouverture à midi sur réservation</div>
+        </div>
+
+        <div class="ms-3 text-center">
+            <img src="image/event-ludesco23.png" class="img-fluid" id="specialOpening" title="L'Amuse-Bar: horaires modifiés" />
         </div>
