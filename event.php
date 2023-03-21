@@ -33,9 +33,6 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-ludesco23.png" title="L'Amuse-Bar: animations pendant Ludesco 2023" />
-                    </div>
-                    <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-202303.png" title="L'Amuse-Bar: animations du mois de mars 2023" />
                     </div>
                 </div>
