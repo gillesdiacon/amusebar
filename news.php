@@ -35,6 +35,20 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="news/Zeit_20230319.pdf">
+                                    <img src="image/news/Zeit_20230319.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">19 mars 2023: Alles ausser Monopoly - Ein Besuch in der grössten Spielbar der Schweiz in La Chaux-de-Fonds</div>
+                                <span class="align-middle">Vanessa Rechik steht zwischen raumhohen Holzregalen, vollgepackt mit Gesellschaftsspielen, die nach einem genauen
+                                    System geordnet sind: Von links nach rechts steigt das Mindestalter an, von unten nach oben die Mindestspieldauer.
+                                    In der Ancien Manège in La Chaux-de-Fonds, wo einst Pferde trabten, ist heute die Amuse-Bar daheim, mit 1.300 Spielen für Erwachsene und Kinder.</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_20230115.pdf">
                                     <img src="image/news/ArcInfo_20230115.png" width="100%" />
                                 </a>
