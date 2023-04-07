@@ -24,7 +24,7 @@ require_once("init.php");
             <div class="col-lg-6">
                 <div class="h1 text-white font-raleway fw-bold">Bienvenue à</div>
                 <div>
-                    <img src="image/logo_blanc.png"  width="200px"/>
+                    <img src="image/logo_blanc.png" width="200px"/>
                 </div>
                 <div class="text-white font-raleway fw-medium">L'Amuse-Bar c'est plus qu'un bar,<br/>c'est un lieu de découverte, de rencontre ludique et d'évasion.</div>
             </div>
@@ -32,7 +32,7 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/inauguration.png" title="L'Amuse-Bar: journées et soirées d'inauguration" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/easterOpening.png" title="L'Amuse-Bar: horaires de Pâques" />
             </div>
             <div class="col-lg-3">
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-202303.png" title="L'Amuse-Bar: animations du mois de mars 2023" />
