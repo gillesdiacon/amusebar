@@ -37,16 +37,28 @@ require_once("init.php");
                                 Nous avons à coeur de respecter le cycle des saisons et de favoriser le plus possible la production suisse et locale.
                                 C'est pourquoi, nous avons testé pour vous différents produits pour sélectionner les meilleurs et les plus originaux.<br />
                                 Pour que chacun puisse avoir un plaisir gustatif, des recettes véganes vous seront également proposées.</p>
-                            <a target="_blank" href="catering/lamusebar-carte-restauration.pdf">
-                                <img src="image/food.png" height="50px" /> <!-- https://fontawesome.com/icons/user-chef?s=thin&f=classic -->
-                                <span>Carte restauration</span>
-                            </a>
+
+                            <div>
+                                <a target="_blank" href="catering/lamusebar-carte-restauration.pdf">
+                                    <img src="image/food.png" height="50px" /> <!-- https://fontawesome.com/icons/user-chef?s=thin&f=classic -->
+                                    <span>Carte restauration</span>
+                                </a>
+                            </div>
+
+                            <div class="pt-2">
+                                <a target="_blank" href="catering/lamusebar-carte-chef.pdf">
+                                    <img src="image/star.png" height="40px" /> <!-- https://fontawesome.com/icons/star?f=sharp&s=solid -->
+                                    <span>Carte spécialités</span>
+                                </a>
+                            </div>
 
                             <p class="mt-5">Au niveau de la carte des boissons, nous avons privilégié des bières artisanales, des cocktails originaux et des limonades et boissons maisons.</p>
-                            <a target="_blank" href="catering/lamusebar-carte-boissons.pdf">
-                                <img src="image/drink.png" height="50px" /> <!-- https://fontawesome.com/icons/glass-water?s=thin&f=classic -->
-                                <span>Carte boissons</span>
-                            </a>
+                            <div>
+                                <a target="_blank" href="catering/lamusebar-carte-boissons.pdf">
+                                    <img src="image/drink.png" height="50px" /> <!-- https://fontawesome.com/icons/glass-water?s=thin&f=classic -->
+                                    <span>Carte boissons</span>
+                                </a>
+                            </div>
 
                             <p class="mt-5">! Paiement par cash ou twint uniquement !</p>
 
