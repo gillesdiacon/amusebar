@@ -34,7 +34,7 @@ require_once("init.php");
                 <div class="row">
                     <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-202305.png" title="L'Amuse-Bar: animations du mois de mai 2023" />
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 pt-lg-4" src="image/event-concertNoemyEtSergiu_2.png" title="L'Amuse-Bar: animations concert Noémy et Sergiu" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 pt-lg-4" src="image/event-concertNoemyEtSergiu.png" title="L'Amuse-Bar: animations concert Noémy et Sergiu" />
                     </div>
                     <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-202305_2.png" title="L'Amuse-Bar: animations du mois de mai 2023" />
