@@ -61,5 +61,5 @@
         </div>
 
         <div class="ms-3 text-center">
-            <img src="image/ascensionOpening.png" class="img-fluid" id="specialOpening" title="L'Amuse-Bar: horaires modifiés" />
+            <img src="image/summerOpening.png" class="img-fluid" id="specialOpening" title="L'Amuse-Bar: horaires modifiés" />
         </div>

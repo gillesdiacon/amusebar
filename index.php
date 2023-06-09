@@ -39,7 +39,7 @@ require_once("init.php");
             </div>
             <div class="col-lg-3">
 <!--                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/kitchenForSale.png" title="Annonce - cuisine professionnelle à vendre" />-->
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/ascensionOpening.png" title="L'Amuse-Bar: horaires modifiés pour le week-end de l'Ascension" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/summerOpening.png" title="L'Amuse-Bar: horaires d'été à partir du 19 juin" />
             </div>
         </div>
     </div>
