@@ -31,14 +31,14 @@ require_once("init.php");
                 <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
                 <p>L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques</p>
 
-                <div class="row">
-                    <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-202306-1.png" title="L'Amuse-Bar: animations du mois de juin 2023" />
-                    </div>
-                    <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-202306-2.png" title="L'Amuse-Bar: animations du mois de juin 2023" />
-                    </div>
-                </div>
+<!--                <div class="row">-->
+<!--                    <div class="col-lg-6 p-3">-->
+<!--                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-202306-1.png" title="L'Amuse-Bar: animations du mois de juin 2023" />-->
+<!--                    </div>-->
+<!--                    <div class="col-lg-6 p-3">-->
+<!--                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-202306-2.png" title="L'Amuse-Bar: animations du mois de juin 2023" />-->
+<!--                    </div>-->
+<!--                </div>-->
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
