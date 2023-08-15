@@ -181,6 +181,17 @@ a, a:hover {
 
 }
 
+.amuseBar-event-text-1 { color: #F30089 !important; }
+.amusebar-event-bg-gradient-1 {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fdf4a8+0,f8a7f9+100 */
+    background: rgb(253,244,168); /* Old browsers */
+    background: -moz-linear-gradient(left,  rgba(253,244,168,1) 0%, rgba(248,167,249,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  rgba(253,244,168,1) 0%,rgba(248,167,249,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  rgba(253,244,168,1) 0%,rgba(248,167,249,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdf4a8', endColorstr='#f8a7f9',GradientType=1 ); /* IE6-9 */
+
+}
+
 /*.footer {*/
 /*    position: absolute;*/
 /*    bottom: 0;*/
