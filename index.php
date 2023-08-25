@@ -40,6 +40,9 @@ require_once("init.php");
 <!--                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/kitchenForSale.png" title="Annonce - cuisine professionnelle à vendre" />-->
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/summerOpening.png" title="L'Amuse-Bar: horaires d'été à partir du 19 juin" />
             </div>
+            <div class="col-lg-3">
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/closedForWedding.png" title="L'Amuse-Bar: fermé le samedi 26 août 2023" />
+            </div>
         </div>
     </div>
 </div>
