@@ -40,6 +40,9 @@ require_once("init.php");
 <!--                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/kitchenForSale.png" title="Annonce - cuisine professionnelle à vendre" />-->
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/summerOpening.png" title="L'Amuse-Bar: horaires d'été à partir du 19 juin" />
             </div>
+            <div class="col-lg-3">
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/braderie2023.png" title="L'Amuse-Bar se déplace à la braderie du 1er au 3 sept" />
+            </div>
         </div>
     </div>
 </div>
