@@ -32,22 +32,13 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-concertVonti.png" title="L'Amuse-Bar: Live Music Mehdy Vonti le 31 août" />
+                <!--                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/kitchenForSale.png" title="Annonce - cuisine professionnelle à vendre" />-->
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/monday_2023-18-09.png" title="L'Amuse-Bar: week-end du jeûne! On va jouer à l'Amuse-Bar" />
             </div>
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/braderie2023.png" title="L'Amuse-Bar se déplace à la braderie du 1er au 3 sept" />
-            </div>
-        </div>
-
-        <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
                 <a target="_blank" href="files/newsletter_2023_08-09.pdf">
                     <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2023_08-09.png" title="L'Amuse-Bar: vacances d'été" />
                 </a>
-            </div>
-            <div class="col-lg-3">
-<!--                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/kitchenForSale.png" title="Annonce - cuisine professionnelle à vendre" />-->
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/summerOpening.png" title="L'Amuse-Bar: horaires d'été à partir du 19 juin" />
             </div>
         </div>
     </div>

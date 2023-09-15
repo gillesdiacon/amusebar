@@ -33,15 +33,6 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-concertVonti.png" title="L'Amuse-Bar: live music Mehdi Vonti 31 aou 2023" />
-                    </div>
-                    <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-magicTournament.jpg" title="L'Amuse-Bar: Tournoi Magic Card 24 sept 2023" />
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-yogaBrunch.png" title="L'Amuse-Bar: Yoga brunch 24 sept 2023" />
                     </div>
                     <div class="col-lg-6 p-3">
@@ -51,9 +42,15 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-magicTournament.jpg" title="L'Amuse-Bar: Tournoi Magic Card 24 sept 2023" />
+                    </div>
+                    <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-urbanPole.png" title="L'Amuse-Bar: Démonstration urban pole 30 sept 2023" />
-                        <br>
-                        <br>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-murderParty.png" title="L'Amuse-Bar: Murder Party" />
                     </div>
                     <div class="col-lg-6 p-3">
