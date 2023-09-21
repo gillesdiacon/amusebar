@@ -33,7 +33,7 @@ require_once("init.php");
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
                 <!--                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/kitchenForSale.png" title="Annonce - cuisine professionnelle à vendre" />-->
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/monday_2023-18-09.png" title="L'Amuse-Bar: week-end du jeûne! On va jouer à l'Amuse-Bar" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event_card-fondue.png" title="L'Amuse-Bar: Match aux cartes et fondue à l'Amuse-Bar" />
             </div>
             <div class="col-lg-3">
                 <a target="_blank" href="files/newsletter_2023_08-09.pdf">
