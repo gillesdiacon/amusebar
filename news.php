@@ -31,6 +31,43 @@ require_once("init.php");
                     <div class="col-lg-3 d-none d-lg-block">&nbsp;</div>
                     <div class="col amuseBar-bg-cream mx-lg-5 px-4">
                         <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
+
+                        <p class="fw-bold">Les newsletters</p>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
+                                <a target="_blank" href="files/newsletter_2023_10.pdf">
+                                    <img src="image/newsletter_2023_10.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">Octobre</div>
+                                <span class="align-middle">Octobre est déjà là et avec lui le retour des soirées jeux de société !
+                                    L’Amuse-Bar vous propose de vous réchauffer le coeur et le corps
+                                    grâce à des parties endiablées, des animations variées et à ses bons
+                                    petits plats maison !
+                                    N'hésitez pas à nous suivre sur Instagram et Facebook, ainsi que
+                                    d'aller zyeuter notre site internet car toutes les informations s'y
+                                    trouvent (normalement)</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
+                                <a target="_blank" href="files/newsletter_2023_08-09.pdf">
+                                    <img src="image/newsletter_2023_08-09.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">Août - septembre</div>
+                                <span class="align-middle">Vous trouverez dans cette newsletter quelques informations sur les
+                                    diverses activités et animations que nous proposons à L'Amuse-Bar
+                                    pour les mois d'août et septembre. N'hésitez pas à nous suivre sur
+                                    Instagram et Facebook, ainsi que d'aller zyeuter notre site internet
+                                    car toutes les informations s'y trouvent (normalement)</span>
+                            </div>
+                        </div>
+
                         <p class="fw-bold">La presse parle de l'Amuse Bar</p>
 
                         <div class="row px-2 py-4">
