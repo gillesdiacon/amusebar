@@ -33,12 +33,29 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-murderParty.png" title="L'Amuse-Bar: Murder Party" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-blindTest.png" title="L'Amuse-Bar: Blind test vendredi 13 octobre 2023" />
                     </div>
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-concertVieille.jpg" title="L'Amuse-Bar: concert Cyril Vieille 5 oct 2023" />
-                        <div class="col-lg-6 p-3">&nbsp;</div>
+                        <a href="image/event-halloween.mp4" target="_blank">
+                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-halloween23.png" title="L'Amuse-Bar: Venez fêter halloween à L'Amuse-Bar" />
+                        </a>
                     </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+                    </div>
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-vendrediAperoQuiz.png" title="L'Amuse-Bar: Apéro Quiz tous les vendredis" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-murderParty.png" title="L'Amuse-Bar: Murder Party" />
+                    </div>
+                    <div class="col-lg-6 p-3">&nbsp;</div>
                 </div>
 
                 <div class="row">
