@@ -44,18 +44,20 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" />
                     </div>
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-vendrediAperoQuiz.png" title="L'Amuse-Bar: Apéro Quiz tous les vendredis" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-vendrediAperoQuiz.png" title="L'Amuse-Bar: Apéro Quiz tous les vendredis" />
+                    </div>
+                    <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-murderParty.png" title="L'Amuse-Bar: Murder Party" />
                     </div>
-                    <div class="col-lg-6 p-3">&nbsp;</div>
                 </div>
 
                 <div class="row">

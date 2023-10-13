@@ -46,7 +46,7 @@ require_once("init.php");
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
                 <a target="_blank" href="image/event-lundiFondue.png">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" />
                 </a>
             </div>
             <div class="col-lg-3">
