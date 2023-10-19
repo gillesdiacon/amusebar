@@ -32,22 +32,18 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <a target="_blank" href="image/event-blindTest.png">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-blindTest.png" title="L'Amuse-Bar: Blind test vendredi 13 octobre 2023" />
-                </a>
-            </div>
-            <div class="col-lg-3">
                 <a target="_blank" href="image/event-halloween.mp4">
                     <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-halloween23.png" title="L'Amuse-Bar: venez fêter halloween à l'Amuse-Bar" />
                 </a>
+            </div>
+            <div class="col-lg-3">
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-zorya.png" title="L'Amuse-Bar: J.K. Fournier présente son nouveau roman, Zorya" />
             </div>
         </div>
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <a target="_blank" href="image/event-lundiFondue.png">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" />
-                </a>
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" />
             </div>
             <div class="col-lg-3">
                 <a target="_blank" href="files/newsletter_2023_10.pdf">

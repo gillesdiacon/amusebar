@@ -33,12 +33,12 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-blindTest.png" title="L'Amuse-Bar: Blind test vendredi 13 octobre 2023" />
-                    </div>
-                    <div class="col-lg-6 p-3">
                         <a href="image/event-halloween.mp4" target="_blank">
                             <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-halloween23.png" title="L'Amuse-Bar: Venez fêter halloween à L'Amuse-Bar" />
                         </a>
+                    </div>
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-zorya.png" title="L'Amuse-Bar: J.K. Fournier présente son nouveau roman, Zorya" />
                     </div>
                 </div>
 
