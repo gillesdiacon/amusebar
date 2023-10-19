@@ -77,7 +77,7 @@ require_once("init.php");
                             <div class="card-body">
                                 <h5 class="card-title fw-bold amuseBar-text-red">Animations</h5>
                                 <ul>
-                                    <li><a target="_blank" href="files/flyerJdr.pdf">Jeu de rôle</a>:
+                                    <li><a target="_blank" href="files/flyer-jdr.png">Jeu de rôle</a>:
                                         inscription à <a href="javascript:decryptEmail('Y2VkcmljX3Jvc3NlbEBob3RtYWlsLmZy');">cedric_rossel(at)hotmail.fr</a></li>
                                     <li>Initiation au Backgammon, échec, chibre, belote</li>
                                     <li>Initiation cartes magic</li>
