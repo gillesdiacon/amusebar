@@ -77,9 +77,8 @@ require_once("init.php");
                             <div class="card-body">
                                 <h5 class="card-title fw-bold amuseBar-text-red">Animations</h5>
                                 <ul>
-<!--                                    <li><a target="_blank" href="files/flyerJdr.pdf">Jeu de rôle</a>:-->
-<!--                                        inscription à <a href="javascript:decryptEmail('amRyLmxhbXVzZWJhckBnbWFpbC5jb20=');">jdr.lamusebar(at)gmail.com</a></li>-->
-                                    <li>Jeu de rôle: reprise mi-octobre</li>
+                                    <li><a target="_blank" href="files/flyerJdr.pdf">Jeu de rôle</a>:
+                                        inscription à <a href="javascript:decryptEmail('Y2VkcmljX3Jvc3NlbEBob3RtYWlsLmZy');">cedric_rossel(at)hotmail.fr</a></li>
                                     <li>Initiation au Backgammon, échec, chibre, belote</li>
                                     <li>Initiation cartes magic</li>
                                     <li>et bien plus encore</li>
