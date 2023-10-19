@@ -62,6 +62,13 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-jdr.png" title="L'Amuse-Bar: Jeux de Rôles 1 mercredi sur 2 - 18h à 20h" />
+                    </div>
+                    <div class="col-lg-6 p-3">&nbsp;</div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6 p-3">
                         <div class="card h-100 amuseBar-bg-cream amuseBar-border-red rounded-10">
                             <div class="card-header bg-transparent border-bottom-0 text-center p-3">
                                 <img src="image/jdr-small.png" class="img-fluid" alt="L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques">
