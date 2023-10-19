@@ -72,6 +72,40 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="https://www.thefamilyof5.com/post/weekend-in-la-chaux-de-fonds">
+                                    <img src="image/news/FamilyOf5_20231011.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">11 octobre 2023: Weekend in La Chaux-de-Fonds</div>
+                                <span class="align-middle">For lunch, we headed to L’Amuse-Bar which is housed in a beautiful building.
+                                    The amazing thing about this bar is that it has more than 1,400 board games for customers to play while they are there.
+                                    This is an excellent idea for families and I think we had our most peaceful family lunch ever!
+                                    Jude and Alba played a game together while I fed Elio then they picked another for us to all play together which was lots of fun
+                                    (even though Jean won!). The food is really good too. Jude and Alba had a nice plate of roast beef with salad and chips and
+                                    Jean and I tried a tartare de boeuf which was excellent and full of flavour. We also tried some of their artisanal beer.</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
+                                <a target="_blank" href="https://www.freizeit.ch/freizeit/25143/die-amuse-bar">
+                                    <img src="image/news/Freizeit_20230914.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">14 septembre 2023: Die grösste Spiel-Bar der Schweiz befindet ich in La Chaux-de-Fonds</div>
+                                <span class="align-middle">In La Chaux-de-Fonds, der berühmten Uhrmacherstadt, gibt es einen einzigartigen Ort, an dem Spiele, Genuss und geselliges Miteinander
+                                    verschmelzen: die Amuse-Bar. Hier stehen über 1000 Gesellschaftsspiele zur Verfügung, während die Gäste bei erfrischenden Getränken und
+                                    hausgemachten Köstlichkeiten die lebhafte Atmosphäre der Stadt geniessen können.<br>
+                                    Die Amuse-Bar ist ein wahres Paradies für Spielliebhaber*innen. Mit einer Auswahl von über 1000 Spielen ist für jeden Geschmack und jedes Alter
+                                    etwas dabei. Von klassischen Brettspielen bis hin zu modernen Strategie- und Kartenspielen bietet dieser Ort endlose Unterhaltungsmöglichkeiten.
+                                    Ob Sie Freunde herausfordern oder neue Spiele ausprobieren möchten, hier kommen Spieler*innen auf ihre Kosten.</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Zeit_20230319.pdf">
                                     <img src="image/news/Zeit_20230319.png" width="100%" />
                                 </a>
