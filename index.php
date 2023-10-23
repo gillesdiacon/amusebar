@@ -33,17 +33,18 @@ require_once("init.php");
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
                 <a target="_blank" href="image/event-halloween.mp4">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-halloween23.png" title="L'Amuse-Bar: venez fêter halloween à l'Amuse-Bar" />
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-murderParty-laCoupeDesMaisons.jpg" title="L'Amuse-Bar: joutes et meurtre mystère - La coupe des maisons" />
                 </a>
             </div>
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-zorya.png" title="L'Amuse-Bar: J.K. Fournier présente son nouveau roman, Zorya" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-halloween23.png" title="L'Amuse-Bar: venez fêter halloween à l'Amuse-Bar" />
             </div>
         </div>
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-zorya.png" title="L'Amuse-Bar: J.K. Fournier présente son nouveau roman, Zorya" />
+                <!-- <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" /> -->
             </div>
             <div class="col-lg-3">
                 <a target="_blank" href="files/newsletter_2023_10.pdf">
