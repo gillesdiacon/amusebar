@@ -32,12 +32,17 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <a target="_blank" href="image/event-halloween.mp4">
+                <a target="_blank" href="https://www.eventbrite.com/e/la-coupe-des-maisons-tickets-741566103177?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile">
                     <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-murderParty-laCoupeDesMaisons.jpg" title="L'Amuse-Bar: joutes et meurtre mystère - La coupe des maisons" />
+                    <div class="text-center font-raleway fw-bold">
+                        <i class="bi bi-envelope pe-2"></i>inscription sur le site www.eventbrite.com
+                    </div>
                 </a>
             </div>
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-halloween23.png" title="L'Amuse-Bar: venez fêter halloween à l'Amuse-Bar" />
+                <a target="_blank" href="image/event-halloween.mp4">
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-halloween23.png" title="L'Amuse-Bar: venez fêter halloween à l'Amuse-Bar" />
+                </a>
             </div>
         </div>
 
