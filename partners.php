@@ -38,4 +38,15 @@
     <div class="col-lg-2 d-flex flex-wrap align-items-center justify-content-center text-center py-3">
         <img src="image/partner/feizeitch<?php echo $partnerLogoType ?>.png" height="90px" alt="freizeit.ch est partenaire de l'Amuse-Bar à La Chaux-de-Fonds">
     </div>
+    <div class="col-lg-2 d-flex flex-wrap align-items-center justify-content-center text-center py-3">
+        <?php
+            $localPassImg = "";
+            if('_index' == $partnerLogoType) {
+                $localPassImg = "localPass_index.svg";
+            } else {
+                $localPassImg = "localPass.png";
+            }
+        ?>
+        <img src="image/partner/<?php echo $localPassImg ?>" height="90px" alt="localpass.ch est partenaire de l'Amuse-Bar à La Chaux-de-Fonds">
+    </div>
 </div>
