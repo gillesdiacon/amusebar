@@ -40,8 +40,15 @@ require_once("init.php");
                 </a>
             </div>
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newOpening.png" title="L'Amuse-Bar: Nouveaux horaires d'ouverture" />
-                <!-- <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" /> -->
+                <a target="_blank" href="files/newsletter_2023_11.mp4">
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2023_11.png" title="L'Amuse-Bar: newsletter novembre" />
+                </a>
+                <div class="text-white font-raleway fw-medium px-lg-5">
+                    Découvrir la newsletter de novembre en&nbsp;
+                    <a target="_blank" href="files/newsletter_2023_11.mp4">vidéo (mp4)</a>
+                    <span>&nbsp;ou en &nbsp;</span>
+                    <a target="_blank" href="files/newsletter_2023_11.pdf">pdf</a>
+                </div>
             </div>
         </div>
 
@@ -50,9 +57,8 @@ require_once("init.php");
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-zorya.png" title="L'Amuse-Bar: J.K. Fournier présente son nouveau roman, Zorya" />
             </div>
             <div class="col-lg-3">
-                <a target="_blank" href="files/newsletter_2023_10.pdf">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2023_10.png" title="L'Amuse-Bar: newsletter octobre" />
-                </a>
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newOpening.png" title="L'Amuse-Bar: Nouveaux horaires d'ouverture" />
+                <!-- <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" /> -->
             </div>
         </div>
     </div>

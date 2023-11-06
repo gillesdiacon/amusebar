@@ -36,6 +36,32 @@ require_once("init.php");
 
                         <div class="row px-2 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="files/newsletter_2023_11.pdf">
+                                    <img src="image/newsletter_2023_11.png" width="100%" />
+                                </a>
+                                <div class="px-lg-3">
+                                    Découvrir la newsletter de novembre en&nbsp;
+                                    <a target="_blank" href="files/newsletter_2023_11.mp4">vidéo (mp4)</a>
+                                    <span>&nbsp;ou en &nbsp;</span>
+                                    <a target="_blank" href="files/newsletter_2023_11.pdf">pdf</a>
+                                </div>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">Novembre</div>
+                                <span class="align-middle">Nous sommes en novembre, la pluie est de retour, les arbres se
+                                    dénudent; alors que les températures baissent, L’Amuse-Bar se
+                                    réchauffe grâce à votre présence !
+                                    Rejoignez-nous tous les jours sauf le mardi pour passer un moment
+                                    familial, entre amis ou pour faire des rencontres autour d’un jeu et
+                                    d’un bon repas.
+                                    N'hésitez pas à nous suivre sur Instagram et Facebook, ainsi que
+                                    d'aller zyeuter notre site internet car toutes les informations s'y
+                                    trouvent (normalement)</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-2 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="files/newsletter_2023_10.pdf">
                                     <img src="image/newsletter_2023_10.png" width="100%" />
                                 </a>
