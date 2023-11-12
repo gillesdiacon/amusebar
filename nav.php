@@ -44,6 +44,9 @@
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">EVÉNEMENTS</h1>
                                 </a>
                             </li>
+                                <ul class="navbar-nav ps-5 mb-2 d-lg-none">
+                                    <?php include("navEventLi.php"); ?>
+                                </ul>
                             <li class="nav-item px-2 py-2 mx-lg-2 amusebar-menu-list rounded-pill <?php if('escape'==$activeMenuPage) echo 'active' ?>">
                                 <a title="Magasin" class="nav-link py-0 m-0" href="/escape.php">
                                     <h1 class="fw-semi-bold font-raleway amusebar-menu fs-5 m-lg-0 <?php if(isset($menuDarkText)) echo 'dark' ?>">ESCAPE</h1>
