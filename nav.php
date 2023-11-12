@@ -68,6 +68,14 @@
                                 </ul>
                             </div>
                         <?php } ?>
+
+                        <?php if('event'==$activeMenuPage) { ?>
+                            <div class="d-none d-lg-block">
+                                <ul class="navbar-nav flex-row px-3">
+                                    <?php include("navEventLi.php"); ?>
+                                </ul>
+                            </div>
+                        <?php } ?>
                     </>
                 </div>
             </div>

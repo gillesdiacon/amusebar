@@ -192,6 +192,10 @@ a, a:hover {
 
 }
 
+.hover-border-primary-2:hover {
+    border: 2px solid #0d6efd !important;
+}
+
 /*.footer {*/
 /*    position: absolute;*/
 /*    bottom: 0;*/
