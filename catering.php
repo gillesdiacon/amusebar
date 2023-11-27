@@ -38,10 +38,11 @@ require_once("init.php");
                                 C'est pourquoi, nous avons testé pour vous différents produits pour sélectionner les meilleurs et les plus originaux.<br />
                                 Pour que chacun puisse avoir un plaisir gustatif, des recettes véganes vous seront également proposées.</p>
 
-                            <div>
+                            <div class="mb-4">
                                 <a target="_blank" href="catering/lamusebar-carte-restauration.pdf">
                                     <img src="image/food.png" height="50px" /> <!-- https://fontawesome.com/icons/user-chef?s=thin&f=classic -->
-                                    <span>Carte restauration</span>
+                                    <span>Carte restauration temporaire</span>
+                                    <div class="ps-5"> ... nouvelle carte en préparation ...</div>
                                 </a>
                             </div>
 
