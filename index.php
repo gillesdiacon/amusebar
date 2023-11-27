@@ -32,15 +32,17 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <a target="_blank" href="https://www.eventbrite.com/e/la-coupe-des-maisons-tickets-741566103177?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-murderParty-laCoupeDesMaisons.jpg" title="L'Amuse-Bar: joutes et meurtre mystère - La coupe des maisons" />
-                    <div class="text-center font-raleway fw-bold">
-                        <a target="_blank" href="https://diversi0n.com/evenement/la-coupe-des-maisons-amuse-bar-16-novembre/">
-                            <i class="bi bi-envelope pe-2"></i>inscription sur le site www.diversi0n.com
-                        </a>
-                    </div>
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" />
+            </div>
+            <div class="col-lg-3">
+                <a href="event-wargame.php">
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-wargame.jpg" title="L'Amuse-Bar: Wargame" />
                 </a>
             </div>
+        </div>
+
+        <div class="row justify-content-center text-center pt-3">
+            <div class="col-lg-3">&nbsp;</div>
             <div class="col-lg-3">
                 <a target="_blank" href="files/newsletter_2023_11.mp4">
                     <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2023_11.png" title="L'Amuse-Bar: newsletter novembre" />
@@ -54,15 +56,6 @@ require_once("init.php");
             </div>
         </div>
 
-        <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-zorya.png" title="L'Amuse-Bar: J.K. Fournier présente son nouveau roman, Zorya" />
-            </div>
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newOpening.png" title="L'Amuse-Bar: Nouveaux horaires d'ouverture" />
-                <!-- <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" /> -->
-            </div>
-        </div>
     </div>
 </div>
 
