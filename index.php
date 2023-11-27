@@ -42,7 +42,11 @@ require_once("init.php");
         </div>
 
         <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-3">&nbsp;</div>
+            <div class="col-lg-3">
+                <a target="_blank" href="https://neuchatel-vins-terroir.ch/le-petit-train-de-la-saint-nicolas/">
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-trainStNicolas.png" title="L'Amuse-Bar: Le petit Train du Terroir pour la St-Nicolas" />
+                </a>
+            </div>
             <div class="col-lg-3">
                 <a target="_blank" href="files/newsletter_2023_11.mp4">
                     <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2023_11.png" title="L'Amuse-Bar: newsletter novembre" />
