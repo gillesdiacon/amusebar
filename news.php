@@ -34,7 +34,29 @@ require_once("init.php");
 
                         <p class="fw-bold">Les newsletters</p>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
+                            <div class="col-lg-3 text-center">
+                                <a target="_blank" href="files/newsletter_2023_12.pdf">
+                                    <img src="image/newsletter_2023_12.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">Décembre</div>
+                                <span class="align-middle">Décembre est bien installé et avec lui l’arrivée de la neige et des fêtes de fin
+                                    d’année. 2023 touche à sa fin et nous vous remercions chaleureusement de
+                                    votre soutien ! Pour une première année d’exercice, nous sommes contents de
+                                    la fréquentation et de la réputation de L’Amuse-Bar. C’est grâce à votre
+                                    fidélité. On espère que 2024 sera une année propice à la rencontre, au
+                                    partage et à l’amusement ! L’Amuse-Bar se réjouit déjà de partager avec
+                                    vous cette 2ème année d’activité !<br />
+                                    N'hésitez pas à nous suivre sur Instagram et Facebook, ainsi que d'aller
+                                    zyeuter notre site internet car toutes les informations s'y trouvent
+                                    (normalement). N’hésitez pas à nous contacter par mail ou par téléphone si
+                                    vous avez des questions.</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="files/newsletter_2023_11.pdf">
                                     <img src="image/newsletter_2023_11.png" width="100%" />
@@ -50,17 +72,17 @@ require_once("init.php");
                                 <div class="fw-bold">Novembre</div>
                                 <span class="align-middle">Nous sommes en novembre, la pluie est de retour, les arbres se
                                     dénudent; alors que les températures baissent, L’Amuse-Bar se
-                                    réchauffe grâce à votre présence !
+                                    réchauffe grâce à votre présence !<br />
                                     Rejoignez-nous tous les jours sauf le mardi pour passer un moment
                                     familial, entre amis ou pour faire des rencontres autour d’un jeu et
-                                    d’un bon repas.
+                                    d’un bon repas.<br />
                                     N'hésitez pas à nous suivre sur Instagram et Facebook, ainsi que
                                     d'aller zyeuter notre site internet car toutes les informations s'y
                                     trouvent (normalement)</span>
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="files/newsletter_2023_10.pdf">
                                     <img src="image/newsletter_2023_10.png" width="100%" />
@@ -71,14 +93,14 @@ require_once("init.php");
                                 <span class="align-middle">Octobre est déjà là et avec lui le retour des soirées jeux de société !
                                     L’Amuse-Bar vous propose de vous réchauffer le coeur et le corps
                                     grâce à des parties endiablées, des animations variées et à ses bons
-                                    petits plats maison !
+                                    petits plats maison !<br />
                                     N'hésitez pas à nous suivre sur Instagram et Facebook, ainsi que
                                     d'aller zyeuter notre site internet car toutes les informations s'y
                                     trouvent (normalement)</span>
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="files/newsletter_2023_08-09.pdf">
                                     <img src="image/newsletter_2023_08-09.png" width="100%" />
@@ -88,15 +110,16 @@ require_once("init.php");
                                 <div class="fw-bold">Août - septembre</div>
                                 <span class="align-middle">Vous trouverez dans cette newsletter quelques informations sur les
                                     diverses activités et animations que nous proposons à L'Amuse-Bar
-                                    pour les mois d'août et septembre. N'hésitez pas à nous suivre sur
+                                    pour les mois d'août et septembre.<br />
+                                    N'hésitez pas à nous suivre sur
                                     Instagram et Facebook, ainsi que d'aller zyeuter notre site internet
                                     car toutes les informations s'y trouvent (normalement)</span>
                             </div>
                         </div>
 
-                        <p class="fw-bold">La presse parle de l'Amuse Bar</p>
+                        <p class="fw-bold mt-5">La presse parle de l'Amuse Bar</p>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="https://www.thefamilyof5.com/post/weekend-in-la-chaux-de-fonds">
                                     <img src="image/news/FamilyOf5_20231011.png" width="100%" />
@@ -113,7 +136,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="https://www.freizeit.ch/freizeit/25143/die-amuse-bar">
                                     <img src="image/news/Freizeit_20230914.png" width="100%" />
@@ -130,7 +153,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Zeit_20230319.pdf">
                                     <img src="image/news/Zeit_20230319.png" width="100%" />
@@ -144,7 +167,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_20230115.pdf">
                                     <img src="image/news/ArcInfo_20230115.png" width="100%" />
@@ -158,7 +181,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="https://www.rts.ch/info/regions/neuchatel/13703157-la-chauxdefonds-se-profile-de-plus-en-plus-comme-la-mecque-des-jeux-de-societe.html">
                                     <img src="image/news/RTS_20230115.png" width="100%" />
@@ -172,7 +195,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Courrier_20230111.pdf">
                                     <img src="image/news/Courrier_20230111.png" width="100%" />
@@ -193,7 +216,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="https://www.canalalpha.ch/play/le-journal/topic/28802/lamuse-bar-ouvre-enfin-ses-portes-a-lancien-manege">
                                     <img src="image/news/CanalAlpha_20230109.png" width="100%" />
@@ -208,7 +231,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_20230109.pdf">
                                     <img src="image/news/ArcInfo_20230109.png" width="100%" />
@@ -221,7 +244,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/RTN_221104.pdf">
                                     <img src="image/news/RTN_221104.png" width="100%" />
@@ -235,7 +258,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/CommuniqueDePresse_221104.pdf">
                                     <img src="image/news/CommuniqueDePresse_221104.png" width="100%" />
@@ -251,7 +274,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_220922.pdf">
                                     <img src="image/news/ArcInfo_220922.png" width="100%" />
@@ -265,7 +288,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Heroslocaux_20220619.pdf">
                                     <img src="image/news/Heroslocaux_20220619.png" width="100%" />
@@ -280,7 +303,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Le_O_p10_220225.pdf">
                                     <img src="image/news/Le_O_p10_220225.png" width="100%" />
@@ -294,7 +317,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/ArcInfo_p4_220225.pdf">
                                     <img src="image/news/ArcInfo_p4_220225.png" width="100%" />
@@ -309,7 +332,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <div class="row px-2 py-4">
+                        <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
                                 <a target="_blank" href="news/Le_Tourbillon_p4_220225.pdf">
                                     <img src="image/news/Le_Tourbillon_p4_220225.png" width="100%" />
