@@ -32,7 +32,7 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <a target="_blank" href="files/newsletter_2023_12.mp4">
+                <a target="_blank" href="files/newsletter_2023_12.pdf">
                     <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2023_12.png" title="L'Amuse-Bar: newsletter novembre" />
                 </a>
             </div>
