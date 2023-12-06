@@ -38,27 +38,22 @@ require_once("init.php");
                                 C'est pourquoi, nous avons testé pour vous différents produits pour sélectionner les meilleurs et les plus originaux.<br />
                                 Pour que chacun puisse avoir un plaisir gustatif, des recettes véganes vous seront également proposées.</p>
 
-                            <div class="mb-4">
-                                <a target="_blank" href="catering/lamusebar-carte-restauration.pdf">
-                                    <img src="image/food.png" height="50px" /> <!-- https://fontawesome.com/icons/user-chef?s=thin&f=classic -->
-                                    <span>Carte restauration temporaire</span>
-                                    <div class="ps-5"> ... nouvelle carte en préparation ...</div>
-                                </a>
-                            </div>
-
-                            <div class="pt-2">
-                                <a target="_blank" href="catering/lamusebar-carte-chef.pdf">
-                                    <img src="image/star.png" height="40px" /> <!-- https://fontawesome.com/icons/star?f=sharp&s=solid -->
-                                    <span>Carte spécialités</span>
-                                </a>
-                            </div>
-
                             <p class="mt-5">Au niveau de la carte des boissons, nous avons privilégié des bières artisanales, des cocktails originaux et des limonades et boissons maisons.</p>
-                            <div>
-                                <a target="_blank" href="catering/lamusebar-carte-boissons.pdf">
-                                    <img src="image/drink.png" height="50px" /> <!-- https://fontawesome.com/icons/glass-water?s=thin&f=classic -->
-                                    <span>Carte boissons</span>
-                                </a>
+
+                            <div class="row justify-content-center">
+                                <div class="col-2 align-self-center text-end">
+                                    <img class="align-middle" src="image/food.png" height="50px" /> <!-- https://fontawesome.com/icons/user-chef?s=thin&f=classic -->
+                                </div>
+                                <div class="col-3">
+                                    <a target="_blank" href="catering/lamusebar-carte.pdf">
+                                        <div class="text-center">Règles du jeu</div>
+                                        <div class="text-center">carte restauration</div>
+                                        <div class="text-center">carte boissons</div>
+                                    </a>
+                                </div>
+                                <div class="col-2 align-self-center">
+                                    <img class="align-middle" src="image/drink.png" height="50px" /> <!-- https://fontawesome.com/icons/glass-water?s=thin&f=classic -->
+                                </div>
                             </div>
 
                             <p class="mt-5">! Paiement par cash ou twint uniquement !</p>
