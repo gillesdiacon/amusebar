@@ -55,6 +55,11 @@ require_once("init.php");
 
                 <div class="row align-items-end">
                     <div class="col-lg-6 p-3">
+                        <p class="fw-semi-bold">Notre prochaine soirée est le jeudi 14 décembre à 19h30. Venez nombreux. Voici les jeux que je propose pour cette première soirée :</p>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/VSHGP9AE3qc" title="Soirée wargame du 14 décembre à l&#39;Amuse-Bar (19h30-22h00)"
+                                frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-lg-6 p-3">
                         <p class="fw-semi-bold">Notre prochaine soirée est le jeudi 30 novembre à 19h30. Venez nombreux. Voici les jeux que je propose pour cette première soirée :</p>
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/6SKQmtk5A4c?si=uCVNRtpb1_Rs1Ld4" title="YouTube video player" frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
