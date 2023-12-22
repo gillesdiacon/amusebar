@@ -1,9 +1,11 @@
+        <?php if (file_exists("image/specialOpening.png")) { ?>
         <div class="<?php echo $timetableHeaderContainerClass ?>">
             <a class="text-reset" href="#specialOpening">
                 <span class="<?php echo $timetableHeaderClass ?>">Horaires</span>
-<!--                <i class="px-2 fs-5 bi bi-exclamation-diamond text-danger" title=" !! Attention horaires modifiés !! "></i>-->
+                <i class="px-2 fs-5 bi bi-exclamation-diamond text-danger" title=" !! Attention horaires modifiés !! "></i>
             </a>
         </div>
+        <?php } ?>
 
         <div class="ms-3 text-center">
             <table class="table border-dark border-2 fw-bold">
@@ -65,6 +67,8 @@
             <div class="py-2 fs-5 fw-bold text-danger text-center">Sur demande, nous ouvrons en dehors de ces horaires pour les groupes</div>
         </div>
 
-<!--        <div class="ms-3 text-center">-->
-<!--            <img src="image/summerOpening.png" class="img-fluid" id="specialOpening" title="L'Amuse-Bar: horaires modifiés" />-->
-<!--        </div>-->
+        <?php if (file_exists("image/specialOpening.png")) { ?>
+        <div class="m-3 text-center">
+            <img src="image/specialOpening.png" class="img-fluid" id="specialOpening" title="L'Amuse-Bar: horaires modifiés" />
+        </div>
+        <?php } ?>
