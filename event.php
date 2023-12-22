@@ -34,30 +34,30 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" />
+                        <video width="100%" controls>
+                            <source src="files/event-xmasBlindTest.mp4" type="video/mp4">
+                        </video>
                     </div>
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" />
                     </div>
                 </div>
 
                 <div class="row">
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+                    </div>
                     <div class="col-lg-6 p-3">
                         <a href="event-wargame.php">
                             <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-wargame.jpg" title="L'Amuse-Bar: Wargame" />
                         </a>
                     </div>
-                    <div class="col-lg-6 p-3">
-                        <a href="event-rolePlay.php">
-                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: Jeux de Rôles 1 mercredi sur 2 - 18h à 20h" />
-                        </a>
-                    </div>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <a target="_blank" href="https://neuchatel-vins-terroir.ch/le-petit-train-de-la-saint-nicolas/">
-                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-trainStNicolas.png" title="L'Amuse-Bar: Le petit Train du Terroir pour la St-Nicolas" />
+                        <a href="event-rolePlay.php">
+                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: Jeux de Rôles 1 mercredi sur 2 - 18h à 20h" />
                         </a>
                     </div>
                     <div class="col-lg-6 p-3">
