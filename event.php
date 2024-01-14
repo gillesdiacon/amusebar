@@ -34,12 +34,23 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <video width="100%" controls>
-                            <source src="files/event-xmasBlindTest.mp4" type="video/mp4">
-                        </video>
+                        <a href="event-wargame.php">
+                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-wargame.jpg" title="L'Amuse-Bar: Wargame" />
+                        </a>
                     </div>
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes.png" title="L'Amuse-Bar: Fondue + mach aux cartes les lundis 30 oct et 27 nov 2023" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-blindTest-MIH.jpg" title="L'Amuse-Bar: Blind test-quiz sur l'année 1974 pour fêter les 50ans du MIH - 25 janvier 2024" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes_29jan.png" title="L'Amuse-Bar: Fondue + match aux cartes lundis 29 janvier 2024" />
+                    </div>
+                    <div class="col-lg-6 p-3">
+                        <video width="100%" controls poster="image/event-blindTest-videoPoster.png">
+                            <source src="files/event-blindTest.mp4" type="video/mp4">
+                        </video>
                     </div>
                 </div>
 
@@ -48,20 +59,9 @@ require_once("init.php");
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
                     </div>
                     <div class="col-lg-6 p-3">
-                        <a href="event-wargame.php">
-                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-wargame.jpg" title="L'Amuse-Bar: Wargame" />
-                        </a>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-lg-6 p-3">
                         <a href="event-rolePlay.php">
                             <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: Jeux de Rôles 1 mercredi sur 2 - 18h à 20h" />
                         </a>
-                    </div>
-                    <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-vendrediAperoQuiz.png" title="L'Amuse-Bar: Apéro Quiz tous les vendredis" />
                     </div>
                 </div>
 
