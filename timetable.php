@@ -1,11 +1,13 @@
-        <?php if (file_exists("image/specialOpening.png")) { ?>
         <div class="<?php echo $timetableHeaderContainerClass ?>">
-            <a class="text-reset" href="#specialOpening">
+            <?php if (file_exists("image/specialOpening.png")) { ?>
+                <a class="text-reset" href="#specialOpening">
+                    <span class="<?php echo $timetableHeaderClass ?>">Horaires</span>
+                    <i class="px-2 fs-5 bi bi-exclamation-diamond text-danger" title=" !! Attention horaires modifiés !! "></i>
+                </a>
+            <?php } else { ?>
                 <span class="<?php echo $timetableHeaderClass ?>">Horaires</span>
-                <i class="px-2 fs-5 bi bi-exclamation-diamond text-danger" title=" !! Attention horaires modifiés !! "></i>
-            </a>
+            <?php } ?>
         </div>
-        <?php } ?>
 
         <div class="ms-3 text-center">
             <table class="table border-dark border-2 fw-bold">
