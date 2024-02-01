@@ -36,6 +36,21 @@ require_once("init.php");
 
                         <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="https://mailchi.mp/ff4ca04d65c8/les-news-de-lamuse-bar?e=[UNIQID]">
+                                    <img src="image/newsletter_2024_01.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">Janvier</div>
+                                <span class="align-middle">Hello Les Ami-es de L'Amuse-Bar!
+                                    Toute l’équipe de L’Amuse-Bar vous souhaite une merveilleuse année 2024 et vous
+                                    remercie pour votre fidélité et votre soutien à cette aventure !
+                                    On se réjouit de passer cette 2ème année en votre compagnie! </span>
+                            </div>
+                        </div>
+
+                        <div class="row px-4 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="files/newsletter_2023_12.pdf">
                                     <img src="image/newsletter_2023_12.png" width="100%" />
                                 </a>
