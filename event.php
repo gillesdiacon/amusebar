@@ -125,6 +125,12 @@ require_once("init.php");
                                 <h5 class="card-title fw-bold amuseBar-text-green-dark">Anniversaire</h5>
                                 <p class="text-dark">Venez fêter votre anniversaire ou autre événement festif à L'Amuse-Bar.
                                     On organise pour vous du jeu sur mesure avec animateur qui sera au petit soin.</p>
+                                <p class="text-dark">Vous amenez votre gâteau: un forfait de 10.-/enfant comprenant une carafe
+                                    de sirop/ 5 enfants vous sera demandé en plus des consommations sur place.</p>
+                                <p class="text-dark">Nous nous occupons du gâteau: profitez pleinement de ce moment en consommant sur place
+                                    Nous proposons en plus les services d'un animateur pour que vos enfants passent un chouette moment ludique.
+                                    (30.-/h pour un animateur - dès 10 enfants, il est conseillé d'avoir un 2ème animateur
+                                    pour garantir la qualité du service)</p>
                             </div>
                         </div>
                     </div>
