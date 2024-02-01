@@ -32,18 +32,19 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-blindTest-MIH.jpg" title="L'Amuse-Bar: Blind test-quiz sur l'année 1974 pour fêter les 50ans du MIH - 25 janvier 2024" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-poker.png" title="L'Amuse-Bar: Initiation poker" />
             </div>
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes_29jan.png" title="L'Amuse-Bar: Fondue + match aux cartes lundis 29 janvier 2024" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-brunch2ludesco.png" title="L'Amuse-Bar: Brunch 2 Ludesco" />
             </div>
         </div>
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <video width="100%" controls poster="image/event-blindTest-videoPoster.png">
-                    <source src="files/event-blindTest.mp4" type="video/mp4">
-                </video>
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-concert-vieille.jpg" title="L'Amuse-Bar: Concert Cyril Vieille" />
+<!--                <video width="100%" controls poster="image/event-blindTest-videoPoster.png">-->
+<!--                    <source src="files/event-blindTest.mp4" type="video/mp4">-->
+<!--                </video>-->
             </div>
             <div class="col-lg-3">
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/shop-sale.png" title="L'Amuse-Bar: 20% sur toute la table du magasin de jeux" />

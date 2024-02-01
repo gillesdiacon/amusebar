@@ -34,18 +34,16 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <a href="event-wargame.php">
-                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-wargame.jpg" title="L'Amuse-Bar: Wargame" />
-                        </a>
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-poker.png" title="L'Amuse-Bar: Initiation poker" />
                     </div>
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-blindTest-MIH.jpg" title="L'Amuse-Bar: Blind test-quiz sur l'année 1974 pour fêter les 50ans du MIH - 25 janvier 2024" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-brunch2ludesco.png" title="L'Amuse-Bar: Brunch 2 Ludesco" />
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-fondueCartes_29jan.png" title="L'Amuse-Bar: Fondue + match aux cartes lundis 29 janvier 2024" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-concert-vieille.jpg" title="L'Amuse-Bar: Concert Cyril Vieille" />
                     </div>
                     <div class="col-lg-6 p-3">
                         <video width="100%" controls poster="image/event-blindTest-videoPoster.png">
