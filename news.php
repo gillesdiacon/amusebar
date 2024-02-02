@@ -32,7 +32,7 @@ require_once("init.php");
                     <div class="col amuseBar-bg-cream mx-lg-5 px-4">
                         <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
 
-                        <p class="fw-bold">Les newsletters</p>
+                        <h5 class="fw-bold">Les newsletters</h5>
 
                         <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
@@ -41,7 +41,7 @@ require_once("init.php");
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
-                                <div class="fw-bold">Février</div>
+                                <div class="fw-bold">Février 2024</div>
                                 <span class="align-middle">Janvier a démarré sur les chapeaux de roues et L’Amuse-Bar
                                     poursuit sa réorganisation pour augmenter la qualité du service.
                                     Nous travaillons avec l’équipe des gérants sur divers projets et améliorations
@@ -59,7 +59,7 @@ require_once("init.php");
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
-                                <div class="fw-bold">Janvier</div>
+                                <div class="fw-bold">Janvier 2024</div>
                                 <span class="align-middle">Hello Les Ami-es de L'Amuse-Bar!
                                     Toute l’équipe de L’Amuse-Bar vous souhaite une merveilleuse année 2024 et vous
                                     remercie pour votre fidélité et votre soutien à cette aventure !
@@ -74,7 +74,7 @@ require_once("init.php");
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
-                                <div class="fw-bold">Décembre</div>
+                                <div class="fw-bold">Décembre 2023</div>
                                 <span class="align-middle">Décembre est bien installé et avec lui l’arrivée de la neige et des fêtes de fin
                                     d’année. 2023 touche à sa fin et nous vous remercions chaleureusement de
                                     votre soutien ! Pour une première année d’exercice, nous sommes contents de
@@ -95,14 +95,14 @@ require_once("init.php");
                                     <img src="image/newsletter_2023_11.png" width="100%" />
                                 </a>
                                 <div class="px-lg-3">
-                                    Découvrir la newsletter de novembre en&nbsp;
+                                    Découvrir la newsletter de novembre 2023 en&nbsp;
                                     <a target="_blank" href="files/newsletter_2023_11.mp4">vidéo (mp4)</a>
                                     <span>&nbsp;ou en &nbsp;</span>
                                     <a target="_blank" href="files/newsletter_2023_11.pdf">pdf</a>
                                 </div>
                             </div>
                             <div class="col d-none d-lg-block">
-                                <div class="fw-bold">Novembre</div>
+                                <div class="fw-bold">Novembre 2023</div>
                                 <span class="align-middle">Nous sommes en novembre, la pluie est de retour, les arbres se
                                     dénudent; alors que les températures baissent, L’Amuse-Bar se
                                     réchauffe grâce à votre présence !<br />
@@ -122,7 +122,7 @@ require_once("init.php");
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
-                                <div class="fw-bold">Octobre</div>
+                                <div class="fw-bold">Octobre 2023</div>
                                 <span class="align-middle">Octobre est déjà là et avec lui le retour des soirées jeux de société !
                                     L’Amuse-Bar vous propose de vous réchauffer le coeur et le corps
                                     grâce à des parties endiablées, des animations variées et à ses bons
@@ -140,7 +140,7 @@ require_once("init.php");
                                 </a>
                             </div>
                             <div class="col d-none d-lg-block">
-                                <div class="fw-bold">Août - septembre</div>
+                                <div class="fw-bold">Août - septembre 2023</div>
                                 <span class="align-middle">Vous trouverez dans cette newsletter quelques informations sur les
                                     diverses activités et animations que nous proposons à L'Amuse-Bar
                                     pour les mois d'août et septembre.<br />
@@ -150,7 +150,7 @@ require_once("init.php");
                             </div>
                         </div>
 
-                        <p class="fw-bold mt-5">La presse parle de l'Amuse Bar</p>
+                        <h5 class="fw-bold mt-5">La presse parle de l'Amuse Bar</h5>
 
                         <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
