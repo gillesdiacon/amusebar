@@ -36,7 +36,25 @@ require_once("init.php");
 
                         <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
-                                <a target="_blank" href="https://mailchi.mp/ff4ca04d65c8/les-news-de-lamuse-bar?e=[UNIQID]">
+                                <a target="_blank" href="https://mailchi.mp/672a5880548d/les-news-de-lamuse-bar-fvrier-2024">
+                                    <img src="image/newsletter_2024_02.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">Février</div>
+                                <span class="align-middle">Janvier a démarré sur les chapeaux de roues et L’Amuse-Bar
+                                    poursuit sa réorganisation pour augmenter la qualité du service.
+                                    Nous travaillons avec l’équipe des gérants sur divers projets et améliorations
+                                    afin que vous viviez une expérience mémorable à L’Amuse-Bar !
+                                    Février sera riche en animations de toutes sortes, il y en aura pour tous les goûts !
+                                    N’hésitez pas à transmettre cette newsletter à vos ami-es, collègues et famille,
+                                    car plus on est de fous, plus on rit !</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-4 py-4">
+                            <div class="col-lg-3 text-center">
+                                <a target="_blank" href="https://mailchi.mp/ff4ca04d65c8/les-news-de-lamuse-bar">
                                     <img src="image/newsletter_2024_01.png" width="100%" />
                                 </a>
                             </div>
@@ -45,7 +63,7 @@ require_once("init.php");
                                 <span class="align-middle">Hello Les Ami-es de L'Amuse-Bar!
                                     Toute l’équipe de L’Amuse-Bar vous souhaite une merveilleuse année 2024 et vous
                                     remercie pour votre fidélité et votre soutien à cette aventure !
-                                    On se réjouit de passer cette 2ème année en votre compagnie! </span>
+                                    On se réjouit de passer cette 2ème année en votre compagnie!</span>
                             </div>
                         </div>
 
