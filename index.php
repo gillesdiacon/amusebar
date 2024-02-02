@@ -32,7 +32,9 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-poker.png" title="L'Amuse-Bar: Initiation poker" />
+                <a target="_blank" href="https://mailchi.mp/672a5880548d/les-news-de-lamuse-bar-fvrier-2024">
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2024_02.png" title="L'Amuse-Bar: newsletter février 2024" />
+                </a>
             </div>
             <div class="col-lg-3">
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-brunch2ludesco.png" title="L'Amuse-Bar: Brunch 2 Ludesco" />
