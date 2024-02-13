@@ -34,19 +34,25 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-poker.png" title="L'Amuse-Bar: Initiation poker" />
+                        <video width="100%" controls poster="image/event-semaine7.png" title="L'Amuse-Bar: programme de la semaine du lundi 12 février">
+                            <source src="files/event-semaine7.mp4" type="video/mp4">
+                        </video>
                     </div>
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-brunch2ludesco.png" title="L'Amuse-Bar: Brunch 2 Ludesco" />
+                        <video width="100%" controls poster="image/event-stValentin.png" title="L'Amuse-Bar: soirée speed gaming pour la St-Valentin">
+                            <source src="files/event-stValentin.mp4" type="video/mp4">
+                        </video>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-concert-vieille.jpg" title="L'Amuse-Bar: Concert Cyril Vieille" />
+                        <video width="100%" controls poster="image/event-initiation-backgammon.png" title="L'Amuse-Bar: initiation au backgammon les 8, 15 et 22 février">
+                            <source src="files/event-initiation-backgammon.mp4" type="video/mp4">
+                        </video>
                     </div>
                     <div class="col-lg-6 p-3">
-                        <video width="100%" controls poster="image/event-blindTest-videoPoster.png">
+                        <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
                             <source src="files/event-blindTest.mp4" type="video/mp4">
                         </video>
                     </div>
@@ -54,7 +60,8 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+                        <!-- <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" /> -->
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-impro17fev.jpeg" title="L'Amuse-Bar: capsule d'improviation théatrale - 17 février 2024" />
                     </div>
                     <div class="col-lg-6 p-3">
                         <a href="event-rolePlay.php">
