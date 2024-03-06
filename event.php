@@ -34,9 +34,9 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <video width="100%" controls poster="image/event-semaine7.png" title="L'Amuse-Bar: programme de la semaine du lundi 12 février">
-                            <source src="files/event-semaine7.mp4" type="video/mp4">
-                        </video>
+                        <a href="event-rolePlay.php">
+                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: Jeux de Rôles mercredi 6 et 20 mars - 18h à 22h" />
+                        </a>
                     </div>
                     <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-blindTest-live.png" title="L'Amuse-Bar: quiz musical en live avec Stay Awsome - 08 mars 2024" />
@@ -65,14 +65,12 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <a href="event-rolePlay.php">
-                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: Jeux de Rôles 1 mercredi sur 2 - 18h à 20h" />
-                        </a>
-                    </div>
-                    <div class="col-lg-6 p-3">
                         <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
                             <source src="files/event-blindTest.mp4" type="video/mp4">
                         </video>
+                    </div>
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
                     </div>
                 </div>
 
