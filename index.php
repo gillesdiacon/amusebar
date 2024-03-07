@@ -67,9 +67,7 @@ require_once("init.php");
             <div class="col-lg-3">
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - 25 mars 2024" />
             </div>
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/shop-sale.png" title="L'Amuse-Bar: 20% sur toute la table du magasin de jeux" />
-            </div>
+            <div class="col-lg-3">&nbsp;</div>
         </div>
 
     </div>
