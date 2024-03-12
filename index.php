@@ -32,6 +32,15 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/specialClosing.png" title="L'Amuse-Bar: fermé le 14 mars 2024" />
+            </div>
+            <div class="col-lg-3">
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-ludesco.png" title="L'Amuse-Bar: Ludesco du 15 mars au 17 mars 2024" />
+            </div>
+        </div>
+
+        <div class="row justify-content-center text-center pt-3">
+            <div class="col-lg-3">
                 <a target="_blank" href="https://mailchi.mp/e135522123fd/les-news-de-lamuse-bar-du-mois-de-mars">
                     <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2024_03.png" title="L'Amuse-Bar: newsletter mars 2024" />
                 </a>
@@ -45,29 +54,22 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-blindTest-live.png" title="L'Amuse-Bar: quiz musical en live avec Stay Awsome - 08 mars 2024" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-birthday-1.png" title="L'Amuse-Bar: anniversaire 1 an - 23 mars 2024" />
             </div>
+            <div class="col-lg-3">
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-birthday-2.png" title="L'Amuse-Bar: anniversaire 1 an - 23 mars 2024" />
+            </div>
+        </div>
+
+        <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
                 <video width="100%" controls poster="image/event-initiation-backgammon.png" title="L'Amuse-Bar: initiation au backgammon les 8, 15 et 22 février">
                     <source src="files/event-initiation-backgammon.mp4" type="video/mp4">
                 </video>
             </div>
-        </div>
-
-        <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-birthday-1.png" title="L'Amuse-Bar: anniversaire 1 an - 23 mars 2024" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - 25 mars 2024" />
             </div>
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-birthday-2.png" title="L'Amuse-Bar: anniversaire 1 an - 23 mars 2024" />
-            </div>
-        </div>
-
-        <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - 25 mars 2024" />
-            </div>
-            <div class="col-lg-3">&nbsp;</div>
         </div>
 
     </div>
