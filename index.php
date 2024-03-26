@@ -35,29 +35,9 @@ require_once("init.php");
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/specialClosing.png" title="L'Amuse-Bar: fermé le 14 mars 2024" />
             </div>
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-ludesco.png" title="L'Amuse-Bar: Ludesco du 15 mars au 17 mars 2024" />
-            </div>
-        </div>
-
-        <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-3">
                 <a target="_blank" href="https://mailchi.mp/e135522123fd/les-news-de-lamuse-bar-du-mois-de-mars">
                     <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2024_03.png" title="L'Amuse-Bar: newsletter mars 2024" />
                 </a>
-            </div>
-            <div class="col-lg-3">
-                <a href="event-rolePlay.php">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: Jeux de Rôles mercredi 6 et 20 mars - 18h à 22h" />
-                </a>
-            </div>
-        </div>
-
-        <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-birthday-1.png" title="L'Amuse-Bar: anniversaire 1 an - 23 mars 2024" />
-            </div>
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-birthday-2.png" title="L'Amuse-Bar: anniversaire 1 an - 23 mars 2024" />
             </div>
         </div>
 

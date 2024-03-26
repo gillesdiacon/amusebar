@@ -34,32 +34,12 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-ludesco.png" title="L'Amuse-Bar: Ludesco du 15 mars au 17 mars 2024" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - 25 mars 2024" />
                     </div>
-                    <div class="col-lg-6 p-3">
-                        <a href="event-rolePlay.php">
-                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: Jeux de Rôles mercredi 6 et 20 mars - 18h à 22h" />
-                        </a>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-birthday-1.png" title="L'Amuse-Bar: anniversaire 1 an - 23 mars 2024" />
-                    </div>
-                    <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-birthday-2.png" title="L'Amuse-Bar: anniversaire 1 an - 23 mars 2024" />
-                    </div>
-                </div>
-
-                <div class="row">
                     <div class="col-lg-6 p-3">
                         <video width="100%" controls poster="image/event-initiation-backgammon.png" title="L'Amuse-Bar: initiation au backgammon les 7, 21 et 28 mars">
                             <source src="files/event-initiation-backgammon.mp4" type="video/mp4">
                         </video>
-                    </div>
-                    <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - 25 mars 2024" />
                     </div>
                 </div>
 
