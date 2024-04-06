@@ -56,7 +56,7 @@
                     <td class="text-end border-0 pb-0">Dimanche:</td>
                     <td class="text-center border-0 pb-0">11h00</td>
                     <td class="text-center border-0 pb-0">-</td>
-                    <td class="text-center border-0 pb-0">19h00</td>
+                    <td class="text-center border-0 pb-0">21h00</td>
                     <td class="px-2 border-0 pb-0"></td>
                 </tr>
                 <tr class="border-2 border-top-0 border-start-0 border-end-0 border-dark">

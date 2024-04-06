@@ -32,23 +32,23 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/specialOpening.png" title="L'Amuse-Bar: horaires du week-end de Pâques" />
+                <a target="_blank" href="https://mailchi.mp/307a8c711615/les-news-de-lamuse-bar">
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2024_04.png" title="L'Amuse-Bar: newsletter avril 2024" />
+                </a>
             </div>
             <div class="col-lg-3">
-                <a target="_blank" href="https://mailchi.mp/e135522123fd/les-news-de-lamuse-bar-du-mois-de-mars">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2024_03.png" title="L'Amuse-Bar: newsletter mars 2024" />
-                </a>
+                <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
+                    <source src="files/event-blindTest.mp4" type="video/mp4">
+                </video>
             </div>
         </div>
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - 25 mars 2024" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
             </div>
             <div class="col-lg-3">
-                <video width="100%" controls poster="image/event-initiation-backgammon.png" title="L'Amuse-Bar: initiation au backgammon les 8, 15 et 22 février">
-                    <source src="files/event-initiation-backgammon.mp4" type="video/mp4">
-                </video>
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/sundayOpening.png" title="L'Amuse-Bar: nouvel horaire - dimanche ouverture jusqu'à 21h" />
             </div>
         </div>
 
