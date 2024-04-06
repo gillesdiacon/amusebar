@@ -36,6 +36,25 @@ require_once("init.php");
 
                         <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="https://mailchi.mp/307a8c711615/les-news-de-lamuse-bar">
+                                    <img src="image/newsletter_2024_04.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">Avril 2024</div>
+                                <span class="align-middle">Le printemps est de retour et avec lui l’envie de partager de
+                                    bons moments entre amis-es ! L’Amuse-Bar est toujours là et vous a préparé un beau
+                                    mois d’animations variées et ludiques. Venez nous rendre visite, entre amis-es ou en
+                                    famille, et si vous êtes seul-e, vous ferez de belles rencontres, soyez en sûr-e.
+                                    N’hésitez pas à transmettre cette newsletter à vos amis-es, collègues et famille,
+                                    car plus on est de fous, plus on rit !<br />
+                                    <br />
+                                    Trêve de blabla, je vous laisse découvrir ce que nous vous avons concocté pour ce mois d’avril!</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-4 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="https://mailchi.mp/e135522123fd/les-news-de-lamuse-bar-du-mois-de-mars">
                                     <img src="image/newsletter_2024_03.png" width="100%" />
                                 </a>
