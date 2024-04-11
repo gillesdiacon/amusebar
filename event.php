@@ -34,6 +34,37 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
+                        <video width="100%" controls poster="image/event-semaine15.png" title="L'Amuse-Bar: programme de la semaine du lundi 8 avril">
+                            <source src="files/event-semaine15.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-backgammon.png" title="L'Amuse-Bar: initiation au backgammon les 3, 17 et 24 avril" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-poker.png" title="L'Amuse-Bar: initiation poker le jeudi 11 avril" />
+                    </div>
+                    <div class="col-lg-6 p-3">
+                        <a target="_blank" href="event-rolePlay.php">
+                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: soirée jeu de rôle - mercredi 24 avril, 22 mai et 19 juin" />
+                        </a>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-impro.png" title="L'Amuse-Bar: spectacle d'improvisation théâtrale - samedi 27 avril" />
+                    </div>
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - lundi 29 avril 2024" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-6 p-3">
                         <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
                             <source src="files/event-blindTest.mp4" type="video/mp4">
                         </video>
