@@ -45,10 +45,18 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-poker.png" title="L'Amuse-Bar: initiation poker le jeudi 11 avril" />
+            </div>
+            <div class="col-lg-3">
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - lundi 29 avril 2024" />
+            </div>
+        </div>
+
+        <div class="row justify-content-center text-center pt-3">
+            <div class="col-lg-3">
                 <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
                     <source src="files/event-blindTest.mp4" type="video/mp4">
                 </video>
-
             </div>
             <div class="col-lg-3">
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/specialOpening.png" title="L'Amuse-Bar: horaire de printemps" />
