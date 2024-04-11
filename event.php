@@ -34,56 +34,52 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <video width="100%" controls poster="image/event-semaine15.png" title="L'Amuse-Bar: programme de la semaine du lundi 8 avril">
-                            <source src="files/event-semaine15.mp4" type="video/mp4">
-                        </video>
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-backgammon.png" title="L'Amuse-Bar: initiation au backgammon les 3, 17 et 24 avril" />
                     </div>
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-backgammon.png" title="L'Amuse-Bar: initiation au backgammon les 3, 17 et 24 avril" />
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-poker.png" title="L'Amuse-Bar: initiation poker le jeudi 11 avril" />
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-poker.png" title="L'Amuse-Bar: initiation poker le jeudi 11 avril" />
-                    </div>
                     <div class="col-lg-6 p-3">
                         <a target="_blank" href="event-rolePlay.php">
                             <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: soirée jeu de rôle - mercredi 24 avril, 22 mai et 19 juin" />
                         </a>
                     </div>
-                </div>
-
-                <div class="row">
                     <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-impro.png" title="L'Amuse-Bar: spectacle d'improvisation théâtrale - samedi 27 avril" />
                     </div>
-                    <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - lundi 29 avril 2024" />
-                    </div>
                 </div>
 
                 <div class="row">
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - lundi 29 avril 2024" />
+                    </div>
                     <div class="col-lg-6 p-3">
                         <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
                             <source src="files/event-blindTest.mp4" type="video/mp4">
                         </video>
                     </div>
+                </div>
+
+                <div class="row">
                     <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+                    </div>
+                    <div class="col-lg-6 p-3">
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-murderParty-conspirationEnHautesSpheres.png" title="L'Amuse-Bar: conspiration en hautes spères - 26 avril 2024" />
+                        <div class="text-center font-raleway fw-bold">
+                            <a target="_blank" href="https://diversi0n.com/evenement/conspiration-en-hautes-spheres-amuse-bar-26-avril-2024/">
+                                <i class="bi bi-envelope pe-2"></i>inscription sur le site www.diversi0n.com
+                            </a>
+                        </div>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <a target="_blank" href="https://www.eventbrite.com/e/la-coupe-des-maisons-tickets-741566103177?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile">
-                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-murderParty-laCoupeDesMaisons.jpg" title="L'Amuse-Bar: joutes et meurtre mystère - La coupe des maisons" />
-                            <div class="text-center font-raleway fw-bold">
-                                <a target="_blank" href="https://diversi0n.com/evenement/la-coupe-des-maisons-amuse-bar-16-novembre/">
-                                    <i class="bi bi-envelope pe-2"></i>inscription sur le site www.diversi0n.com
-                                </a>
-                            </div>
-                        </a>
+                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-murderParty-laCoupeDesMaisons.jpg" title="L'Amuse-Bar: joutes et meurtre mystère - La coupe des maisons - 16 novembre 2023" />
                     </div>
                     <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-murderParty.png" title="L'Amuse-Bar: Murder Party" />
