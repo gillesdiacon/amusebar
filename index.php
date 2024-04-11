@@ -32,25 +32,37 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
+                <video width="100%" controls poster="image/event-semaine15.png" title="L'Amuse-Bar: programme de la semaine du lundi 8 avril">
+                    <source src="files/event-semaine15.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div class="col-lg-3">
                 <a target="_blank" href="https://mailchi.mp/307a8c711615/les-news-de-lamuse-bar">
                     <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2024_04.png" title="L'Amuse-Bar: newsletter avril 2024" />
                 </a>
-            </div>
-            <div class="col-lg-3">
-                <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
-                    <source src="files/event-blindTest.mp4" type="video/mp4">
-                </video>
             </div>
         </div>
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+                <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
+                    <source src="files/event-blindTest.mp4" type="video/mp4">
+                </video>
+
             </div>
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/sundayOpening.png" title="L'Amuse-Bar: nouvel horaire - dimanche ouverture jusqu'à 21h" />
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/specialOpening.png" title="L'Amuse-Bar: horaire de printemps" />
             </div>
         </div>
+
+<!--        <div class="row justify-content-center text-center pt-3">-->
+<!--            <div class="col-lg-3">-->
+<!--                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />-->
+<!--            </div>-->
+<!--            <div class="col-lg-3">-->
+<!--                -->
+<!--            </div>-->
+<!--        </div>-->
 
     </div>
 </div>
