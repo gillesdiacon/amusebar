@@ -63,7 +63,7 @@ require_once("init.php");
         <div class="col amuseBar-bg-cream mx-lg-5 px-4">
             <div class="h1 py-3 text-center">Equipe</div>
 
-            <p>Nous sommes trois passionnés de jeux qui avions le rêve d'ouvrir un bar dans lequel les gens pourraient se retrouver pour jouer,
+            <p>Nous sommes des passionnés de jeux qui avions le rêve d'ouvrir un bar dans lequel les gens pourraient se retrouver pour jouer,
                 discuter et boire un verre en toute simplicité et convivialité, "comme à la maison".</p>
 
             <div class="row">
@@ -76,20 +76,6 @@ require_once("init.php");
                         <div class="col pt-lg-4">
                             <p class="text-justify">Salut, je suis pédopsychiatre et passionnée de jeux de société. Je suis sportive, dynamique et enthousiaste. J'adore partager mes passions avec mes amis, ma famille et le jeu m'a permis de faire de belles rencontres inattendues. Je me réjouis de vous faire découvrir cet univers magique et partager avec vous ma passion pour les jeux de société.</p>
                             <p class="fst-italic text-justify">"Ceci est le véritable secret de la vie - Être complètement engagé avec ce que vous faites dans l'ici et le maintenant. Au lieu d'appeler cela travailler, réalisez que c'est jouer." Alan Watts</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="py-4 row">
-                <div class="col">
-                    <div class="fw-bold fs-4">Laetitia</div>
-                    <div class="row ps-lg-5">
-                        <div class="col-lg-3 w-auto">
-                            <img width="200" src="image/laetitia.png" alt="Laetitia">
-                        </div>
-                        <div class="col pt-lg-4">
-                            <p class="text-justify">Salut ! Je suis architecte d'intérieur de formation (mais pas que) et je viens directement du plat pays (la Belgique donc) pour partager avec vous un moment sympa, autour d'un jeu, d'une bonne bière, ou simplement pour papoter. J'ai l'habitude d'animer des groupes et je me ferai un plaisir de vous expliquer des jeux.</p>
-                            <p class="fst-italic text-justify">"Le bonheur le plus doux est celui qu'on partage." Jacques Delille</p>
                         </div>
                     </div>
                 </div>
