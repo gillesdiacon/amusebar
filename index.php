@@ -56,14 +56,29 @@ require_once("init.php");
             </div>
         </div>
 
-<!--        <div class="row justify-content-center text-center pt-3">-->
-<!--            <div class="col-lg-3">-->
-<!--                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />-->
-<!--            </div>-->
-<!--            <div class="col-lg-3">-->
-<!--                -->
-<!--            </div>-->
-<!--        </div>-->
+        <div class="row justify-content-center text-center pt-3">
+            <div class="col-lg-3">
+                <video width="100%" controls poster="image/parc-des-cretets.png" title="L'Amuse-Parc: Parc des Crêtets - jeux, concerts, animations, bar-restauration">
+                    <source src="files/parc-des-cretets.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div class="col-lg-3">
+                <video width="100%" controls poster="image/recherche-cuisinier" title="L'Amuse-Bar: recherche cuisinier">
+                    <source src="files/recherche-cuisinier.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+
+        <div class="row justify-content-center text-center pt-3">
+            <div class="col-lg-3">
+                <video width="100%" controls poster="image/recherche-barman-serveur" title="L'Amuse-Bar: recherche barman / serveur">
+                    <source src="files/recherche-barman-serveur.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div class="col-lg-3">
+                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+            </div>
+        </div>
 
     </div>
 </div>
