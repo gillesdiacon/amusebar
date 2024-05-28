@@ -13,9 +13,7 @@
             <table class="table border-dark border-2 fw-bold">
                 <tr class="border-2 border-start-0 border-end-0 border-dark">
                     <td class="text-end border-0">Lundi:</td>
-                    <td class="text-center border-0">15h00</td>
-                    <td class="text-center border-0">-</td>
-                    <td class="text-center border-0">22h00</td>
+                    <td class="text-center border-0" colspan="3">fermé</td>
                     <td class="px-2 border-0"></td>
                 </tr>
                 <tr class="border-2 border-top-0 border-start-0 border-end-0 border-dark">
@@ -26,35 +24,35 @@
 
                 <tr class="border-2 border-top-0 border-start-0 border-end-0 border-dark">
                     <td class="text-end border-0">Mercredi:</td>
-                    <td class="text-center border-0">14h00</td>
+                    <td class="text-center border-0">16h00</td>
                     <td class="text-center border-0">-</td>
                     <td class="text-center border-0">22h00</td>
                     <td class="px-2 border-0"></td>
                 </tr>
                 <tr class="border-2 border-top-0 border-start-0 border-end-0 border-dark">
                     <td class="text-end border-0">Jeudi:</td>
-                    <td class="text-center border-0">14h00</td>
+                    <td class="text-center border-0">16h00</td>
                     <td class="text-center border-0">-</td>
                     <td class="text-center border-0">00h00</td>
                     <td class="px-2 border-0"></td>
                 </tr>
                 <tr class="border-2 border-top-0 border-start-0 border-end-0 border-dark">
                     <td class="text-end border-0">Vendredi:</td>
-                    <td class="text-cente border-0r">15h00</td>
+                    <td class="text-cente border-0r">16h00</td>
                     <td class="text-center border-0">-</td>
                     <td class="text-center border-0">01h00</td>
                     <td class="px-2 border-0"></td>
                 </tr>
                 <tr class="border-2 border-top-0 border-start-0 border-end-0 border-dark">
                     <td class="text-end border-0">Samedi:</td>
-                    <td class="text-center border-0">11h00</td>
+                    <td class="text-center border-0">15h00</td>
                     <td class="text-center border-0">-</td>
                     <td class="text-center border-0">01h00</td>
                     <td class="px-2 border-0"></td>
                 </tr>
                 <tr class="border-2 border-top-0 border-bottom-0 border-start-0 border-end-0 border-dark">
                     <td class="text-end border-0 pb-0">Dimanche:</td>
-                    <td class="text-center border-0 pb-0">11h00</td>
+                    <td class="text-center border-0 pb-0">15h00</td>
                     <td class="text-center border-0 pb-0">-</td>
                     <td class="text-center border-0 pb-0">21h00</td>
                     <td class="px-2 border-0 pb-0"></td>
