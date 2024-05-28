@@ -32,23 +32,14 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <video width="100%" controls poster="image/event-semaine15.png" title="L'Amuse-Bar: programme de la semaine du lundi 8 avril">
-                    <source src="files/event-semaine15.mp4" type="video/mp4">
+                <video width="100%" controls poster="image/event-semaine22.png" title="L'Amuse-Bar: programme de la semaine du lundi 8 avril">
+                    <source src="files/event-semaine22.mp4" type="video/mp4">
                 </video>
             </div>
             <div class="col-lg-3">
-                <a target="_blank" href="https://mailchi.mp/307a8c711615/les-news-de-lamuse-bar">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2024_04.png" title="L'Amuse-Bar: newsletter avril 2024" />
+                <a target="_blank" href="https://mailchi.mp/d008dba99b44/les-news-de-lamuse-bar-12673307">
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2024_05.png" title="L'Amuse-Bar: newsletter mai 2024" />
                 </a>
-            </div>
-        </div>
-
-        <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-poker.png" title="L'Amuse-Bar: initiation poker le jeudi 11 avril" />
-            </div>
-            <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-mondayFondueCards.png" title="L'Amuse-Bar: fondue - match aux cartes - lundi 29 avril 2024" />
             </div>
         </div>
 
@@ -59,7 +50,9 @@ require_once("init.php");
                 </video>
             </div>
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/specialOpening.png" title="L'Amuse-Bar: horaire de printemps" />
+                <video width="100%" controls poster="image/summer-opening.png" title="L'Amuse-Bar: horaires à partir du 1er juin 2024">
+                    <source src="files/summer-opening.mp4" type="video/mp4">
+                </video>
             </div>
         </div>
 
