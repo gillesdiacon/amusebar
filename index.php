@@ -32,51 +32,36 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <video width="100%" controls poster="image/event-semaine22.png" title="L'Amuse-Bar: programme de la semaine du lundi 8 avril">
-                    <source src="files/event-semaine22.mp4" type="video/mp4">
-                </video>
-            </div>
-            <div class="col-lg-3">
-                <a target="_blank" href="https://mailchi.mp/d008dba99b44/les-news-de-lamuse-bar-12673307">
-                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/newsletter_2024_05.png" title="L'Amuse-Bar: newsletter mai 2024" />
-                </a>
-            </div>
-        </div>
-
-        <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-3">
-                <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
-                    <source src="files/event-blindTest.mp4" type="video/mp4">
-                </video>
-            </div>
-            <div class="col-lg-3">
-                <video width="100%" controls poster="image/summer-opening.png" title="L'Amuse-Bar: horaires à partir du 1er juin 2024">
-                    <source src="files/summer-opening.mp4" type="video/mp4">
-                </video>
-            </div>
-        </div>
-
-        <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-3">
                 <video width="100%" controls poster="image/parc-des-cretets.png" title="L'Amuse-Parc: Parc des Crêtets - jeux, concerts, animations, bar-restauration">
                     <source src="files/parc-des-cretets.mp4" type="video/mp4">
                 </video>
             </div>
             <div class="col-lg-3">
-                <video width="100%" controls poster="image/recherche-cuisinier" title="L'Amuse-Bar: recherche cuisinier">
-                    <source src="files/recherche-cuisinier.mp4" type="video/mp4">
+                <video width="100%" controls poster="image/specialOpening.png" title="L'Amuse-Parc: horaires adapté pour Parc des Crêtets">
+                    <source src="files/specialOpening.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <video width="100%" controls poster="image/recherche-barman-serveur" title="L'Amuse-Bar: recherche barman / serveur">
-                    <source src="files/recherche-barman-serveur.mp4" type="video/mp4">
+                <video width="100%" controls poster="image/event-semaine26.png" title="L'Amuse-Parc: animations du 24 juin au 30 juin">
+                    <source src="files/event-semaine26.mp4" type="video/mp4">
+                </video>
+            </div>
+            <div class="col-lg-3">&nbsp;</div>
+        </div>
+
+        <div class="row justify-content-center text-center pt-3">
+            <div class="col-lg-3">
+                <video width="100%" controls poster="image/recherche-cuisinier.png" title="L'Amuse-Bar: recherche cuisinier">
+                    <source src="files/recherche-cuisinier.mp4" type="video/mp4">
                 </video>
             </div>
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
+                <video width="100%" controls poster="image/recherche-barman-serveur.png" title="L'Amuse-Bar: recherche barman / serveur">
+                    <source src="files/recherche-barman-serveur.mp4" type="video/mp4">
+                </video>
             </div>
         </div>
 

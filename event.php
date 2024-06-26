@@ -34,24 +34,24 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-initiation-mahjong.png" title="L'Amuse-Bar: initiation Majhong - tous les 2e et 4e jeudi du mois" />
+                        <video width="100%" controls poster="image/parc-des-cretets.png" title="L'Amuse-Parc: Parc des Crêtets - jeux, concerts, animations, bar-restauration">
+                            <source src="files/parc-des-cretets.mp4" type="video/mp4">
+                        </video>
                     </div>
                     <div class="col-lg-6 p-3">
-                        <video width="100%" controls poster="image/event-blindTest-videoPoster.png" title="L'Amuse-Bar: blind test tous les vendredi à 19h">
-                            <source src="files/event-blindTest.mp4" type="video/mp4">
+                        <video width="100%" controls poster="image/specialOpening.png" title="L'Amuse-Parc: horaires adapté pour Parc des Crêtets">
+                            <source src="files/specialOpening.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-concert-lena.png" title="L'Amuse-Bar: concert Lena - samedi 1er juin 2024" />
+                        <video width="100%" controls poster="image/event-semaine26.png" title="L'Amuse-Parc: animations du 24 juin au 30 juin">
+                            <source src="files/event-semaine26.mp4" type="video/mp4">
+                        </video>
                     </div>
-                    <div class="col-lg-6 p-3">
-                        <a target="_blank" href="event-rolePlay.php">
-                            <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-jdr.png" title="L'Amuse-Bar: soirée jeu de rôle - mercredi 24 avril, 22 mai et 19 juin" />
-                        </a>
-                    </div>
+                    <div class="col-lg-6 p-3">&nbsp;</div>
                 </div>
 
                 <div class="row">
@@ -60,11 +60,6 @@ require_once("init.php");
                     </div>
                     <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0 hover-border-primary-2" src="image/event-murderParty-conspirationEnHautesSpheres.png" title="L'Amuse-Bar: conspiration en hautes spères - 26 avril 2024" />
-                        <div class="text-center font-raleway fw-bold">
-                            <a target="_blank" href="https://diversi0n.com/evenement/conspiration-en-hautes-spheres-amuse-bar-26-avril-2024/">
-                                <i class="bi bi-envelope pe-2"></i>inscription sur le site www.diversi0n.com
-                            </a>
-                        </div>
                     </div>
                 </div>
 
