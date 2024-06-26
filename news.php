@@ -36,6 +36,28 @@ require_once("init.php");
 
                         <div class="row px-4 py-4">
                             <div class="col-lg-3 text-center">
+                                <a target="_blank" href="https://mailchi.mp/5492b91510d1/les-news-de-lamuse-bar-12675795">
+                                    <img src="image/newsletter_2024_06.png" width="100%" />
+                                </a>
+                            </div>
+                            <div class="col d-none d-lg-block">
+                                <div class="fw-bold">Juin 2024</div>
+                                <span class="align-middle">Le beau temps se fait désirer, mais nous
+                                    espérons que le mois de juin sera ensoleillé. Nous vous avons
+                                    concocté un programme de dingue pour fêter l’arrivée de l’été !
+                                    Nous nous réjouissons de passer ce 2ème été avec vous, et
+                                    nous espérons que vous profiterez bien de nos animations.<br />
+                                    Venez nous rendre visite, entre amis-es ou en famille, et si vous
+                                    êtes seul-e, vous ferez de belles rencontres, soyez en sûr-e.
+                                    N’hésitez pas à transmettre cette newsletter à vos amis-es,
+                                    collègues et famille, car plus on est de fous, plus on rit !<br />
+                                    <br />
+                                    C’est parti pour un mois festif ! Bonne lecture.</span>
+                            </div>
+                        </div>
+
+                        <div class="row px-4 py-4">
+                            <div class="col-lg-3 text-center">
                                 <a target="_blank" href="https://mailchi.mp/d008dba99b44/les-news-de-lamuse-bar-12673307">
                                     <img src="image/newsletter_2024_05.png" width="100%" />
                                 </a>
