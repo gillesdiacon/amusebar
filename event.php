@@ -39,7 +39,7 @@ require_once("init.php");
                         </video>
                     </div>
                     <div class="col-lg-6 p-3">
-                        <video width="100%" controls poster="image/specialOpening.png" title="L'Amuse-Parc: horaires adapté pour Parc des Crêtets">
+                        <video width="100%" controls poster="image/specialOpeningParcCretets.png" title="L'Amuse-Parc: horaires adapté pour Parc des Crêtets">
                             <source src="files/specialOpening.mp4" type="video/mp4">
                         </video>
                     </div>
