@@ -31,6 +31,14 @@ require_once("init.php");
         </div>
 
         <div class="row justify-content-center text-center pt-3">
+            <div class="col-lg-6">
+                <a target="_blank" href="files/event-programmeParcCretet.pdf">
+                    <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-programmeParcCretet.png" title="L'Amuse-Bar: Programme parc des Crêtets" />
+                </a>
+            </div>
+        </div>
+
+        <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
                 <video width="100%" controls poster="image/parc-des-cretets.png" title="L'Amuse-Parc: Parc des Crêtets - jeux, concerts, animations, bar-restauration">
                     <source src="files/parc-des-cretets.mp4" type="video/mp4">
@@ -41,15 +49,6 @@ require_once("init.php");
                     <source src="files/specialOpening.mp4" type="video/mp4">
                 </video>
             </div>
-        </div>
-
-        <div class="row justify-content-center text-center pt-3">
-            <div class="col-lg-3">
-                <video width="100%" controls poster="image/event-semaine26.png" title="L'Amuse-Parc: animations du 24 juin au 30 juin">
-                    <source src="files/event-semaine26.mp4" type="video/mp4">
-                </video>
-            </div>
-            <div class="col-lg-3">&nbsp;</div>
         </div>
 
         <div class="row justify-content-center text-center pt-3">

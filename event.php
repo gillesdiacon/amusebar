@@ -47,15 +47,6 @@ require_once("init.php");
 
                 <div class="row">
                     <div class="col-lg-6 p-3">
-                        <video width="100%" controls poster="image/event-semaine26.png" title="L'Amuse-Parc: animations du 24 juin au 30 juin">
-                            <source src="files/event-semaine26.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                    <div class="col-lg-6 p-3">&nbsp;</div>
-                </div>
-
-                <div class="row">
-                    <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
                     </div>
                     <div class="col-lg-6 p-3">
