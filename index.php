@@ -32,9 +32,6 @@ require_once("init.php");
 
         <div class="row justify-content-center text-center pt-3">
             <div class="col-lg-3">
-                <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-plage6pompes.png" title="L'Amuse-Bar: à la plage des 6 pompes" />
-            </div>
-            <div class="col-lg-3">
                 <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/specialOpening.png" title="L'Amuse-Bar: fermé du 28 juillet au 19 août" />
             </div>
         </div>
