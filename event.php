@@ -32,6 +32,27 @@ require_once("init.php");
                 <div class="h1 py-3 text-center"><?php echo $activeMenuTitle?></div>
                 <p>L'Amuse-Bar organise pour votre plaisir des animations régulières autours de différentes activités ludiques</p>
 
+                <div class="row justify-content-center text-center pt-3">
+                    <div class="col-lg-6 p-3">
+                        <video width="100%" controls poster="image/event-pirate.png" title="L'Amuse-Bar: soirée pirate le vendredi 27 septembre 2024">
+                            <source src="files/event-pirate.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                </div>
+
+                <div class="row justify-content-center text-center pt-3">
+                    <div class="col-lg-6 p-3">
+                        <video width="100%" controls poster="image/event-asiatique.png" title="L'Amuse-Bar: soirée asiatique le jeudi 3 octobre 2024">
+                            <source src="files/event-asiatique.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="col-lg-6 p-3">
+                        <video width="100%" controls poster="image/event-burgerQuiz.png" title="L'Amuse-Bar: soirée burger quiz le samedi 5 octobre 2024">
+                            <source src="files/event-burgerQuiz.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                </div>
+
                 <div class="row">
                     <div class="col-lg-6 p-3">
                         <img class="img-fluid p-3 p-sm-4 p-md-5 p-lg-0" src="image/event-lundiFondue.png" title="L'Amuse-Bar: Lundi fondue tous les lundis" />
