@@ -46,7 +46,6 @@ require_once("init.php");
                                 </div>
                                 <div class="col-3">
                                     <a target="_blank" href="catering/lamusebar-carte.pdf">
-                                        <div class="text-center">Règles du jeu</div>
                                         <div class="text-center">carte restauration</div>
                                         <div class="text-center">carte boissons</div>
                                     </a>
